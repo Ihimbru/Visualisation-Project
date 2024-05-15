@@ -1,0 +1,1161 @@
+CustomerKey,CustomerName,CustomerCountry,CustomerCity,CustomerPostalCode,CustomerStreet,PlantKey,FullAddress,Latitude,Longitude
+1,O'Hara-MacGyver,Germany,Hamburg,22041,36 Westport Court,4,"36 Westport Court, Hamburg, 22041, Germany",53.5754959,10.0807485
+2,"Smitham, Lind and Lindgren",Germany,München,81679,934 Shelley Lane,4,"934 Shelley Lane, München, 81679, Germany",48.1440135,11.6074275
+3,Becker-Heller,Germany,Halle,6116,7576 Browning Terrace,4,"7576 Browning Terrace, Halle, 6116, Germany",51.4787653,12.0365785
+4,Runolfsdottir Inc,Germany,Essen,45141,862 Gateway Center,4,"862 Gateway Center, Essen, 45141, Germany",51.4780256,7.0328812
+5,Hoppe Group,Germany,Hamburg Sankt Pauli,20459,69815 Ridgeview Center,4,"69815 Ridgeview Center, Hamburg Sankt Pauli, 20459, Germany",53.5472987,9.9778279
+6,Pouros-Reinger,Germany,Wuppertal,42285,29 Bowman Point,4,"29 Bowman Point, Wuppertal, 42285, Germany",51.256002,7.1736304
+7,Schaden-Kessler,Germany,Dresden,1189,54135 Lake View Parkway,4,"54135 Lake View Parkway, Dresden, 1189, Germany",51.0504088,13.7372621
+8,Barrows-Volkman,Belgium,Ninove,9404,78761 Hintze Point,4,"78761 Hintze Point, Ninove, 9404, Belgium",50.8336436,4.0187415
+9,"Schulist, Green and Kessler",Germany,Dresden,1462,15723 Bartillon Lane,4,"15723 Bartillon Lane, Dresden, 1462, Germany",51.0504088,13.7372621
+10,Windler-Daniel,Germany,Köln,51149,4719 Sycamore Hill,4,"4719 Sycamore Hill, Köln, 51149, Germany",50.9093945,7.0486698
+11,Champlin and Sons,Germany,Hamburg,20249,74595 Kinsman Point,4,"74595 Kinsman Point, Hamburg, 20249, Germany",53.5900195,9.9897946
+12,"Quitzon, Walter and Kessler",Germany,München,80337,6608 Brickson Park Street,4,"6608 Brickson Park Street, München, 80337, Germany",48.1251024,11.5584376
+13,"Murray, Bahringer and Armstrong",Germany,Cottbus,3055,437 Packers Park,4,"437 Packers Park, Cottbus, 3055, Germany",51.7941895,14.3056705
+14,"Gutkowski, White and Beatty",Germany,Freiburg im Breisgau,79106,22 Melvin Trail,4,"22 Melvin Trail, Freiburg im Breisgau, 79106, Germany",48.0044582,7.8374651
+15,Monahan-Rau,Germany,Hamburg Sankt Pauli,20459,6 Becker Point,4,"6 Becker Point, Hamburg Sankt Pauli, 20459, Germany",53.5472987,9.9778279
+16,Kunze-Nikolaus,Germany,Hannover,30453,79 Nevada Trail,4,"79 Nevada Trail, Hannover, 30453, Germany",38.8026097,-116.419389
+17,"Veum, Mante and Will",Belgium,Namur,5100,95 Coolidge Court,4,"95 Coolidge Court, Namur, 5100, Belgium",50.4198861,4.9246444
+18,Jast-West,Germany,München,80995,370 7th Parkway,4,"370 7th Parkway, München, 80995, Germany",48.2115037,11.5131806
+19,"Quigley, Schamberger and O'Keefe",Germany,Lübeck,23568,94466 Menomonie Plaza,4,"94466 Menomonie Plaza, Lübeck, 23568, Germany",53.903083,10.7533775
+20,Dooley Group,Germany,Kassel,34132,87424 Bunker Hill Place,4,"87424 Bunker Hill Place, Kassel, 34132, Germany",51.3127114,9.4797461
+21,Kris-Deckow,Germany,Hannover,30167,87 6th Pass,4,"87 6th Pass, Hannover, 30167, Germany",52.3863062,9.7156831
+22,Sawayn-Langosh,Germany,Stuttgart,70374,8274 Badeau Court,4,"8274 Badeau Court, Stuttgart, 70374, Germany",48.8096645,9.2415192
+23,"Lockman, Anderson and Aufderhar",Belgium,Bouillon,6834,815 Lotheville Park,4,"815 Lotheville Park, Bouillon, 6834, Belgium",49.8417042,5.1214901
+24,Dach-Hauck,Germany,Frankfurt am Main,60325,43077 North Terrace,4,"43077 North Terrace, Frankfurt am Main, 60325, Germany",50.1109221,8.6821267
+25,Crooks and Sons,Germany,Halle,6116,94402 Longview Place,4,"94402 Longview Place, Halle, 6116, Germany",51.4953567,11.9662371
+26,Harber Group,Germany,Münster,48161,6 Porter Hill,4,"6 Porter Hill, Münster, 48161, Germany",51.9601912,7.5468477
+27,Little-Ankunding,Germany,Frankfurt am Main,60325,5 Banding Pass,4,"5 Banding Pass, Frankfurt am Main, 60325, Germany",50.1157078,8.6591469
+28,"Hahn, Torp and Welch",Germany,Neuss,41468,873 Aberg Pass,4,"873 Aberg Pass, Neuss, 41468, Germany",51.1615558,6.774529
+29,"Johnson, Legros and Rosenbaum",Germany,Stuttgart,70567,68 Homewood Court,4,"68 Homewood Court, Stuttgart, 70567, Germany",48.7226206,9.1584836
+30,"Shields, Harber and Goldner",Germany,Halle,6126,80 Novick Parkway,4,"80 Novick Parkway, Halle, 6126, Germany",51.4790619,11.9027428
+31,"Legros, Crona and Rippin",Germany,Hamburg Harvestehude,20249,48499 Drewry Hill,4,"48499 Drewry Hill, Hamburg Harvestehude, 20249, Germany",53.5900195,9.9897946
+32,"Carter, Willms and Schneider",Germany,München,81373,6778 Truax Parkway,4,"6778 Truax Parkway, München, 81373, Germany",48.1214727,11.5322563
+33,"Terry, Carroll and Gottlieb",Germany,München,80995,6911 Onsgard Street,4,"6911 Onsgard Street, München, 80995, Germany",48.2115037,11.5131806
+34,"Ortiz, Stamm and Abshire",Belgium,Charleroi,6042,33 Warrior Crossing,4,"33 Warrior Crossing, Charleroi, 6042, Belgium",50.4315612,4.4472854
+35,Walker-Deckow,Germany,Kiel,24109,9 Meadow Valley Pass,4,"9 Meadow Valley Pass, Kiel, 24109, Germany",54.3171885,10.0477345
+36,"Fadel, Trantow and Kohler",Germany,Dillenburg,35687,69991 Manley Street,4,"69991 Manley Street, Dillenburg, 35687, Germany",50.7218455,8.3073813
+37,Ruecker-Leannon,Belgium,Péruwelz,7604,0369 Golf Course Pass,4,"0369 Golf Course Pass, Péruwelz, 7604, Belgium",50.5474037,3.5567339
+38,"Shields, Mitchell and Breitenberg",Germany,Düsseldorf,40489,79 Melvin Crossing,4,"79 Melvin Crossing, Düsseldorf, 40489, Germany",51.3305246,6.7625867
+39,Hermiston Group,Germany,Heilbronn,74080,19283 Holmberg Place,4,"19283 Holmberg Place, Heilbronn, 74080, Germany",49.1376432,9.1776059
+40,Carroll-Feest,Germany,Berlin,14199,993 Graedel Avenue,4,"993 Graedel Avenue, Berlin, 14199, Germany",52.4767935,13.2962036
+41,Koelpin LLC,Germany,Köln,50674,3836 Bunting Center,4,"3836 Bunting Center, Köln, 50674, Germany",50.937531,6.9602786
+42,"Auer, Price and Jerde",Germany,Berlin,14109,8 Pleasure Court,4,"8 Pleasure Court, Berlin, 14109, Germany",52.415113,13.1468678
+43,Rogahn LLC,Germany,Hamburg,20249,539 Little Fleur Place,4,"539 Little Fleur Place, Hamburg, 20249, Germany",53.5900195,9.9897946
+44,O'Reilly-Rempel,Germany,Augsburg,86156,666 Hanson Avenue,4,"666 Hanson Avenue, Augsburg, 86156, Germany",48.3920947,10.8553557
+45,"McClure, Emard and Streich",Germany,Chemnitz,9116,5 Florence Alley,4,"5 Florence Alley, Chemnitz, 9116, Germany",50.8290179,12.872972
+46,Boyle-O'Reilly,Germany,Wetzlar,35581,01 Dennis Circle,4,"01 Dennis Circle, Wetzlar, 35581, Germany",50.5487974,8.5763725
+47,Connelly-Glover,Germany,Hamburg,22453,2 Lunder Hill,4,"2 Lunder Hill, Hamburg, 22453, Germany",53.6125259,9.9659855
+48,"Larson, Reichert and Pfannerstill",Germany,Ludwigshafen am Rhein,67067,09 Ryan Park,4,"09 Ryan Park, Ludwigshafen am Rhein, 67067, Germany",49.4467351,8.415992
+49,Heathcote-Romaguera,Belgium,Bruxelles,1170,8844 Almo Parkway,4,"8844 Almo Parkway, Bruxelles, 1170, Belgium",50.8260453,4.3802052
+50,Quigley-Hodkiewicz,Belgium,Antwerpen,2170,39 High Crossing Terrace,4,"39 High Crossing Terrace, Antwerpen, 2170, Belgium",51.2472392,4.4403455
+51,Padberg Inc,Germany,Mülheim an der Ruhr,45473,0 Heath Center,4,"0 Heath Center, Mülheim an der Ruhr, 45473, Germany",51.441874,6.886548
+52,Bergnaum LLC,Germany,Lübeck,23568,192 Petterle Crossing,4,"192 Petterle Crossing, Lübeck, 23568, Germany",53.903083,10.7533775
+53,Bailey Group,Germany,Hamburg Bramfeld,22179,75 Grayhawk Court,4,"75 Grayhawk Court, Hamburg Bramfeld, 22179, Germany",53.607925,10.0852568
+54,"Buckridge, Abshire and Koss",Germany,Witzenhausen,37217,193 Morning Park,4,"193 Morning Park, Witzenhausen, 37217, Germany",51.349366,9.7730968
+55,"McClure, Blick and Schultz",Germany,Bremen,28239,75 North Lane,4,"75 North Lane, Bremen, 28239, Germany",53.132048,8.7398289
+56,Batz Group,Germany,Köln,51107,0170 Glendale Court,4,"0170 Glendale Court, Köln, 51107, Germany",50.9173381,7.0902515
+57,Runte-Vandervort,Germany,Magdeburg,39130,938 Harbort Way,4,"938 Harbort Way, Magdeburg, 39130, Germany",52.1557661,11.5721966
+58,Emard-Cronin,Germany,Hamburg Bramfeld,22179,97243 Karstens Lane,4,"97243 Karstens Lane, Hamburg Bramfeld, 22179, Germany",53.6132273,10.0872317
+59,"Douglas, Murazik and Zieme",Germany,Halle,6116,0 Walton Avenue,4,"0 Walton Avenue, Halle, 6116, Germany",51.4787653,12.0365785
+60,"Bradtke, Jakubowski and Nicolas",Germany,Hamburg,22453,7 Larry Crossing,4,"7 Larry Crossing, Hamburg, 22453, Germany",53.6125259,9.9659855
+61,"Walker, Stracke and Bechtelar",Germany,Berlin,12683,652 International Alley,4,"652 International Alley, Berlin, 12683, Germany",52.4981613,13.5581889
+62,"Rempel, Purdy and Deckow",Germany,Berlin,10823,83 Westridge Point,4,"83 Westridge Point, Berlin, 10823, Germany",52.4856992,13.3488258
+63,Littel LLC,Germany,Berlin,13088,55688 Sundown Alley,4,"55688 Sundown Alley, Berlin, 13088, Germany",52.5593051,13.4761485
+64,Schowalter and Sons,Belgium,Mons,7032,12458 Burrows Park,4,"12458 Burrows Park, Mons, 7032, Belgium",50.4546634,3.9523135
+65,Aufderhar Group,Germany,München,81679,01 Cottonwood Alley,4,"01 Cottonwood Alley, München, 81679, Germany",48.1351253,11.5819806
+66,Jacobson LLC,Germany,Dortmund,44369,992 Eagan Alley,4,"992 Eagan Alley, Dortmund, 44369, Germany",51.5353894,7.4091222
+67,Stanton-Nienow,Germany,Bremen,28239,95 Bonner Pass,4,"95 Bonner Pass, Bremen, 28239, Germany",53.0771771,8.9334792
+68,Denesik-Lesch,Germany,Köln,50935,92 Spohn Avenue,4,"92 Spohn Avenue, Köln, 50935, Germany",50.9210958,6.8968829
+69,McClure-Wolf,Germany,Dortmund,44143,4 Morning Alley,4,"4 Morning Alley, Dortmund, 44143, Germany",51.5195303,7.5123813
+70,Walker-Oberbrunner,Germany,Berlin,10587,68 Hintze Avenue,4,"68 Hintze Avenue, Berlin, 10587, Germany",52.5199521,13.3007916
+71,Smitham-Ernser,Germany,Stuttgart,70567,1394 Golf Course Lane,4,"1394 Golf Course Lane, Stuttgart, 70567, Germany",48.7226206,9.1584836
+72,Towne-Weber,Germany,Wiesbaden,65191,0 Hallows Way,4,"0 Hallows Way, Wiesbaden, 65191, Germany",50.0897141,8.271907
+73,VonRueden LLC,Germany,Berlin,10409,7286 Forest Hill,4,"7286 Forest Hill, Berlin, 10409, Germany",52.5433958,13.4413606
+74,"Balistreri, Koelpin and Mayert",Germany,Berlin,12559,7 Corry Alley,4,"7 Corry Alley, Berlin, 12559, Germany",52.416925,13.6492904
+75,Rath and Sons,Germany,Bielefeld,33619,4804 Golden Leaf Lane,4,"4804 Golden Leaf Lane, Bielefeld, 33619, Germany",52.0404442,8.4770585
+76,Nicolas and Sons,Germany,Hanau,63456,96667 Onsgard Circle,4,"96667 Onsgard Circle, Hanau, 63456, Germany",50.104315,8.911141
+77,"Bashirian, Herman and McDermott",Germany,Hannover,30629,00 Harbort Junction,4,"00 Harbort Junction, Hannover, 30629, Germany",52.3927372,9.8476686
+78,"Mann, Borer and Cormier",Belgium,Bouillon,6834,5 Moulton Lane,4,"5 Moulton Lane, Bouillon, 6834, Belgium",49.7946562,5.070639
+79,"Dooley, Legros and Fritsch",Germany,Frankfurt am Main,60325,8 Canary Pass,4,"8 Canary Pass, Frankfurt am Main, 60325, Germany",50.1157078,8.6591469
+80,Strosin LLC,Germany,Berlin,12169,983 Dennis Hill,4,"983 Dennis Hill, Berlin, 12169, Germany",52.4555293,13.339803
+81,Bruen and Sons,Germany,Stuttgart Stuttgart-Mitte,70180,847 Oakridge Center,4,"847 Oakridge Center, Stuttgart Stuttgart-Mitte, 70180, Germany",48.7643143,9.1752629
+82,Hartmann and Sons,Germany,Hamburg Winterhude,22303,38427 Elgar Street,4,"38427 Elgar Street, Hamburg Winterhude, 22303, Germany",53.5910631,10.0260615
+83,Oberbrunner-Predovic,Germany,Essen,45141,76 Clemons Hill,4,"76 Clemons Hill, Essen, 45141, Germany",51.4780256,7.0328812
+84,Volkman-Hessel,Germany,Solingen,42659,7922 Warner Road,4,"7922 Warner Road, Solingen, 42659, Germany",51.1461168,7.1220857
+85,"Rosenbaum, Kris and Bailey",Germany,Augsburg,86156,92177 Leroy Pass,4,"92177 Leroy Pass, Augsburg, 86156, Germany",48.3920947,10.8553557
+86,"Hickle, Wehner and Schuster",Belgium,Bruxelles,1050,2 Welch Drive,4,"2 Welch Drive, Bruxelles, 1050, Belgium",50.8235717,4.3766927
+87,Friesen and Sons,Germany,Dortmund,44143,8213 Green Junction,4,"8213 Green Junction, Dortmund, 44143, Germany",51.5195303,7.5123813
+88,"Murray, Dach and Koch",Germany,Hamburg,22041,86371 Tomscot Plaza,4,"86371 Tomscot Plaza, Hamburg, 22041, Germany",53.5488282,9.9871703
+89,"Hansen, Zboncak and McCullough",Germany,Wuppertal,42349,7 Sage Trail,4,"7 Sage Trail, Wuppertal, 42349, Germany",51.2034374,7.1301012
+90,"Borer, Gibson and Reynolds",Germany,Mülheim an der Ruhr,45473,41 David Lane,4,"41 David Lane, Mülheim an der Ruhr, 45473, Germany",51.441874,6.886548
+91,Cremin-Breitenberg,Germany,Berlin,12103,00483 Heffernan Park,4,"00483 Heffernan Park, Berlin, 12103, Germany",52.4639426,13.3728893
+92,Mueller Inc,Germany,Wiesbaden,65191,203 Birchwood Trail,4,"203 Birchwood Trail, Wiesbaden, 65191, Germany",50.0897141,8.271907
+93,Cartwright Inc,Germany,Berlin,13509,68856 Bay Circle,4,"68856 Bay Circle, Berlin, 13509, Germany",52.5200066,13.404954
+94,Wilkinson Inc,Germany,Dresden,1189,6 Starling Drive,4,"6 Starling Drive, Dresden, 1189, Germany",51.0504088,13.7372621
+95,Schuppe Inc,Germany,Hamburg,22559,001 Judy Court,4,"001 Judy Court, Hamburg, 22559, Germany",53.5830905,9.7537598
+96,Ondricka-Carroll,Germany,Hannover,30453,25309 Burrows Way,4,"25309 Burrows Way, Hannover, 30453, Germany",52.3758916,9.7320104
+97,Wisozk Group,Belgium,Bruxelles,1170,09 Village Green Plaza,4,"09 Village Green Plaza, Bruxelles, 1170, Belgium",50.7881573,4.4180065
+98,McKenzie and Sons,Germany,Heilbronn,74080,37 Nancy Pass,4,"37 Nancy Pass, Heilbronn, 74080, Germany",49.1376432,9.1776059
+99,"Baumbach, Nolan and Barrows",Belgium,Ninove,9404,88222 Arapahoe Center,4,"88222 Arapahoe Center, Ninove, 9404, Belgium",50.8441986,3.9438609
+100,"Kunze, Emmerich and Sporer",Belgium,Gent,9052,251 Atwood Road,4,"251 Atwood Road, Gent, 9052, Belgium",51.0003903,3.7139045
+101,Jakubowski-Greenfelder,Germany,Würzburg,97078,3 Rieder Lane,4,"3 Rieder Lane, Würzburg, 97078, Germany",49.7522194,9.9412178
+102,Monahan LLC,Germany,Wiesbaden,65191,7 Eagan Avenue,4,"7 Eagan Avenue, Wiesbaden, 65191, Germany",50.0897141,8.271907
+103,Stracke-Dare,Germany,Hamburg Sankt Pauli,20459,42698 Del Mar Point,4,"42698 Del Mar Point, Hamburg Sankt Pauli, 20459, Germany",53.5472987,9.9778279
+104,Mohr and Sons,Germany,Leipzig,4288,5858 Bobwhite Crossing,4,"5858 Bobwhite Crossing, Leipzig, 4288, Germany",51.2928924,12.4645518
+105,Heathcote Inc,Germany,Düsseldorf,40215,03073 Mayer Hill,4,"03073 Mayer Hill, Düsseldorf, 40215, Germany",51.2149435,6.7825598
+106,Pacocha LLC,Germany,Düsseldorf,40225,130 Continental Point,4,"130 Continental Point, Düsseldorf, 40225, Germany",51.1974375,6.7898817
+107,Brekke and Sons,Germany,Hamburg,22769,5 Meadow Ridge Trail,4,"5 Meadow Ridge Trail, Hamburg, 22769, Germany",53.5662722,9.9471012
+108,Hickle LLC,Belgium,Mons,7032,6548 Prairieview Street,4,"6548 Prairieview Street, Mons, 7032, Belgium",50.4271996,3.989666
+109,Kemmer-Smith,Germany,Dresden,1462,37258 Iowa Trail,4,"37258 Iowa Trail, Dresden, 1462, Germany",51.0504088,13.7372621
+110,Reichel Inc,Germany,Hamburg,22559,2 Logan Lane,4,"2 Logan Lane, Hamburg, 22559, Germany",53.5830905,9.7537598
+111,"Jaskolski, Wiegand and Dickens",Germany,Düsseldorf,40225,842 Fisk Junction,4,"842 Fisk Junction, Düsseldorf, 40225, Germany",51.1974375,6.7898817
+112,Davis Inc,Germany,Frankfurt am Main,60325,013 Hovde Parkway,4,"013 Hovde Parkway, Frankfurt am Main, 60325, Germany",50.1157078,8.6591469
+113,Hayes Group,Germany,Stuttgart,70190,30131 Briar Crest Place,4,"30131 Briar Crest Place, Stuttgart, 70190, Germany",48.7893977,9.1962771
+114,Streich Group,Germany,Freiburg im Breisgau,79114,70 Myrtle Crossing,4,"70 Myrtle Crossing, Freiburg im Breisgau, 79114, Germany",47.9963155,7.8107621
+115,McCullough-Kihn,Germany,Berlin,10179,656 Longview Court,4,"656 Longview Court, Berlin, 10179, Germany",52.5121401,13.414046
+116,Vandervort Inc,Germany,Remscheid,42897,390 Petterle Alley,4,"390 Petterle Alley, Remscheid, 42897, Germany",51.1730117,7.2822788
+117,Lubowitz Group,Germany,Wiesbaden,65191,0962 Autumn Leaf Point,4,"0962 Autumn Leaf Point, Wiesbaden, 65191, Germany",50.0897141,8.271907
+118,Sanford Inc,Germany,Nürnberg,90411,8378 Cherokee Point,4,"8378 Cherokee Point, Nürnberg, 90411, Germany",49.4904742,11.0986834
+119,Brekke-Fritsch,Germany,Dortmund,44143,7 Autumn Leaf Crossing,4,"7 Autumn Leaf Crossing, Dortmund, 44143, Germany",51.5195303,7.5123813
+120,Hilpert LLC,Belgium,Momignies,6594,13462 Carey Road,4,"13462 Carey Road, Momignies, 6594, Belgium",50.0109884,4.1638985
+121,Gleason Group,Germany,Hannover,30453,3060 Elmside Alley,4,"3060 Elmside Alley, Hannover, 30453, Germany",52.3723858,9.6890537
+122,"Kihn, Larkin and Fadel",Germany,München,80337,46 Amoth Alley,4,"46 Amoth Alley, München, 80337, Germany",48.1373246,11.5711203
+123,Wuckert-Cormier,Germany,Halle,6126,313 Declaration Avenue,4,"313 Declaration Avenue, Halle, 6126, Germany",51.4953567,11.9662371
+124,Legros Group,Belgium,Ninove,9404,4560 Cody Way,4,"4560 Cody Way, Ninove, 9404, Belgium",50.8441986,3.9438609
+125,Ward Group,Germany,Hamburg,20359,712 Sullivan Way,4,"712 Sullivan Way, Hamburg, 20359, Germany",53.5511779,9.9641759
+126,Fahey and Sons,Germany,Wuppertal,42285,65884 Vermont Court,4,"65884 Vermont Court, Wuppertal, 42285, Germany",51.2562128,7.1507636
+127,Wunsch LLC,Belgium,Gent,9052,05461 Riverside Circle,4,"05461 Riverside Circle, Gent, 9052, Belgium",51.0003903,3.7139045
+128,Wiegand and Sons,Germany,München,80686,6 Bultman Parkway,4,"6 Bultman Parkway, München, 80686, Germany",48.1288628,11.5089621
+129,Reichel-Beatty,Germany,Berlin,10587,30281 Eggendart Park,4,"30281 Eggendart Park, Berlin, 10587, Germany",52.5200066,13.404954
+130,"Turcotte, Bruen and Jenkins",Germany,Dortmund,44369,05 Raven Center,4,"05 Raven Center, Dortmund, 44369, Germany",51.5353894,7.4091222
+131,"Christiansen, Kuphal and Hermiston",Germany,Freiburg im Breisgau,79106,4 Lukken Circle,4,"4 Lukken Circle, Freiburg im Breisgau, 79106, Germany",48.0044582,7.8374651
+132,"Fadel, Klein and Rowe",Germany,Münster,48161,2 Nevada Alley,4,"2 Nevada Alley, Münster, 48161, Germany",51.9606649,7.6261347
+133,Schmitt Inc,Germany,Braunschweig,38106,615 Alpine Street,4,"615 Alpine Street, Braunschweig, 38106, Germany",52.2802311,10.5390217
+134,"Erdman, Waters and Towne",Germany,Dortmund,44369,06 Iowa Park,4,"06 Iowa Park, Dortmund, 44369, Germany",51.5353894,7.4091222
+135,"Runolfsdottir, Erdman and Wintheiser",Germany,Hamburg Bramfeld,22179,7282 6th Circle,4,"7282 6th Circle, Hamburg Bramfeld, 22179, Germany",53.607925,10.0852568
+136,"Gutmann, Schaefer and Morissette",Germany,Braunschweig,38126,85 Merrick Place,4,"85 Merrick Place, Braunschweig, 38126, Germany",52.2346447,10.5665003
+137,Parisian LLC,Germany,Chemnitz,9116,005 Vermont Court,4,"005 Vermont Court, Chemnitz, 9116, Germany",50.8282222,12.9208547
+138,Leuschke-Mills,Belgium,Péruwelz,7604,9 Lotheville Terrace,4,"9 Lotheville Terrace, Péruwelz, 7604, Belgium",50.5474037,3.5567339
+139,Bernhard-Bartell,Germany,Augsburg,86156,33 Morning Parkway,4,"33 Morning Parkway, Augsburg, 86156, Germany",48.3920947,10.8553557
+140,"Casper, McCullough and Price",Germany,Hamburg Sankt Pauli,20459,27060 Barnett Place,4,"27060 Barnett Place, Hamburg Sankt Pauli, 20459, Germany",53.5472987,9.9778279
+141,Bayer-Nienow,Germany,Remscheid,42897,81491 Hanover Road,4,"81491 Hanover Road, Remscheid, 42897, Germany",51.1730117,7.2822788
+142,"Boehm, Parker and Glover",Germany,Hamburg,22559,54 Bobwhite Lane,4,"54 Bobwhite Lane, Hamburg, 22559, Germany",53.5830905,9.7537598
+143,Macejkovic-Wilkinson,Belgium,Namur,5100,0476 Mayer Trail,4,"0476 Mayer Trail, Namur, 5100, Belgium",50.4524244,4.8514935
+144,"Smith, King and Dach",Germany,Dortmund,44269,9336 Melrose Hill,4,"9336 Melrose Hill, Dortmund, 44269, Germany",51.4918437,7.5319762
+145,"Ebert, Stroman and Cummerata",Germany,Berlin,12307,4861 Pawling Court,4,"4861 Pawling Court, Berlin, 12307, Germany",41.5620381,-73.6026271
+146,Ferry and Sons,Germany,Augsburg,86156,101 Evergreen Lane,4,"101 Evergreen Lane, Augsburg, 86156, Germany",48.3920947,10.8553557
+147,"Quitzon, Sanford and Nienow",Belgium,Bouillon,6834,609 Forest Court,4,"609 Forest Court, Bouillon, 6834, Belgium",49.8417042,5.1214901
+148,Brekke Group,Germany,Hamburg,22769,18708 Porter Crossing,4,"18708 Porter Crossing, Hamburg, 22769, Germany",53.5488282,9.9871703
+149,McLaughlin-Stiedemann,Germany,München,80686,54973 Daystar Junction,4,"54973 Daystar Junction, München, 80686, Germany",48.1288628,11.5089621
+150,Runte Group,Germany,Würzburg,97078,94538 Summit Terrace,4,"94538 Summit Terrace, Würzburg, 97078, Germany",49.8180135,9.9637931
+151,"Connelly, Bins and Huel",Belgium,Bouillon,6834,232 Stephen Place,4,"232 Stephen Place, Bouillon, 6834, Belgium",49.8417042,5.1214901
+152,Buckridge-Murazik,Germany,Berlin,10409,816 Jana Trail,4,"816 Jana Trail, Berlin, 10409, Germany",52.5433958,13.4413606
+153,Hodkiewicz LLC,Germany,Wuppertal,42349,3885 Eagan Trail,4,"3885 Eagan Trail, Wuppertal, 42349, Germany",51.2034374,7.1301012
+154,Lynch-Goyette,Germany,Dortmund,44369,3166 Bashford Terrace,4,"3166 Bashford Terrace, Dortmund, 44369, Germany",51.5353894,7.4091222
+155,"Wolff, Friesen and Daugherty",Germany,Münster,48161,48 Evergreen Avenue,4,"48 Evergreen Avenue, Münster, 48161, Germany",51.9601912,7.5468477
+156,Pacocha and Sons,Germany,München,80337,169 Hansons Court,4,"169 Hansons Court, München, 80337, Germany",48.1251024,11.5584376
+157,Koepp LLC,Germany,München,80686,459 Nobel Terrace,4,"459 Nobel Terrace, München, 80686, Germany",48.1288628,11.5089621
+158,Kutch LLC,Germany,Gelsenkirchen,45886,4 Jay Street,4,"4 Jay Street, Gelsenkirchen, 45886, Germany",51.4964248,7.1215271
+159,"Hamill, Paucek and Emmerich",Germany,Berlin,12045,9 Havey Alley,4,"9 Havey Alley, Berlin, 12045, Germany",52.4867189,13.4343715
+160,"Kulas, Wisozk and Wiegand",Germany,Freiburg im Breisgau,79106,7898 Dovetail Point,4,"7898 Dovetail Point, Freiburg im Breisgau, 79106, Germany",48.0044582,7.8374651
+161,"Kessler, Dickinson and Rohan",Germany,Braunschweig,38126,6127 Westport Junction,4,"6127 Westport Junction, Braunschweig, 38126, Germany",52.2346447,10.5665003
+162,Boehm Group,Belgium,Tournai,7504,833 Dakota Court,4,"833 Dakota Court, Tournai, 7504, Belgium",50.585206,3.3300918
+163,"Lueilwitz, Hoppe and Bogan",Germany,Offenbach,63073,10556 Elka Plaza,4,"10556 Elka Plaza, Offenbach, 63073, Germany",50.0809432,8.8107219
+164,Boyer Inc,Germany,Berlin,10587,46 Eggendart Pass,4,"46 Eggendart Pass, Berlin, 10587, Germany",52.5170826,13.3236611
+165,Hyatt LLC,Germany,Braunschweig,38126,3703 Kinsman Crossing,4,"3703 Kinsman Crossing, Braunschweig, 38126, Germany",52.2346447,10.5665003
+166,"Becker, Schmeler and Johns",Germany,Hamburg,20359,7 Ryan Avenue,4,"7 Ryan Avenue, Hamburg, 20359, Germany",53.5511779,9.9641759
+167,Moore LLC,Germany,Düsseldorf,40591,3266 Delladonna Parkway,4,"3266 Delladonna Parkway, Düsseldorf, 40591, Germany",51.1879547,6.8173593
+168,Kozey Group,Germany,Köln,50935,02330 Schurz Way,4,"02330 Schurz Way, Köln, 50935, Germany",50.9210958,6.8968829
+169,"Rohan, Heathcote and Harber",Germany,Köln,51149,680 Glendale Park,4,"680 Glendale Park, Köln, 51149, Germany",50.9093945,7.0486698
+170,"Nolan, Carter and Upton",Germany,Dortmund,44269,6216 Prairieview Way,4,"6216 Prairieview Way, Dortmund, 44269, Germany",51.4918437,7.5319762
+171,Howell-Kautzer,Germany,Nürnberg,90411,59 Hauk Street,4,"59 Hauk Street, Nürnberg, 90411, Germany",49.4904742,11.0986834
+172,Parker-Renner,Germany,Witzenhausen,37217,9760 Talisman Park,4,"9760 Talisman Park, Witzenhausen, 37217, Germany",51.349366,9.7730968
+173,"Daugherty, Schuppe and Boyer",Germany,Berlin,10823,30478 Rusk Terrace,4,"30478 Rusk Terrace, Berlin, 10823, Germany",52.4856992,13.3488258
+174,"Strosin, Boyle and Smitham",Germany,Bremerhaven,27576,04 Chinook Place,4,"04 Chinook Place, Bremerhaven, 27576, Germany",53.5567847,8.5929499
+175,"Crooks, Satterfield and Anderson",Germany,Frankfurt am Main,60549,18 Nancy Park,4,"18 Nancy Park, Frankfurt am Main, 60549, Germany",50.041381,8.5800547
+176,"Kuvalis, Hauck and Ortiz",Germany,Hannover,30453,7 Kedzie Plaza,4,"7 Kedzie Plaza, Hannover, 30453, Germany",52.3758916,9.7320104
+177,Berge-Brown,Germany,München,81373,486 Center Place,4,"486 Center Place, München, 81373, Germany",48.1214727,11.5322563
+178,Weber-Jacobi,Germany,Würzburg,97078,499 Oak Valley Junction,4,"499 Oak Valley Junction, Würzburg, 97078, Germany",41.5676962,-93.7565884
+179,DuBuque and Sons,Germany,Dortmund,44143,4 Hoffman Court,4,"4 Hoffman Court, Dortmund, 44143, Germany",51.5195303,7.5123813
+180,Roberts LLC,Germany,Münster,48161,15432 Corry Circle,4,"15432 Corry Circle, Münster, 48161, Germany",51.9601912,7.5468477
+181,Rowe-Treutel,Germany,Hamburg,20359,69 5th Lane,4,"69 5th Lane, Hamburg, 20359, Germany",53.5488282,9.9871703
+182,Braun LLC,Germany,Berlin,10823,5336 Alpine Park,4,"5336 Alpine Park, Berlin, 10823, Germany",52.4856992,13.3488258
+183,"Goldner, Murray and McGlynn",Germany,Dortmund,44269,480 6th Parkway,4,"480 6th Parkway, Dortmund, 44269, Germany",51.4918437,7.5319762
+184,"Wyman, Connelly and Bradtke",Belgium,Antwerpen,2170,11102 La Follette Hill,4,"11102 La Follette Hill, Antwerpen, 2170, Belgium",51.2472392,4.4403455
+185,Jerde Group,Germany,München,80337,09 Miller Junction,4,"09 Miller Junction, München, 80337, Germany",48.1251024,11.5584376
+186,Runte LLC,Belgium,Bruxelles,1170,0 Division Place,4,"0 Division Place, Bruxelles, 1170, Belgium",50.7881573,4.4180065
+187,"Torphy, Smitham and Gaylord",Belgium,Antwerpen,2170,321 Towne Pass,4,"321 Towne Pass, Antwerpen, 2170, Belgium",51.2213404,4.4051485
+188,Schumm-Reinger,Germany,Würzburg,97078,69757 Bluejay Park,4,"69757 Bluejay Park, Würzburg, 97078, Germany",49.8180135,9.9637931
+189,"Thiel, Metz and Ernser",Germany,Hamburg,22111,60249 South Lane,4,"60249 South Lane, Hamburg, 22111, Germany",53.5483785,10.078217
+190,Langosh Group,Germany,Hannover,30629,5 Novick Alley,4,"5 Novick Alley, Hannover, 30629, Germany",52.3927372,9.8476686
+191,O'Reilly Inc,Germany,Ludwigshafen am Rhein,67067,5 New Castle Lane,4,"5 New Castle Lane, Ludwigshafen am Rhein, 67067, Germany",49.4603474,8.402137
+192,Wisoky-Fahey,Belgium,Tournai,7536,787 Vera Lane,4,"787 Vera Lane, Tournai, 7536, Belgium",50.59219,3.4387783
+193,"Sawayn, Muller and O'Kon",Germany,Offenbach,63073,5 Daystar Parkway,4,"5 Daystar Parkway, Offenbach, 63073, Germany",50.0809432,8.8107219
+194,"Miller, Weimann and Schowalter",Germany,Bremen,28239,00801 Cherokee Lane,4,"00801 Cherokee Lane, Bremen, 28239, Germany",53.132048,8.7398289
+195,McCullough LLC,Germany,Augsburg,86156,28815 Farragut Crossing,4,"28815 Farragut Crossing, Augsburg, 86156, Germany",48.3705449,10.89779
+196,"Schneider, Green and Green",Germany,Bremerhaven,27576,21 Scott Alley,4,"21 Scott Alley, Bremerhaven, 27576, Germany",53.5567847,8.5929499
+197,"Marks, Nicolas and Swaniawski",Germany,Leipzig,4317,90 Kings Street,4,"90 Kings Street, Leipzig, 4317, Germany",51.3396955,12.3730747
+198,"Mueller, Koepp and Haag",Germany,Kiel,24118,8638 Sutteridge Lane,4,"8638 Sutteridge Lane, Kiel, 24118, Germany",54.3418823,10.1150681
+199,Fritsch-Harber,Germany,Freiburg im Breisgau,79106,74 Pawling Park,4,"74 Pawling Park, Freiburg im Breisgau, 79106, Germany",47.9990077,7.8421043
+200,Lindgren and Sons,Germany,Berlin,13509,49 Pankratz Point,4,"49 Pankratz Point, Berlin, 13509, Germany",52.6146503,13.4852071
+201,Kautzer Inc,Belgium,Antwerpen,2170,86 Norway Maple Pass,4,"86 Norway Maple Pass, Antwerpen, 2170, Belgium",51.2213404,4.4051485
+202,Willms Group,Germany,Hamburg Harvestehude,20249,60206 Gale Terrace,4,"60206 Gale Terrace, Hamburg Harvestehude, 20249, Germany",53.5900195,9.9897946
+203,Trantow-Lemke,Belgium,Namur,5100,15 Jenna Circle,4,"15 Jenna Circle, Namur, 5100, Belgium",50.4198861,4.9246444
+204,Durgan-Gleichner,Germany,Nürnberg,90451,72584 Schurz Crossing,4,"72584 Schurz Crossing, Nürnberg, 90451, Germany",49.4025357,11.0502709
+205,"Glover, Hamill and Hammes",Germany,München,80686,8 Badeau Circle,4,"8 Badeau Circle, München, 80686, Germany",48.1288628,11.5089621
+206,"Jenkins, Langworth and Mitchell",Germany,München,81543,3454 Lukken Hill,4,"3454 Lukken Hill, München, 81543, Germany",48.1127929,11.5681872
+207,"Kessler, McClure and Pfannerstill",Germany,Stuttgart,70374,176 Vernon Road,4,"176 Vernon Road, Stuttgart, 70374, Germany",48.8096645,9.2415192
+208,Spinka Group,Germany,Berlin,10823,8563 Melody Lane,4,"8563 Melody Lane, Berlin, 10823, Germany",52.4856992,13.3488258
+209,"Torphy, Dicki and Bahringer",Germany,Würzburg,97078,2 Stang Terrace,4,"2 Stang Terrace, Würzburg, 97078, Germany",49.8180135,9.9637931
+210,Johns-Donnelly,Belgium,Momignies,6594,6082 Forest Run Trail,4,"6082 Forest Run Trail, Momignies, 6594, Belgium",50.0109884,4.1638985
+211,Wiza LLC,Germany,Heilbronn,74080,14 Pearson Parkway,4,"14 Pearson Parkway, Heilbronn, 74080, Germany",49.1376432,9.1776059
+212,Gibson and Sons,Germany,Köln,51107,67 Dunning Avenue,4,"67 Dunning Avenue, Köln, 51107, Germany",50.937531,6.9602786
+213,"Kiehn, Monahan and Hilll",Germany,München,80995,108 Shasta Drive,4,"108 Shasta Drive, München, 80995, Germany",48.2115037,11.5131806
+214,Ratke-Hackett,Belgium,Péruwelz,7604,36271 Derek Trail,4,"36271 Derek Trail, Péruwelz, 7604, Belgium",50.5474037,3.5567339
+215,Morissette-Runolfsdottir,Germany,Köln,50935,917 Shasta Way,4,"917 Shasta Way, Köln, 50935, Germany",50.9210958,6.8968829
+216,Auer LLC,Germany,Hannover,30453,703 Marquette Terrace,4,"703 Marquette Terrace, Hannover, 30453, Germany",52.3723858,9.6890537
+217,Moore-Hammes,Germany,Berlin,10409,4980 Johnson Street,4,"4980 Johnson Street, Berlin, 10409, Germany",52.5433958,13.4413606
+218,Kshlerin Inc,Germany,Hamburg,21037,711 Cottonwood Drive,4,"711 Cottonwood Drive, Hamburg, 21037, Germany",53.5488282,9.9871703
+219,"Wunsch, Wiza and Stiedemann",Germany,Berlin,10823,95 Morning Way,4,"95 Morning Way, Berlin, 10823, Germany",52.4856992,13.3488258
+220,Davis-Zemlak,Germany,Kiel,24118,94093 Hagan Crossing,4,"94093 Hagan Crossing, Kiel, 24118, Germany",54.3418823,10.1150681
+221,"Ruecker, Cruickshank and Kerluke",Belgium,Tournai,7536,830 Sullivan Point,4,"830 Sullivan Point, Tournai, 7536, Belgium",50.59219,3.4387783
+222,Renner and Sons,Germany,Solingen,42659,61416 Bunting Crossing,4,"61416 Bunting Crossing, Solingen, 42659, Germany",51.1461168,7.1220857
+223,Kertzmann Inc,Germany,Hannover,30629,312 Westridge Street,4,"312 Westridge Street, Hannover, 30629, Germany",52.3927372,9.8476686
+224,Metz-O'Kon,Germany,Frankfurt am Main,60435,704 Graedel Drive,4,"704 Graedel Drive, Frankfurt am Main, 60435, Germany",50.1616215,8.7032376
+225,Leannon LLC,Germany,Nürnberg,90411,9 Buena Vista Terrace,4,"9 Buena Vista Terrace, Nürnberg, 90411, Germany",49.4521018,11.0766654
+226,Hettinger LLC,Germany,Hamburg Sankt Pauli,20459,427 3rd Pass,4,"427 3rd Pass, Hamburg Sankt Pauli, 20459, Germany",53.5472987,9.9778279
+227,Grant-Raynor,Germany,Hamburg,21037,7 Londonderry Trail,4,"7 Londonderry Trail, Hamburg, 21037, Germany",53.4460678,10.1569956
+228,Considine-Conroy,Belgium,Bruxelles,1050,15 Redwing Avenue,4,"15 Redwing Avenue, Bruxelles, 1050, Belgium",50.8235717,4.3766927
+229,Walsh-Schiller,Germany,Leipzig,4317,0 Derek Crossing,4,"0 Derek Crossing, Leipzig, 4317, Germany",51.3303754,12.40504
+230,"Weber, Carroll and Kris",Germany,Hamburg,22453,0385 Lakewood Gardens Crossing,4,"0385 Lakewood Gardens Crossing, Hamburg, 22453, Germany",53.5488282,9.9871703
+231,O'Conner-Stokes,Germany,Münster,48161,1117 Walton Trail,4,"1117 Walton Trail, Münster, 48161, Germany",51.9606649,7.6261347
+232,Buckridge Group,Germany,Wuppertal,42349,310 Blue Bill Park Terrace,4,"310 Blue Bill Park Terrace, Wuppertal, 42349, Germany",51.2034374,7.1301012
+233,O'Connell-Rosenbaum,Germany,Stuttgart,70374,428 Lerdahl Road,4,"428 Lerdahl Road, Stuttgart, 70374, Germany",48.8096645,9.2415192
+234,Lynch-McDermott,Belgium,Gent,9052,67168 Columbus Plaza,4,"67168 Columbus Plaza, Gent, 9052, Belgium",51.0500182,3.7303351
+235,Graham Inc,Germany,Stuttgart,70567,3173 Ridgeview Park,4,"3173 Ridgeview Park, Stuttgart, 70567, Germany",48.7226206,9.1584836
+236,"Keeling, Windler and Kohler",Belgium,Ninove,9404,1 Waxwing Avenue,4,"1 Waxwing Avenue, Ninove, 9404, Belgium",50.8441986,3.9438609
+237,Thompson and Sons,Germany,Berlin,10179,3783 Chinook Plaza,4,"3783 Chinook Plaza, Berlin, 10179, Germany",52.5200066,13.404954
+238,Rutherford and Sons,Germany,Wetzlar,35581,37 Johnson Crossing,4,"37 Johnson Crossing, Wetzlar, 35581, Germany",50.5635273,8.5002611
+239,Daniel-Runolfsdottir,Belgium,Péruwelz,7604,68 Garrison Center,4,"68 Garrison Center, Péruwelz, 7604, Belgium",50.5474037,3.5567339
+240,Feeney-Miller,Germany,Ludwigshafen am Rhein,67067,7459 Acker Lane,4,"7459 Acker Lane, Ludwigshafen am Rhein, 67067, Germany",49.4603474,8.402137
+241,Kuhn-Davis,Germany,Duisburg,47139,7 Fuller Park,4,"7 Fuller Park, Duisburg, 47139, Germany",51.4758022,6.7112395
+242,Rosenbaum Inc,Germany,Offenbach,63073,6 Longview Road,4,"6 Longview Road, Offenbach, 63073, Germany",50.0956362,8.7760843
+243,Klocko-Runte,Germany,Hamburg Harvestehude,20249,2373 Erie Road,4,"2373 Erie Road, Hamburg Harvestehude, 20249, Germany",53.5776266,9.9908875
+244,Considine-Haley,Germany,Bochum,44869,40 Manufacturers Hill,4,"40 Manufacturers Hill, Bochum, 44869, Germany",51.4492114,7.1597986
+245,Abernathy and Sons,Germany,Essen,45356,87178 Sloan Terrace,4,"87178 Sloan Terrace, Essen, 45356, Germany",51.4923815,6.9694303
+246,Schmitt LLC,Germany,Hamburg,20359,9209 Killdeer Drive,4,"9209 Killdeer Drive, Hamburg, 20359, Germany",53.5511779,9.9641759
+247,"Hand, Walker and Buckridge",Germany,Hamburg Bramfeld,22179,5361 Reindahl Road,4,"5361 Reindahl Road, Hamburg Bramfeld, 22179, Germany",53.607925,10.0852568
+248,Bechtelar-Grady,Germany,Frankfurt am Main,60549,2299 New Castle Junction,4,"2299 New Castle Junction, Frankfurt am Main, 60549, Germany",50.1109221,8.6821267
+249,Schoen Group,Germany,Stuttgart,70374,141 Sutherland Park,4,"141 Sutherland Park, Stuttgart, 70374, Germany",48.7743047,9.1822066
+250,"Steuber, Terry and Okuneva",Germany,Nürnberg,90451,64 Kingsford Junction,4,"64 Kingsford Junction, Nürnberg, 90451, Germany",49.4025357,11.0502709
+251,"Grady, Rodriguez and Schmidt",Germany,Dresden,1462,76 Messerschmidt Plaza,4,"76 Messerschmidt Plaza, Dresden, 1462, Germany",51.0504088,13.7372621
+252,Murphy-Fay,Germany,Essen,45141,712 Luster Park,4,"712 Luster Park, Essen, 45141, Germany",51.4780256,7.0328812
+253,Jacobson Group,Germany,Hamburg,22041,7 Bartelt Junction,4,"7 Bartelt Junction, Hamburg, 22041, Germany",53.5754959,10.0807485
+254,Welch-Lindgren,Belgium,Tournai,7536,6977 American Lane,4,"6977 American Lane, Tournai, 7536, Belgium",50.59219,3.4387783
+255,"Frami, Blick and Goodwin",Belgium,Bouillon,6834,09273 Stuart Parkway,4,"09273 Stuart Parkway, Bouillon, 6834, Belgium",49.7946562,5.070639
+256,Kris and Sons,Germany,Neuss,41468,831 Sugar Parkway,4,"831 Sugar Parkway, Neuss, 41468, Germany",51.1615558,6.774529
+257,Lang Inc,Germany,Osnabrück,49082,7284 Graceland Terrace,4,"7284 Graceland Terrace, Osnabrück, 49082, Germany",52.2799112,8.0471788
+258,"Spencer, Stroman and Walsh",Germany,Hamburg,22041,94 Commercial Way,4,"94 Commercial Way, Hamburg, 22041, Germany",53.5754959,10.0807485
+259,"Bartell, Turcotte and Braun",Germany,Frankfurt am Main,60325,15 Barnett Terrace,4,"15 Barnett Terrace, Frankfurt am Main, 60325, Germany",50.1157078,8.6591469
+260,Greenholt-O'Kon,Belgium,Charleroi,6042,17 Ridge Oak Parkway,4,"17 Ridge Oak Parkway, Charleroi, 6042, Belgium",50.4315612,4.4472854
+261,Boehm-Bayer,Belgium,Antwerpen,2170,6 Crowley Place,4,"6 Crowley Place, Antwerpen, 2170, Belgium",51.2472392,4.4403455
+262,Green-Muller,Germany,Bremen,28355,9 Alpine Hill,4,"9 Alpine Hill, Bremen, 28355, Germany",53.0903178,8.9354031
+263,Dare and Sons,Germany,Stuttgart,70374,4 Corscot Lane,4,"4 Corscot Lane, Stuttgart, 70374, Germany",48.8096645,9.2415192
+264,Ruecker-Tillman,Germany,Berlin,12683,66928 Mcbride Terrace,4,"66928 Mcbride Terrace, Berlin, 12683, Germany",52.4981613,13.5581889
+265,Gislason LLC,Germany,Hamburg Harvestehude,20249,26 Becker Terrace,4,"26 Becker Terrace, Hamburg Harvestehude, 20249, Germany",53.5900195,9.9897946
+266,Spencer and Sons,Belgium,Bouillon,6834,370 Sachs Terrace,4,"370 Sachs Terrace, Bouillon, 6834, Belgium",49.8417042,5.1214901
+267,Johnson Inc,Germany,München,80804,47903 Alpine Place,4,"47903 Alpine Place, München, 80804, Germany",48.1351253,11.5819806
+268,Prohaska Group,Germany,Dortmund,44369,2899 Hoard Street,4,"2899 Hoard Street, Dortmund, 44369, Germany",51.5353894,7.4091222
+269,"Koch, Hackett and Skiles",Germany,Hanau,63456,34049 Rusk Plaza,4,"34049 Rusk Plaza, Hanau, 63456, Germany",50.1345773,8.9167179
+270,Hirthe-McClure,Germany,Frankfurt am Main,60325,505 Maryland Place,4,"505 Maryland Place, Frankfurt am Main, 60325, Germany",50.1109221,8.6821267
+271,"Koepp, Schuster and Von",Germany,Hannover,30453,49 Judy Drive,4,"49 Judy Drive, Hannover, 30453, Germany",52.3758916,9.7320104
+272,Nitzsche LLC,Belgium,Péruwelz,7604,23348 Gina Road,4,"23348 Gina Road, Péruwelz, 7604, Belgium",50.5474037,3.5567339
+273,"Bednar, Rau and Frami",Germany,Leipzig,4109,89 Grover Park,4,"89 Grover Park, Leipzig, 4109, Germany",51.3383504,12.3634475
+274,"King, Kulas and Tillman",Germany,Remscheid,42897,931 Muir Parkway,4,"931 Muir Parkway, Remscheid, 42897, Germany",51.1730117,7.2822788
+275,"Hauck, Breitenberg and Crooks",Germany,Hamburg,22769,545 East Crossing,4,"545 East Crossing, Hamburg, 22769, Germany",53.5488282,9.9871703
+276,Becker and Sons,Germany,Freiburg im Breisgau,79114,64138 Menomonie Circle,4,"64138 Menomonie Circle, Freiburg im Breisgau, 79114, Germany",47.9990077,7.8421043
+277,Luettgen-Kuhlman,Germany,Bremerhaven,27576,570 Memorial Circle,4,"570 Memorial Circle, Bremerhaven, 27576, Germany",53.5567847,8.5929499
+278,Gibson LLC,Germany,Hamburg,22453,76998 Summit Park,4,"76998 Summit Park, Hamburg, 22453, Germany",53.6125259,9.9659855
+279,"Predovic, Yundt and Halvorson",Germany,Mannheim,68239,53 Hoffman Street,4,"53 Hoffman Street, Mannheim, 68239, Germany",49.4637092,8.560081
+280,Herzog Group,Germany,Leipzig,4317,62965 Judy Plaza,4,"62965 Judy Plaza, Leipzig, 4317, Germany",51.3303754,12.40504
+281,"Huel, Smitham and Schumm",Germany,Essen,45141,537 Crownhardt Terrace,4,"537 Crownhardt Terrace, Essen, 45141, Germany",51.4780256,7.0328812
+282,Lowe and Sons,Germany,Kiel,24109,2 Lien Way,4,"2 Lien Way, Kiel, 24109, Germany",54.3171885,10.0477345
+283,"Auer, Witting and Schmidt",Germany,Hamburg,20359,8943 Roxbury Trail,4,"8943 Roxbury Trail, Hamburg, 20359, Germany",53.5511779,9.9641759
+284,McKenzie LLC,Germany,Hamburg,22339,7 Barby Pass,4,"7 Barby Pass, Hamburg, 22339, Germany",53.6447228,10.0383761
+285,Ferry-Green,Germany,Kassel,34132,9473 Lighthouse Bay Point,4,"9473 Lighthouse Bay Point, Kassel, 34132, Germany",51.3127114,9.4797461
+286,Beahan Group,Germany,Hanau,63456,1 Jay Junction,4,"1 Jay Junction, Hanau, 63456, Germany",50.104315,8.911141
+287,"Lowe, Moen and Schmeler",Germany,Augsburg,86156,76 Mariners Cove Way,4,"76 Mariners Cove Way, Augsburg, 86156, Germany",48.3920947,10.8553557
+288,Parker Group,Germany,Braunschweig,38126,5 Garrison Avenue,4,"5 Garrison Avenue, Braunschweig, 38126, Germany",52.2346447,10.5665003
+289,Williamson LLC,Germany,Bremen,28239,5 Meadow Valley Crossing,4,"5 Meadow Valley Crossing, Bremen, 28239, Germany",53.132048,8.7398289
+290,"Blanda, Abernathy and Veum",Germany,Osnabrück,49082,3 Ruskin Hill,4,"3 Ruskin Hill, Osnabrück, 49082, Germany",52.2415583,8.0495294
+291,Koss Group,Germany,Hamburg,22111,4 Muir Place,4,"4 Muir Place, Hamburg, 22111, Germany",53.5488282,9.9871703
+292,Klocko Inc,Germany,Wuppertal,42349,11 High Crossing Court,4,"11 High Crossing Court, Wuppertal, 42349, Germany",51.2034374,7.1301012
+293,Ritchie Group,Germany,Bremen,28355,87 3rd Terrace,4,"87 3rd Terrace, Bremen, 28355, Germany",53.0903178,8.9354031
+294,Prohaska LLC,Germany,Berlin,10715,7010 Prentice Circle,4,"7010 Prentice Circle, Berlin, 10715, Germany",52.4837296,13.3304798
+295,Quitzon LLC,Germany,Leipzig,4109,45 Eagle Crest Court,4,"45 Eagle Crest Court, Leipzig, 4109, Germany",51.3383504,12.3634475
+296,Sauer-Romaguera,Germany,Bremen,28239,7 Susan Trail,4,"7 Susan Trail, Bremen, 28239, Germany",53.132048,8.7398289
+297,Nikolaus-Nicolas,Germany,Offenbach,63073,1 Truax Parkway,4,"1 Truax Parkway, Offenbach, 63073, Germany",50.0809432,8.8107219
+298,Schmeler-Feil,Germany,Berlin,10715,2401 Iowa Road,4,"2401 Iowa Road, Berlin, 10715, Germany",52.5200066,13.404954
+299,"Stracke, Lesch and Sawayn",Germany,Mainz,55124,870 Towne Park,4,"870 Towne Park, Mainz, 55124, Germany",50.0098434,8.25531
+300,"Cormier, Lind and Turner",Belgium,Bruxelles,1170,9875 Schlimgen Junction,4,"9875 Schlimgen Junction, Bruxelles, 1170, Belgium",50.7881573,4.4180065
+301,Jacobs LLC,Germany,Hamburg,20359,4127 Carpenter Lane,4,"4127 Carpenter Lane, Hamburg, 20359, Germany",53.5511779,9.9641759
+302,"Tillman, Smitham and Lesch",Germany,Heilbronn,74080,31971 Dryden Way,4,"31971 Dryden Way, Heilbronn, 74080, Germany",49.1376432,9.1776059
+303,"Bayer, Walsh and Leuschke",Germany,Berlin,13599,1 Division Circle,4,"1 Division Circle, Berlin, 13599, Germany",52.5200066,13.404954
+304,Mertz-O'Hara,Germany,Mönchengladbach,41199,788 Kedzie Street,4,"788 Kedzie Street, Mönchengladbach, 41199, Germany",51.1329676,6.4449432
+305,"Murazik, Emard and Rogahn",Belgium,Ath,7823,80 Annamark Plaza,4,"80 Annamark Plaza, Ath, 7823, Belgium",50.6302806,3.8861843
+306,"Schuppe, Wilkinson and Trantow",Germany,Berlin,12307,172 Mayer Plaza,4,"172 Mayer Plaza, Berlin, 12307, Germany",52.5200066,13.404954
+307,Wunsch Inc,Germany,Nürnberg,90451,79988 Buena Vista Drive,4,"79988 Buena Vista Drive, Nürnberg, 90451, Germany",49.4025357,11.0502709
+308,Kilback-Bins,Germany,Berlin,13409,0 Meadow Ridge Terrace,4,"0 Meadow Ridge Terrace, Berlin, 13409, Germany",52.5693104,13.3714743
+309,Buckridge and Sons,Belgium,Bruxelles,1170,76 Sycamore Circle,4,"76 Sycamore Circle, Bruxelles, 1170, Belgium",50.7881573,4.4180065
+310,"Kris, Hand and Bogan",Germany,Berlin,10587,98 Wayridge Point,4,"98 Wayridge Point, Berlin, 10587, Germany",52.5170826,13.3236611
+311,"Ernser, Purdy and Donnelly",Germany,Köln,51107,800 Twin Pines Point,4,"800 Twin Pines Point, Köln, 51107, Germany",50.937531,6.9602786
+312,Ullrich Group,Germany,Wuppertal,42285,9719 Larry Point,4,"9719 Larry Point, Wuppertal, 42285, Germany",51.256002,7.1736304
+313,Ryan-Lesch,Germany,Duisburg,47239,79449 Almo Lane,4,"79449 Almo Lane, Duisburg, 47239, Germany",51.3948213,6.6518329
+314,"O'Kon, Streich and Jacobs",Germany,Dresden,1189,80 Eggendart Road,4,"80 Eggendart Road, Dresden, 1189, Germany",51.0144934,13.6972162
+315,"Bergnaum, Jenkins and Kessler",Germany,Würzburg,97078,96592 Linden Avenue,4,"96592 Linden Avenue, Würzburg, 97078, Germany",49.8180135,9.9637931
+316,Stroman LLC,Germany,Berlin,10179,3 Kennedy Center,4,"3 Kennedy Center, Berlin, 10179, Germany",52.5200066,13.404954
+317,Greenholt Group,Germany,Hamburg,20249,0952 Starling Avenue,4,"0952 Starling Avenue, Hamburg, 20249, Germany",53.5900195,9.9897946
+318,Anderson-Spinka,Germany,Wuppertal,42349,32 Sherman Avenue,4,"32 Sherman Avenue, Wuppertal, 42349, Germany",51.2034374,7.1301012
+319,"Crona, Howell and Bogan",Germany,Berlin,14199,50503 Warbler Center,4,"50503 Warbler Center, Berlin, 14199, Germany",52.4767935,13.2962036
+320,Russel-Weber,Germany,Wiesbaden,65191,0 Namekagon Hill,4,"0 Namekagon Hill, Wiesbaden, 65191, Germany",50.0782184,8.2397608
+321,Predovic-Leuschke,Belgium,Momignies,6594,37 Parkside Plaza,4,"37 Parkside Plaza, Momignies, 6594, Belgium",50.0109884,4.1638985
+322,McGlynn Inc,Germany,Würzburg,97078,06100 Buell Drive,4,"06100 Buell Drive, Würzburg, 97078, Germany",49.7934184,9.9511449
+323,Dibbert-Kshlerin,Germany,Berlin,10587,4 Arizona Place,4,"4 Arizona Place, Berlin, 10587, Germany",52.5200066,13.404954
+324,Denesik-Monahan,Germany,Mainz,55124,16 Oakridge Trail,4,"16 Oakridge Trail, Mainz, 55124, Germany",50.0022253,8.1937267
+325,"Nader, Rempel and Kuhlman",Germany,Aachen,52080,71 Dawn Drive,4,"71 Dawn Drive, Aachen, 52080, Germany",50.7925769,6.1597163
+326,Jacobson-Strosin,Germany,Gelsenkirchen,45886,07 Messerschmidt Point,4,"07 Messerschmidt Point, Gelsenkirchen, 45886, Germany",51.4964248,7.1215271
+327,Mann-Lowe,Germany,Berlin,12169,404 Jay Point,4,"404 Jay Point, Berlin, 12169, Germany",52.4555293,13.339803
+328,Pollich-Boyle,Germany,Nürnberg,90451,2 Burrows Alley,4,"2 Burrows Alley, Nürnberg, 90451, Germany",49.4025357,11.0502709
+329,"Auer, Mills and Hagenes",Germany,Münster,48161,35183 Elmside Terrace,4,"35183 Elmside Terrace, Münster, 48161, Germany",51.9601912,7.5468477
+330,Jast Inc,Belgium,Ath,7823,94258 Morrow Street,4,"94258 Morrow Street, Ath, 7823, Belgium",50.6340486,3.7727254
+331,Gislason Group,Germany,Remscheid,42897,26070 Schurz Street,4,"26070 Schurz Street, Remscheid, 42897, Germany",51.1730117,7.2822788
+332,Schamberger-Schmidt,Germany,Kiel,24109,3 Hermina Road,4,"3 Hermina Road, Kiel, 24109, Germany",54.3232927,10.1227652
+333,Ledner-Cummings,Germany,Hamburg,21037,25118 Menomonie Center,4,"25118 Menomonie Center, Hamburg, 21037, Germany",53.5488282,9.9871703
+334,"Kozey, Rice and Cummerata",Germany,Hamburg,22041,52976 Green Place,4,"52976 Green Place, Hamburg, 22041, Germany",53.5754959,10.0807485
+335,Borer LLC,Germany,Berlin,13509,96473 Russell Center,4,"96473 Russell Center, Berlin, 13509, Germany",52.5890862,13.3032995
+336,Jakubowski Inc,Germany,Berlin,12169,2538 Northridge Drive,4,"2538 Northridge Drive, Berlin, 12169, Germany",52.5200066,13.404954
+337,Hansen Group,Germany,Aachen,52080,7 Clyde Gallagher Road,4,"7 Clyde Gallagher Road, Aachen, 52080, Germany",50.7925769,6.1597163
+338,"Hahn, Hamill and Jaskolski",Belgium,Bouillon,6834,85134 Trailsway Point,4,"85134 Trailsway Point, Bouillon, 6834, Belgium",49.8417042,5.1214901
+339,Prohaska-Batz,Germany,Stuttgart,70190,01 Commercial Crossing,4,"01 Commercial Crossing, Stuttgart, 70190, Germany",48.7893977,9.1962771
+340,"Conroy, Leannon and Padberg",Germany,Saarbrücken,66119,2 Tomscot Avenue,4,"2 Tomscot Avenue, Saarbrücken, 66119, Germany",49.2381697,6.997547
+341,Blanda-Dicki,Germany,Köln,51107,688 Nobel Road,4,"688 Nobel Road, Köln, 51107, Germany",50.9173381,7.0902515
+342,"Russel, Maggio and Rogahn",Germany,Chemnitz,9123,22392 Memorial Alley,4,"22392 Memorial Alley, Chemnitz, 9123, Germany",50.7868675,12.8945945
+343,"Terry, Brakus and Satterfield",Germany,Berlin,13347,60788 Fremont Center,4,"60788 Fremont Center, Berlin, 13347, Germany",52.5496772,13.3643415
+344,Bruen-Smitham,Germany,Kassel,34132,8 Moose Way,4,"8 Moose Way, Kassel, 34132, Germany",51.2804955,9.4266475
+345,Borer Inc,Germany,Leipzig,4317,77387 Del Mar Parkway,4,"77387 Del Mar Parkway, Leipzig, 4317, Germany",51.3303754,12.40504
+346,"Fisher, Hegmann and Hackett",Belgium,Gent,9052,1417 Nelson Avenue,4,"1417 Nelson Avenue, Gent, 9052, Belgium",51.0500182,3.7303351
+347,"Veum, Gusikowski and Thiel",Germany,Berlin,13347,3 Doe Crossing Trail,4,"3 Doe Crossing Trail, Berlin, 13347, Germany",52.5496772,13.3643415
+348,Daniel-Mueller,Germany,Dortmund,44369,0 Clyde Gallagher Trail,4,"0 Clyde Gallagher Trail, Dortmund, 44369, Germany",51.5353894,7.4091222
+349,"Wisoky, Walter and Purdy",Germany,Halle,6126,979 Pepper Wood Avenue,4,"979 Pepper Wood Avenue, Halle, 6126, Germany",51.4953567,11.9662371
+350,Hudson-Robel,Germany,München,80337,9565 Little Fleur Circle,4,"9565 Little Fleur Circle, München, 80337, Germany",48.1251024,11.5584376
+351,Waters LLC,Germany,Hamburg Winterhude,22303,3026 Golf View Street,4,"3026 Golf View Street, Hamburg Winterhude, 22303, Germany",53.5910631,10.0260615
+352,Schimmel-Nikolaus,Germany,Mannheim,68239,42707 Cottonwood Park,4,"42707 Cottonwood Park, Mannheim, 68239, Germany",49.4637092,8.560081
+353,Kerluke Inc,Germany,Berlin,10409,268 Emmet Court,4,"268 Emmet Court, Berlin, 10409, Germany",52.5200066,13.404954
+354,"Kunde, Blanda and Metz",Belgium,Momignies,6594,0401 Ridgeway Pass,4,"0401 Ridgeway Pass, Momignies, 6594, Belgium",50.0109884,4.1638985
+355,Stanton-Wisozk,Germany,Berlin,10823,3 Schmedeman Center,4,"3 Schmedeman Center, Berlin, 10823, Germany",52.4856992,13.3488258
+356,Monahan and Sons,Germany,Münster,48161,4324 Cascade Circle,4,"4324 Cascade Circle, Münster, 48161, Germany",51.9606649,7.6261347
+357,"Rippin, Hartmann and Carroll",Germany,Halle,6116,400 Milwaukee Drive,4,"400 Milwaukee Drive, Halle, 6116, Germany",51.4953567,11.9662371
+358,"Kovacek, Renner and Gibson",Germany,Köln,50935,5932 Novick Drive,4,"5932 Novick Drive, Köln, 50935, Germany",50.9210958,6.8968829
+359,"Friesen, Barton and Runolfsdottir",Germany,Dresden,1156,9883 Shelley Junction,4,"9883 Shelley Junction, Dresden, 1156, Germany",51.0504088,13.7372621
+360,Grimes Inc,Germany,Düsseldorf,40225,60 Beilfuss Plaza,4,"60 Beilfuss Plaza, Düsseldorf, 40225, Germany",51.1974375,6.7898817
+361,Konopelski LLC,Germany,Ludwigshafen am Rhein,67067,06838 Thompson Court,4,"06838 Thompson Court, Ludwigshafen am Rhein, 67067, Germany",49.4774018,8.4447451
+362,Turner LLC,Belgium,Tournai,7504,87048 Jana Trail,4,"87048 Jana Trail, Tournai, 7504, Belgium",50.6055398,3.3880967
+363,Erdman-Dibbert,Germany,Hanau,63456,78273 Delaware Lane,4,"78273 Delaware Lane, Hanau, 63456, Germany",50.104315,8.911141
+364,"Hane, Lynch and Yundt",Germany,Dresden,1189,8304 Towne Drive,4,"8304 Towne Drive, Dresden, 1189, Germany",51.0504088,13.7372621
+365,"Harvey, Walker and Fadel",Germany,Cottbus,3055,1589 Kingsford Place,4,"1589 Kingsford Place, Cottbus, 3055, Germany",51.7941895,14.3056705
+366,"Lebsack, Adams and Conroy",Germany,Hamburg Sankt Pauli,20459,7428 Bowman Trail,4,"7428 Bowman Trail, Hamburg Sankt Pauli, 20459, Germany",53.5472987,9.9778279
+367,"Raynor, Bailey and Lebsack",Germany,Essen,45356,4149 Vernon Pass,4,"4149 Vernon Pass, Essen, 45356, Germany",51.4556432,7.0115552
+368,"Nikolaus, McCullough and Schimmel",Germany,Remscheid,42897,73 Waxwing Parkway,4,"73 Waxwing Parkway, Remscheid, 42897, Germany",51.1730117,7.2822788
+369,"Schmeler, Miller and Barrows",Germany,Essen,45149,9913 Randy Terrace,4,"9913 Randy Terrace, Essen, 45149, Germany",51.4188047,6.9643749
+370,"Hegmann, Upton and Batz",Germany,Wuppertal,42349,22774 Logan Park,4,"22774 Logan Park, Wuppertal, 42349, Germany",51.2034374,7.1301012
+371,Gutmann-Braun,Belgium,Ath,7823,88875 Nevada Court,4,"88875 Nevada Court, Ath, 7823, Belgium",50.6340486,3.7727254
+372,Dooley-Klein,Belgium,Bruxelles,1170,807 Dapin Hill,4,"807 Dapin Hill, Bruxelles, 1170, Belgium",50.7881573,4.4180065
+373,Sipes-Grimes,Germany,Düsseldorf,40591,4243 Esker Terrace,4,"4243 Esker Terrace, Düsseldorf, 40591, Germany",51.1879547,6.8173593
+374,Raynor Group,Belgium,Mons,7032,96 Monica Alley,4,"96 Monica Alley, Mons, 7032, Belgium",50.4271996,3.989666
+375,Kreiger Group,Germany,Nürnberg,90451,636 Kings Parkway,4,"636 Kings Parkway, Nürnberg, 90451, Germany",49.4025357,11.0502709
+376,Paucek-Ebert,Germany,Leipzig,4317,198 Macpherson Plaza,4,"198 Macpherson Plaza, Leipzig, 4317, Germany",51.3303754,12.40504
+377,Russel and Sons,Germany,München,80686,7730 Del Sol Park,4,"7730 Del Sol Park, München, 80686, Germany",48.1288628,11.5089621
+378,"Simonis, Ziemann and Kulas",Germany,Wuppertal,42349,373 Moulton Crossing,4,"373 Moulton Crossing, Wuppertal, 42349, Germany",51.2034374,7.1301012
+379,"Skiles, Lockman and Schuppe",Germany,Wiesbaden,65191,1 Village Junction,4,"1 Village Junction, Wiesbaden, 65191, Germany",50.0897141,8.271907
+380,Grant-Willms,Germany,München,81543,3 Kim Junction,4,"3 Kim Junction, München, 81543, Germany",48.1127929,11.5681872
+381,"Bins, Reichel and Stracke",Germany,Köln,50733,83 Thierer Hill,4,"83 Thierer Hill, Köln, 50733, Germany",50.9648271,6.9538234
+382,Heaney LLC,Germany,Mannheim,68239,6902 Hintze Terrace,4,"6902 Hintze Terrace, Mannheim, 68239, Germany",49.4637092,8.560081
+383,Schoen-Hamill,Germany,Hamburg,20359,5 Oakridge Crossing,4,"5 Oakridge Crossing, Hamburg, 20359, Germany",53.5488282,9.9871703
+384,Schumm Inc,Germany,Köln,51107,93031 Old Gate Center,4,"93031 Old Gate Center, Köln, 51107, Germany",50.9173381,7.0902515
+385,"Skiles, Lehner and Weissnat",Germany,Berlin,10823,4 Waxwing Avenue,4,"4 Waxwing Avenue, Berlin, 10823, Germany",52.5200066,13.404954
+386,Bosco LLC,Germany,Berlin,13409,77116 Hermina Pass,4,"77116 Hermina Pass, Berlin, 13409, Germany",52.5693104,13.3714743
+387,"Corwin, Dickens and Klein",Germany,Duisburg,47139,11145 Sheridan Terrace,4,"11145 Sheridan Terrace, Duisburg, 47139, Germany",51.4758022,6.7112395
+388,Braun-Powlowski,Germany,Augsburg,86156,85 Rigney Park,4,"85 Rigney Park, Augsburg, 86156, Germany",48.3849185,10.8436289
+389,Dooley Inc,Germany,Aachen,52080,89096 John Wall Way,4,"89096 John Wall Way, Aachen, 52080, Germany",50.7925769,6.1597163
+390,Bahringer-Ernser,Germany,Berlin,13409,4754 Washington Drive,4,"4754 Washington Drive, Berlin, 13409, Germany",52.5693104,13.3714743
+391,O'Keefe-Schneider,Germany,Essen,45356,2451 Ridge Oak Road,4,"2451 Ridge Oak Road, Essen, 45356, Germany",51.4556432,7.0115552
+392,"Hansen, Zboncak and Hermiston",Germany,Hamburg Harvestehude,20249,31 Bay Drive,4,"31 Bay Drive, Hamburg Harvestehude, 20249, Germany",53.5776266,9.9908875
+393,"Hauck, Kovacek and Schuster",Germany,Cottbus,3055,7 Mayer Parkway,4,"7 Mayer Parkway, Cottbus, 3055, Germany",51.7941895,14.3056705
+394,"Blick, Rodriguez and Boyle",Germany,Nürnberg,90451,73840 Ruskin Junction,4,"73840 Ruskin Junction, Nürnberg, 90451, Germany",49.4025357,11.0502709
+395,Maggio and Sons,Germany,Hamburg,22559,86949 Warrior Lane,4,"86949 Warrior Lane, Hamburg, 22559, Germany",53.5830905,9.7537598
+396,Ankunding Inc,Germany,Dresden,1462,86 Sunfield Court,4,"86 Sunfield Court, Dresden, 1462, Germany",51.0504088,13.7372621
+397,Baumbach-Schaefer,Germany,Wuppertal,42349,06 Loftsgordon Drive,4,"06 Loftsgordon Drive, Wuppertal, 42349, Germany",51.2034374,7.1301012
+398,"Vandervort, Kilback and Koepp",Germany,Bielefeld,33619,0 Schmedeman Hill,4,"0 Schmedeman Hill, Bielefeld, 33619, Germany",52.0404442,8.4770585
+399,"Rodriguez, Wolff and Lubowitz",Germany,Aachen,52080,90 Killdeer Hill,4,"90 Killdeer Hill, Aachen, 52080, Germany",50.7925769,6.1597163
+400,Dibbert Inc,Belgium,Charleroi,6042,2 Algoma Plaza,4,"2 Algoma Plaza, Charleroi, 6042, Belgium",50.4315612,4.4472854
+401,Kling-Walker,Germany,Berlin,14109,516 Boyd Lane,4,"516 Boyd Lane, Berlin, 14109, Germany",52.415113,13.1468678
+402,Stracke-Abshire,Germany,Hannover,30453,8048 Roxbury Drive,4,"8048 Roxbury Drive, Hannover, 30453, Germany",52.3758916,9.7320104
+403,Ledner-Hilpert,Germany,Berlin,13409,32 Doe Crossing Crossing,4,"32 Doe Crossing Crossing, Berlin, 13409, Germany",52.5693104,13.3714743
+404,Watsica Inc,Germany,Witzenhausen,37217,775 Hagan Court,4,"775 Hagan Court, Witzenhausen, 37217, Germany",51.349366,9.7730968
+405,"Streich, Shanahan and Paucek",Germany,Hamburg Sankt Pauli,20459,120 Muir Crossing,4,"120 Muir Crossing, Hamburg Sankt Pauli, 20459, Germany",53.5472987,9.9778279
+406,Prohaska-Lemke,Germany,Hamburg,20249,22 Stuart Center,4,"22 Stuart Center, Hamburg, 20249, Germany",53.5488282,9.9871703
+407,Gottlieb-Ratke,Germany,Düsseldorf,40489,49 Amoth Trail,4,"49 Amoth Trail, Düsseldorf, 40489, Germany",51.3305246,6.7625867
+408,"Waters, Kihn and Keeling",Germany,Aachen,52080,66 Caliangt Court,4,"66 Caliangt Court, Aachen, 52080, Germany",50.7925769,6.1597163
+409,Mosciski Group,Germany,Mönchengladbach,41199,4454 Sunnyside Lane,4,"4454 Sunnyside Lane, Mönchengladbach, 41199, Germany",51.1329676,6.4449432
+410,Klocko and Sons,Germany,Leipzig,4109,0 Brown Plaza,4,"0 Brown Plaza, Leipzig, 4109, Germany",51.3383504,12.3634475
+411,Schoen-Dicki,Belgium,Bruxelles,1170,68659 Redwing Hill,4,"68659 Redwing Hill, Bruxelles, 1170, Belgium",50.8476424,4.3571696
+412,Kuhic Inc,Germany,Düsseldorf,40489,59 Dunning Point,4,"59 Dunning Point, Düsseldorf, 40489, Germany",51.3305246,6.7625867
+413,Toy-Grant,Germany,Rostock,18147,20287 Havey Street,4,"20287 Havey Street, Rostock, 18147, Germany",54.1463269,12.1186173
+414,"Ortiz, O'Conner and Pfannerstill",Germany,Hannover,30629,66094 Dayton Street,4,"66094 Dayton Street, Hannover, 30629, Germany",52.3927372,9.8476686
+415,Berge LLC,Germany,München,80804,0286 Sommers Way,4,"0286 Sommers Way, München, 80804, Germany",48.1700928,11.5776824
+416,"Homenick, Lakin and Klocko",Germany,Bonn,53129,09 Grim Center,4,"09 Grim Center, Bonn, 53129, Germany",50.7074591,7.1093481
+417,McLaughlin-Schuster,Belgium,Tournai,7536,26 Montana Circle,4,"26 Montana Circle, Tournai, 7536, Belgium",50.59219,3.4387783
+418,Welch-Goldner,Germany,Köln,51107,95 Grasskamp Way,4,"95 Grasskamp Way, Köln, 51107, Germany",50.9173381,7.0902515
+419,Zieme-Hartmann,Germany,Wiesbaden,65191,2498 Golden Leaf Center,4,"2498 Golden Leaf Center, Wiesbaden, 65191, Germany",50.0897141,8.271907
+420,O'Hara and Sons,Germany,Remscheid,42897,2 Sundown Park,4,"2 Sundown Park, Remscheid, 42897, Germany",51.1730117,7.2822788
+421,Monahan-Dickinson,Germany,Dortmund,44269,21 Carberry Circle,4,"21 Carberry Circle, Dortmund, 44269, Germany",51.4918437,7.5319762
+422,"Fadel, Welch and Maggio",Germany,Hamburg,22041,8 Judy Crossing,4,"8 Judy Crossing, Hamburg, 22041, Germany",53.5754959,10.0807485
+423,"Hessel, Shields and Bailey",Germany,Dortmund,44269,2987 Mayer Way,4,"2987 Mayer Way, Dortmund, 44269, Germany",51.4918437,7.5319762
+424,Schuster-Hilll,Germany,Gelsenkirchen,45886,27 Kropf Circle,4,"27 Kropf Circle, Gelsenkirchen, 45886, Germany",51.4964248,7.1215271
+425,Harvey Group,Germany,Wuppertal,42349,9481 Declaration Plaza,4,"9481 Declaration Plaza, Wuppertal, 42349, Germany",51.2034374,7.1301012
+426,"Ward, Sauer and Conn",Germany,Dresden,1189,1 Banding Circle,4,"1 Banding Circle, Dresden, 1189, Germany",51.0648706,13.7528233
+427,"Abbott, Hickle and Schroeder",Germany,Rostock,18147,278 Garrison Avenue,4,"278 Garrison Avenue, Rostock, 18147, Germany",54.1463269,12.1186173
+428,"Bahringer, Zulauf and Will",Germany,Mainz,55124,7 West Avenue,4,"7 West Avenue, Mainz, 55124, Germany",50.0022253,8.1937267
+429,Moen-Zboncak,Germany,München,80686,526 Fremont Alley,4,"526 Fremont Alley, München, 80686, Germany",48.1351253,11.5819806
+430,"Schmidt, Klocko and Block",Germany,Hamburg,21037,4215 Kennedy Court,4,"4215 Kennedy Court, Hamburg, 21037, Germany",53.5488282,9.9871703
+431,"Beatty, Lockman and Smitham",Germany,Halle,6126,26140 Dunning Street,4,"26140 Dunning Street, Halle, 6126, Germany",51.4953567,11.9662371
+432,"Hackett, Bosco and McGlynn",Germany,Würzburg,97078,6 Moulton Trail,4,"6 Moulton Trail, Würzburg, 97078, Germany",49.7913044,9.9533548
+433,Wunsch-Sipes,Germany,Heilbronn,74080,8 Melvin Crossing,4,"8 Melvin Crossing, Heilbronn, 74080, Germany",49.1376432,9.1776059
+434,Schulist-Smitham,Germany,Kassel,34132,96531 Utah Pass,4,"96531 Utah Pass, Kassel, 34132, Germany",51.3127114,9.4797461
+435,Turcotte-Rolfson,Germany,Kiel,24109,19868 5th Place,4,"19868 5th Place, Kiel, 24109, Germany",54.3171885,10.0477345
+436,Boyle-Kunze,Belgium,Péruwelz,7604,6 Bluestem Road,4,"6 Bluestem Road, Péruwelz, 7604, Belgium",50.5474037,3.5567339
+437,Barton Group,Germany,München,81679,5246 Melby Point,4,"5246 Melby Point, München, 81679, Germany",48.1440135,11.6074275
+438,"Jacobs, Lockman and Tillman",Germany,Wuppertal,42349,198 Butterfield Way,4,"198 Butterfield Way, Wuppertal, 42349, Germany",51.2034374,7.1301012
+439,Terry Group,Germany,Hamburg Winterhude,22303,5939 Macpherson Lane,4,"5939 Macpherson Lane, Hamburg Winterhude, 22303, Germany",53.5910631,10.0260615
+440,Funk-Kuphal,Belgium,Namur,5100,57027 Oak Valley Alley,4,"57027 Oak Valley Alley, Namur, 5100, Belgium",50.4198861,4.9246444
+441,"Lueilwitz, Ondricka and Altenwerth",Germany,Nürnberg,90411,562 Shoshone Park,4,"562 Shoshone Park, Nürnberg, 90411, Germany",49.4641265,11.0931205
+442,"Jerde, Marquardt and Hamill",Germany,Düsseldorf,40225,56 Nevada Hill,4,"56 Nevada Hill, Düsseldorf, 40225, Germany",51.1974375,6.7898817
+443,"Lowe, Kirlin and Lakin",Germany,Wuppertal,42349,635 Barby Alley,4,"635 Barby Alley, Wuppertal, 42349, Germany",51.2034374,7.1301012
+444,Lindgren Group,Germany,Berlin,12437,2678 Pine View Plaza,4,"2678 Pine View Plaza, Berlin, 12437, Germany",52.5200066,13.404954
+445,West-VonRueden,Germany,München,80337,3 Blackbird Alley,4,"3 Blackbird Alley, München, 80337, Germany",48.1373246,11.5711203
+446,Bailey-Quigley,Germany,Lübeck,23568,130 Heffernan Place,4,"130 Heffernan Place, Lübeck, 23568, Germany",53.903083,10.7533775
+447,"Stiedemann, Nader and Kunde",Germany,Halle,6116,9 Glacier Hill Parkway,4,"9 Glacier Hill Parkway, Halle, 6116, Germany",51.4953567,11.9662371
+448,"Koelpin, Nicolas and Strosin",Germany,Berlin,14109,8375 Sachtjen Plaza,4,"8375 Sachtjen Plaza, Berlin, 14109, Germany",52.415113,13.1468678
+449,Dicki-Goodwin,Germany,Frankfurt am Main,60549,590 Bashford Avenue,4,"590 Bashford Avenue, Frankfurt am Main, 60549, Germany",50.041381,8.5800547
+450,Ziemann-Murray,Germany,Dresden,1462,3059 Carberry Terrace,4,"3059 Carberry Terrace, Dresden, 1462, Germany",51.0504088,13.7372621
+451,Lakin and Sons,Germany,Würzburg,97078,66 Cottonwood Hill,4,"66 Cottonwood Hill, Würzburg, 97078, Germany",49.8180135,9.9637931
+452,Luettgen-Nikolaus,Germany,Hamburg Harvestehude,20249,163 Hayes Circle,4,"163 Hayes Circle, Hamburg Harvestehude, 20249, Germany",53.5900195,9.9897946
+453,"Orn, Konopelski and Brekke",Germany,Chemnitz,9116,320 Manufacturers Hill,4,"320 Manufacturers Hill, Chemnitz, 9116, Germany",50.8290179,12.872972
+454,McCullough-Purdy,Germany,Augsburg,86156,96 Golf View Circle,4,"96 Golf View Circle, Augsburg, 86156, Germany",48.3920947,10.8553557
+455,Skiles and Sons,Belgium,Bruxelles,1050,68074 Farmco Court,4,"68074 Farmco Court, Bruxelles, 1050, Belgium",50.8235717,4.3766927
+456,Paucek LLC,Germany,Münster,48161,52 Anderson Place,4,"52 Anderson Place, Münster, 48161, Germany",51.9601912,7.5468477
+457,"Boyer, Little and Quigley",Belgium,Tournai,7504,9 Dexter Pass,4,"9 Dexter Pass, Tournai, 7504, Belgium",50.585206,3.3300918
+458,Stoltenberg-Crooks,Germany,Rostock,18147,360 Harbort Parkway,4,"360 Harbort Parkway, Rostock, 18147, Germany",54.1463269,12.1186173
+459,"Hermiston, Schultz and Hettinger",Germany,Hannover,30453,65 Redwing Junction,4,"65 Redwing Junction, Hannover, 30453, Germany",52.3723858,9.6890537
+460,Little-Hintz,Germany,Hamm,59071,2050 Susan Avenue,4,"2050 Susan Avenue, Hamm, 59071, Germany",51.6813704,7.9085254
+461,West LLC,Germany,Erfurt,99089,4452 Lakeland Crossing,4,"4452 Lakeland Crossing, Erfurt, 99089, Germany",50.9977219,11.0137723
+462,Treutel Inc,Germany,Berlin,14199,26 Iowa Pass,4,"26 Iowa Pass, Berlin, 14199, Germany",52.4767935,13.2962036
+463,Brekke-Smith,Belgium,Tournai,7536,0154 Buena Vista Road,4,"0154 Buena Vista Road, Tournai, 7536, Belgium",50.59219,3.4387783
+464,"Keeling, Crist and Gislason",Belgium,Antwerpen,2170,36311 Prentice Way,4,"36311 Prentice Way, Antwerpen, 2170, Belgium",51.2213404,4.4051485
+465,"Tillman, Lindgren and Kohler",Germany,Ludwigshafen am Rhein,67067,72378 Oneill Pass,4,"72378 Oneill Pass, Ludwigshafen am Rhein, 67067, Germany",49.4603474,8.402137
+466,"Mraz, Kemmer and Huels",Germany,Wetzlar,35581,9 Hoard Alley,4,"9 Hoard Alley, Wetzlar, 35581, Germany",50.5487974,8.5763725
+467,Lynch Group,Belgium,Bouillon,6834,7542 Havey Plaza,4,"7542 Havey Plaza, Bouillon, 6834, Belgium",49.8417042,5.1214901
+468,Nader and Sons,Belgium,Momignies,6594,384 Milwaukee Way,4,"384 Milwaukee Way, Momignies, 6594, Belgium",50.0109884,4.1638985
+469,Casper and Sons,Germany,Wetzlar,35581,232 Kinsman Hill,4,"232 Kinsman Hill, Wetzlar, 35581, Germany",50.5487974,8.5763725
+470,Macejkovic LLC,Germany,Leipzig,4317,25 Manitowish Place,4,"25 Manitowish Place, Leipzig, 4317, Germany",51.3396955,12.3730747
+471,Emmerich and Sons,Germany,Düsseldorf,40215,63 Bunting Crossing,4,"63 Bunting Crossing, Düsseldorf, 40215, Germany",51.2149435,6.7825598
+472,"Konopelski, Schowalter and Koelpin",Germany,Hamburg,22453,5 Norway Maple Court,4,"5 Norway Maple Court, Hamburg, 22453, Germany",53.8948813,9.5169277
+473,Connelly LLC,Belgium,Mons,7032,66 Bay Circle,4,"66 Bay Circle, Mons, 7032, Belgium",50.4271996,3.989666
+474,Kub-Hahn,Germany,Berlin,12169,4 Anniversary Pass,4,"4 Anniversary Pass, Berlin, 12169, Germany",52.4555293,13.339803
+475,Nolan-Rippin,Germany,Hamburg Sankt Pauli,20459,0 Hazelcrest Crossing,4,"0 Hazelcrest Crossing, Hamburg Sankt Pauli, 20459, Germany",53.5508628,9.9699353
+476,"Rutherford, Ullrich and Bednar",Germany,Düsseldorf,40489,25005 Harbort Hill,4,"25005 Harbort Hill, Düsseldorf, 40489, Germany",51.2670497,6.7865798
+477,"Breitenberg, Mraz and Friesen",Germany,Augsburg,86156,2 Sugar Point,4,"2 Sugar Point, Augsburg, 86156, Germany",48.3920947,10.8553557
+478,Hintz-Purdy,Germany,Stuttgart Stuttgart-Mitte,70180,6127 Tennessee Court,4,"6127 Tennessee Court, Stuttgart Stuttgart-Mitte, 70180, Germany",48.7791249,9.1800904
+479,Schaefer Inc,Germany,Dillenburg,35687,01197 Manitowish Pass,4,"01197 Manitowish Pass, Dillenburg, 35687, Germany",50.7218455,8.3073813
+480,Jaskolski-Quigley,Belgium,Bruxelles,1170,7476 Twin Pines Lane,4,"7476 Twin Pines Lane, Bruxelles, 1170, Belgium",50.7881573,4.4180065
+481,Lesch-Carter,Germany,Kiel,24109,96876 Graedel Park,4,"96876 Graedel Park, Kiel, 24109, Germany",54.3171885,10.0477345
+482,Trantow and Sons,Germany,Köln,51107,87394 Knutson Lane,4,"87394 Knutson Lane, Köln, 51107, Germany",50.9173381,7.0902515
+483,Hilpert Inc,Germany,Berlin,12103,47664 Waxwing Place,4,"47664 Waxwing Place, Berlin, 12103, Germany",52.5200066,13.404954
+484,"Hauck, Keebler and Pfeffer",Belgium,Tournai,7504,417 Chive Lane,4,"417 Chive Lane, Tournai, 7504, Belgium",50.585206,3.3300918
+485,Towne Group,Germany,Osnabrück,49082,72 Prairieview Plaza,4,"72 Prairieview Plaza, Osnabrück, 49082, Germany",52.2415583,8.0495294
+486,"Bergnaum, Purdy and Bins",Germany,Hamburg,22559,0 Melby Alley,4,"0 Melby Alley, Hamburg, 22559, Germany",53.5830905,9.7537598
+487,Murazik-Keebler,Germany,Heilbronn,74080,0 Barby Street,4,"0 Barby Street, Heilbronn, 74080, Germany",49.1376432,9.1776059
+488,Zieme Group,Germany,München,80686,19278 Esker Point,4,"19278 Esker Point, München, 80686, Germany",48.1288628,11.5089621
+489,"Moore, Homenick and Glover",Germany,Hamburg Sankt Pauli,20459,9792 Meadow Vale Plaza,4,"9792 Meadow Vale Plaza, Hamburg Sankt Pauli, 20459, Germany",53.5472987,9.9778279
+490,Zboncak-Dare,Germany,Hanau,63456,555 Jackson Park,4,"555 Jackson Park, Hanau, 63456, Germany",50.104315,8.911141
+492,"Satterfield, Wuckert and Anderson",France,Bressuire,79309 CEDEX,40 Farragut Parkway,6,"40 Farragut Parkway, Bressuire, 79309 CEDEX, France",46.84246,-0.492866
+493,"Roberts, Bergnaum and Metz",Sweden,Luleå,973 41,2 Pennsylvania Center,8,"2 Pennsylvania Center, Luleå, 973 41, Sweden",65.584819,22.1567026
+494,Heidenreich-Balistreri,Poland,Żurowa,38-323,8 Iowa Way,5,"8 Iowa Way, Żurowa, 38-323, Poland",49.8300103,21.143846
+495,Renner Group,Poland,Dobra,72-210,044 Sommers Avenue,5,"044 Sommers Avenue, Dobra, 72-210, Poland",53.5845867,15.3116898
+496,"Carroll, Kub and Lakin",France,Marseille,13382 CEDEX 13,82 Beilfuss Center,6,"82 Beilfuss Center, Marseille, 13382 CEDEX 13, France",43.3025742,5.3690743
+497,"Douglas, Krajcik and Lindgren",Norway,Larvik,3260,56 Hermina Road,8,"56 Hermina Road, Larvik, 3260, Norway",59.0538363,10.0295463
+498,Friesen-Kautzer,Sweden,Örebro,702 21,3 Reinke Alley,8,"3 Reinke Alley, Örebro, 702 21, Sweden",59.2278562,15.2613386
+499,D'Amore-Roberts,Czech Republic,Jablonec nad Nisou,466 01,030 Warbler Crossing,5,"030 Warbler Crossing, Jablonec nad Nisou, 466 01, Czech Republic",50.7193517,15.1765093
+500,Hahn Group,Czech Republic,Liběšice,506 01,4 Thierer Circle,5,"4 Thierer Circle, Liběšice, 506 01, Czech Republic",50.3448824,15.3606459
+502,Breitenberg Group,Netherlands,Hoorn,1624,5 Katie Avenue,4,"5 Katie Avenue, Hoorn, 1624, Netherlands",52.6423654,5.0602124
+503,Larkin-Murazik,Poland,Dębowa Łąka,87-207,981 Bayside Pass,5,"981 Bayside Pass, Dębowa Łąka, 87-207, Poland",53.2526281,19.0974276
+504,Pollich-Kuphal,Sweden,Simrishamn,272 24,2 Shelley Park,8,"2 Shelley Park, Simrishamn, 272 24, Sweden",55.5573959,14.3489651
+506,"Okuneva, Russel and O'Keefe",Sweden,Täby,183 55,400 Clyde Gallagher Circle,8,"400 Clyde Gallagher Circle, Täby, 183 55, Sweden",59.4291534,18.0684457
+507,"Fay, Senger and Rau",Croatia,Stari Grad,21460,5 Victoria Road,6,"5 Victoria Road, Stari Grad, 21460, Croatia",43.1839958,16.5992505
+508,"Brakus, Waters and Labadie",Lithuania,Telsiai,87001,5 Northfield Terrace,8,"5 Northfield Terrace, Telsiai, 87001, Lithuania",55.9833874,22.2503539
+509,King Inc,Czech Republic,Morávka,739 04,70048 Boyd Plaza,5,"70048 Boyd Plaza, Morávka, 739 04, Czech Republic",49.5958178,18.5189892
+510,Lynch-Kiehn,Sweden,Norberg,738 23,048 Tony Pass,8,"048 Tony Pass, Norberg, 738 23, Sweden",60.065042,15.923796
+511,"Powlowski, Spencer and Raynor",Sweden,Skurup,274 34,21 Prairieview Terrace,8,"21 Prairieview Terrace, Skurup, 274 34, Sweden",55.4763949,13.5019331
+512,Shanahan Inc,Sweden,Falkenberg,311 35,794 Shopko Plaza,8,"794 Shopko Plaza, Falkenberg, 311 35, Sweden",56.9096602,12.4888867
+513,"Wilderman, Homenick and Kuvalis",Poland,Grabica,97-306,9 Brickson Park Park,5,"9 Brickson Park Park, Grabica, 97-306, Poland",51.4486694,19.5773682
+514,Walter Group,France,Grenoble,38066 CEDEX 2,8 Lake View Parkway,6,"8 Lake View Parkway, Grenoble, 38066 CEDEX 2, France",45.188529,5.724524
+515,Kemmer-Pouros,Sweden,Gävle,801 38,28107 Mandrake Parkway,8,"28107 Mandrake Parkway, Gävle, 801 38, Sweden",60.6748796,17.1412726
+517,"Willms, Lockman and Larkin",France,Saint-Laurent-Blangy,62055 CEDEX,1429 Helena Street,6,"1429 Helena Street, Saint-Laurent-Blangy, 62055 CEDEX, France",50.300542,2.801689
+518,"Hand, Turner and Sporer",Finland,Leppävirta,79101,3417 Caliangt Drive,8,"3417 Caliangt Drive, Leppävirta, 79101, Finland",62.4917052,27.7880216
+519,Lang-Okuneva,France,Paris 16,75784 CEDEX 16,1 Pearson Drive,6,"1 Pearson Drive, Paris 16, 75784 CEDEX 16, France",48.85816,2.2748917
+520,Parker-Bradtke,Croatia,Komiža,21485,515 Mcguire Pass,6,"515 Mcguire Pass, Komiža, 21485, Croatia",43.0444596,16.0917932
+521,"Purdy, Hermann and Macejkovic",Italy,Roma,128,76925 Knutson Park,6,"76925 Knutson Park, Roma, 128, Italy",41.8967068,12.4822025
+523,Donnelly Group,Croatia,Horvati,10436,509 Jackson Center,6,"509 Jackson Center, Horvati, 10436, Croatia",45.7176062,15.814821
+524,Kuvalis-Rogahn,Netherlands,Utrecht (stad),3560,05995 Artisan Lane,4,"05995 Artisan Lane, Utrecht (stad), 3560, Netherlands",52.0907374,5.1214201
+525,Koelpin-Pouros,Finland,Hankasalmi,41521,328 Ridge Oak Alley,8,"328 Ridge Oak Alley, Hankasalmi, 41521, Finland",62.3894407,26.4361327
+526,McClure-Williamson,Croatia,Žrnovnica,21251,2628 Mariners Cove Point,6,"2628 Mariners Cove Point, Žrnovnica, 21251, Croatia",43.5295279,16.5937658
+527,"Johns, Wilderman and Abernathy",Sweden,Ulricehamn,523 32,18629 Grover Circle,8,"18629 Grover Circle, Ulricehamn, 523 32, Sweden",57.7841841,13.4183284
+528,Medhurst LLC,France,Bagneux,92224 CEDEX,46 Gulseth Avenue,6,"46 Gulseth Avenue, Bagneux, 92224 CEDEX, France",48.796696,2.31002
+529,Walsh-Bergstrom,Czech Republic,Teplice,415 01,685 Redwing Trail,5,"685 Redwing Trail, Teplice, 415 01, Czech Republic",50.640985,13.8275678
+530,Kuhic-Beier,France,Lille,59002 CEDEX,7976 South Place,6,"7976 South Place, Lille, 59002 CEDEX, France",50.62925,3.057256
+531,Bosco and Sons,France,Bar-le-Duc,55013 CEDEX,7 6th Junction,6,"7 6th Junction, Bar-le-Duc, 55013 CEDEX, France",48.773605,5.158238
+532,"Hilpert, Mosciski and Feest",Sweden,Torsås,385 30,76125 Declaration Drive,8,"76125 Declaration Drive, Torsås, 385 30, Sweden",56.412767,16.0115323
+533,Hoeger-Blick,Sweden,Mora,792 52,03 Banding Plaza,8,"03 Banding Plaza, Mora, 792 52, Sweden",61.0180334,14.6053692
+534,Mohr Inc,France,Boulogne-Billancourt,92511 CEDEX,2 5th Hill,6,"2 5th Hill, Boulogne-Billancourt, 92511 CEDEX, France",48.8396952,2.2399123
+535,Ratke Inc,France,Lyon,69339 CEDEX 02,4805 Kennedy Road,6,"4805 Kennedy Road, Lyon, 69339 CEDEX 02, France",45.764043,4.835659
+536,Hilll Inc,Poland,Garbów,21-080,9 Judy Terrace,5,"9 Judy Terrace, Garbów, 21-080, Poland",51.355095,22.3293657
+537,Kuvalis-Little,France,Thionville,57119 CEDEX,5985 Fair Oaks Trail,6,"5985 Fair Oaks Trail, Thionville, 57119 CEDEX, France",49.357328,6.1685835
+538,Sauer Group,Poland,Kramarzówka,37-560,384 Packers Junction,5,"384 Packers Junction, Kramarzówka, 37-560, Poland",49.8602272,22.5025761
+539,Terry-Runolfsdottir,Sweden,Osby,283 45,53 West Crossing,8,"53 West Crossing, Osby, 283 45, Sweden",56.3815355,13.9929413
+540,Becker LLC,France,Amiens,80004 CEDEX 1,741 Old Shore Parkway,6,"741 Old Shore Parkway, Amiens, 80004 CEDEX 1, France",49.894067,2.295753
+541,Stiedemann Inc,Croatia,Tučepi,21325,41 Anhalt Center,6,"41 Anhalt Center, Tučepi, 21325, Croatia",43.285793,17.0893798
+542,Willms LLC,France,Chambéry,73031 CEDEX,1 School Court,6,"1 School Court, Chambéry, 73031 CEDEX, France",45.581098,5.942217
+543,Pfannerstill LLC,France,Vagney,88125 CEDEX,8 Pleasure Center,6,"8 Pleasure Center, Vagney, 88125 CEDEX, France",48.008741,6.716075
+544,"Crona, Bernier and Breitenberg",France,Levallois-Perret,92691 CEDEX,559 Graceland Trail,6,"559 Graceland Trail, Levallois-Perret, 92691 CEDEX, France",48.893217,2.287864
+545,"Effertz, Cummerata and Tromp",Poland,Ożarowice,42-625,8 Judy Crossing,5,"8 Judy Crossing, Ożarowice, 42-625, Poland",50.4614333,19.0428325
+546,Larson LLC,Poland,Halinów,05-074,56 Amoth Hill,5,"56 Amoth Hill, Halinów, 05-074, Poland",52.2283049,21.355139
+547,"Nitzsche, Hoeger and Kemmer",Poland,Krasnystaw,22-300,3994 Corben Crossing,5,"3994 Corben Crossing, Krasnystaw, 22-300, Poland",50.98411,23.17194
+548,"Predovic, Bernier and Gislason",Finland,Forssa,30421,91498 Fallview Lane,8,"91498 Fallview Lane, Forssa, 30421, Finland",60.8146319,23.6339467
+549,Wehner and Sons,France,Montesson,78364 CEDEX,82 Northland Circle,6,"82 Northland Circle, Montesson, 78364 CEDEX, France",48.908587,2.149777
+550,"Ledner, Hettinger and Balistreri",Sweden,Huddinge,141 53,6 Spenser Avenue,8,"6 Spenser Avenue, Huddinge, 141 53, Sweden",59.2234099,17.9436913
+551,Parker Inc,France,Paris 15,75737 CEDEX 15,46798 Shopko Center,6,"46798 Shopko Center, Paris 15, 75737 CEDEX 15, France",48.8426159,2.2924372
+552,Mayer Group,Sweden,Sala,733 24,763 Declaration Plaza,8,"763 Declaration Plaza, Sala, 733 24, Sweden",59.9208594,16.606328
+553,"Quigley, Rolfson and Bernhard",Slovenia,Dobje pri Planini,3224,3913 Blaine Road,6,"3913 Blaine Road, Dobje pri Planini, 3224, Slovenia",46.136968,15.3941873
+554,Prohaska-Dickens,Hungary,Eger,3304,653 Debra Avenue,5,"653 Debra Avenue, Eger, 3304, Hungary",47.9025348,20.3772284
+555,"Smitham, Hodkiewicz and Doyle",Norway,Oslo,712,0 Melrose Lane,8,"0 Melrose Lane, Oslo, 712, Norway",59.9138688,10.7522454
+556,Murray-Cassin,Sweden,Linköping,582 02,509 Marcy Way,8,"509 Marcy Way, Linköping, 582 02, Sweden",58.410807,15.6213727
+557,Grimes LLC,France,La Ravoire,73494 CEDEX,5449 Summit Crossing,6,"5449 Summit Crossing, La Ravoire, 73494 CEDEX, France",45.5566195,5.9621919
+558,"Reichel, Keeling and Fritsch",Czech Republic,Načeradec,257 08,74 Westport Court,5,"74 Westport Court, Načeradec, 257 08, Czech Republic",49.6101863,14.9063338
+559,"Wilderman, Schamberger and Morissette",France,Tournon-sur-Rhône,07309 CEDEX,18 Dunning Pass,6,"18 Dunning Pass, Tournon-sur-Rhône, 07309 CEDEX, France",45.067915,4.832137
+561,Waters-Senger,Sweden,Nacka,131 46,7 Union Junction,8,"7 Union Junction, Nacka, 131 46, Sweden",59.3092328,18.2705343
+562,Harris-Murazik,France,Wintzenheim,68925 CEDEX,66 Shasta Junction,6,"66 Shasta Junction, Wintzenheim, 68925 CEDEX, France",48.073122,7.289782
+563,"Murray, Lang and Jenkins",Czech Republic,Mirotice,364 71,92 Banding Point,5,"92 Banding Point, Mirotice, 364 71, Czech Republic",50.1110411,12.9988101
+564,Gusikowski LLC,Poland,Spytkowice,34-745,81 Fieldstone Crossing,5,"81 Fieldstone Crossing, Spytkowice, 34-745, Poland",49.5823961,19.8189406
+565,"Stiedemann, Hirthe and Runolfsdottir",France,Pau,64029 CEDEX 9,2 Fair Oaks Center,6,"2 Fair Oaks Center, Pau, 64029 CEDEX 9, France",43.2951,-0.370797
+566,"Hickle, Strosin and Altenwerth",France,Redon,35605 CEDEX,11284 Alpine Street,6,"11284 Alpine Street, Redon, 35605 CEDEX, France",43.362546,1.960514
+567,Stehr-McDermott,Czech Republic,Vilémov,783 22,303 Esch Park,5,"303 Esch Park, Vilémov, 783 22, Czech Republic",49.6354683,16.9953098
+568,Heaney-Johnston,Slovenia,Lovrenc na Pohorju,2344,52 Onsgard Junction,6,"52 Onsgard Junction, Lovrenc na Pohorju, 2344, Slovenia",46.5402775,15.3884817
+569,Farrell Group,Poland,Trzebnica,55-100,57 Spenser Avenue,5,"57 Spenser Avenue, Trzebnica, 55-100, Poland",51.3104211,17.0632716
+570,"Zboncak, Baumbach and Kuphal",Sweden,Falkenberg,311 35,2 Oxford Junction,8,"2 Oxford Junction, Falkenberg, 311 35, Sweden",56.9027333,12.4888013
+571,Hirthe and Sons,Finland,Ylitornio,95601,61438 Beilfuss Plaza,8,"61438 Beilfuss Plaza, Ylitornio, 95601, Finland",66.3192661,23.6709696
+573,Leannon-Ferry,France,Limoges,87066 CEDEX 2,57223 Westend Terrace,6,"57223 Westend Terrace, Limoges, 87066 CEDEX 2, France",45.704344,1.09086
+574,"Moore, Considine and Langworth",Czech Republic,Chřibská,407 44,66 Bunker Hill Trail,5,"66 Bunker Hill Trail, Chřibská, 407 44, Czech Republic",50.8632459,14.4829826
+575,"Wyman, Hoppe and Jacobi",Hungary,Szeged,6704,4637 Merrick Plaza,5,"4637 Merrick Plaza, Szeged, 6704, Hungary",46.2530102,20.1414253
+576,"Romaguera, Lind and Goyette",Czech Republic,Ráječko,679 02,57 Schurz Center,5,"57 Schurz Center, Ráječko, 679 02, Czech Republic",49.3933184,16.6413357
+577,Nikolaus LLC,Finland,Lammi,16901,16177 Sycamore Place,8,"16177 Sycamore Place, Lammi, 16901, Finland",61.077539,25.0109834
+578,Lemke Inc,Sweden,Höganäs,263 25,7431 Pierstorff Drive,8,"7431 Pierstorff Drive, Höganäs, 263 25, Sweden",56.2006388,12.5553288
+579,"Rosenbaum, Considine and Mosciski",France,Croix,59961 CEDEX,24 Burrows Lane,6,"24 Burrows Lane, Croix, 59961 CEDEX, France",50.67732,3.148719
+580,Barrows Group,Croatia,Laslovo,31214,42158 Rowland Pass,6,"42158 Rowland Pass, Laslovo, 31214, Croatia",45.4136626,18.7293987
+581,Rau-Reilly,Poland,Praszka,46-320,561 Eastlawn Drive,5,"561 Eastlawn Drive, Praszka, 46-320, Poland",51.05359,18.4535
+583,"Prohaska, Mertz and Cole",Czech Republic,Klatovy,341 42,67002 Donald Alley,5,"67002 Donald Alley, Klatovy, 341 42, Czech Republic",49.322689,13.3849581
+584,Schaden LLC,Poland,Załuski,09-142,00 Porter Street,5,"00 Porter Street, Załuski, 09-142, Poland",52.5111435,20.5287919
+586,"Pfannerstill, Blanda and Prohaska",France,Paris 08,75419 CEDEX 08,629 Brickson Park Circle,6,"629 Brickson Park Circle, Paris 08, 75419 CEDEX 08, France",48.8689621,2.3101408
+587,Boehm and Sons,Finland,Töysä,63600,5 Scott Center,8,"5 Scott Center, Töysä, 63600, Finland",62.6274285,23.8122978
+588,Goyette LLC,Poland,Pawonków,42-772,7454 North Alley,5,"7454 North Alley, Pawonków, 42-772, Poland",50.6942528,18.5615805
+589,Sipes-Haag,Czech Republic,Staré Město,788 32,36243 Laurel Road,5,"36243 Laurel Road, Staré Město, 788 32, Czech Republic",50.1617318,16.9473457
+590,Cummings-Runolfsdottir,Lithuania,Šventoji,98044,1 Bayside Road,8,"1 Bayside Road, Šventoji, 98044, Lithuania",56.0260382,21.0818297
+591,"Murazik, Rutherford and DuBuque",Poland,Tworków,47-451,373 Manufacturers Street,5,"373 Manufacturers Street, Tworków, 47-451, Poland",50.0121557,18.2266369
+592,West-Ondricka,France,Arras,62010 CEDEX,647 Pierstorff Place,6,"647 Pierstorff Place, Arras, 62010 CEDEX, France",50.291002,2.777535
+593,"Reynolds, Rohan and Raynor",Poland,Stanisław Górny,34-103,00 Maywood Plaza,5,"00 Maywood Plaza, Stanisław Górny, 34-103, Poland",49.9274,19.5192859
+594,Fay-Mohr,Poland,Drezdenko,66-530,6866 Sommers Circle,5,"6866 Sommers Circle, Drezdenko, 66-530, Poland",52.83797,15.83104
+595,"McClure, Cormier and Raynor",Sweden,Stockholm,120 16,366 Summerview Road,8,"366 Summerview Road, Stockholm, 120 16, Sweden",59.3293235,18.0685808
+596,Armstrong and Sons,Sweden,Örebro,701 81,0 Caliangt Terrace,8,"0 Caliangt Terrace, Örebro, 701 81, Sweden",59.2752626,15.2134105
+597,"Gerhold, Bayer and Feeney",Czech Republic,Pecka,507 82,6 Fremont Center,5,"6 Fremont Center, Pecka, 507 82, Czech Republic",50.4803347,15.6082286
+598,Hansen Inc,United Kingdom,Langley,SG4,67533 Lakewood Gardens Circle,7,"67533 Lakewood Gardens Circle, Langley, SG4, United Kingdom",51.888151,-0.23924
+599,McKenzie-Harber,Denmark,København,1608,933 Kings Point,8,"933 Kings Point, København, 1608, Denmark",55.6760886,12.5652719
+600,Stamm LLC,France,Juvisy-sur-Orge,91265 CEDEX,4367 Fulton Road,6,"4367 Fulton Road, Juvisy-sur-Orge, 91265 CEDEX, France",48.692871,2.3708618
+602,"Purdy, Borer and Mann",Poland,Baranowo,06-320,3975 Chinook Alley,5,"3975 Chinook Alley, Baranowo, 06-320, Poland",52.8882583,21.3863398
+603,Keeling-Wehner,Poland,Rajsko,32-626,9 Tennyson Hill,5,"9 Tennyson Hill, Rajsko, 32-626, Poland",50.008031,19.1905833
+604,Brakus and Sons,France,Paris 13,75659 CEDEX 13,166 Texas Terrace,6,"166 Texas Terrace, Paris 13, 75659 CEDEX 13, France",31.9685988,-99.9018131
+605,Wilkinson and Sons,France,Périgueux,24053 CEDEX,9 John Wall Trail,6,"9 John Wall Trail, Périgueux, 24053 CEDEX, France",45.180548,0.768949
+606,Wolf Group,United Kingdom,Newton,IV1,5 Tennessee Road,7,"5 Tennessee Road, Newton, IV1, United Kingdom",52.512112,-3.313106
+607,Corkery-Armstrong,Sweden,Solna,169 65,1945 Tony Parkway,8,"1945 Tony Parkway, Solna, 169 65, Sweden",59.3634364,18.0099272
+608,"Fritsch, Franecki and O'Keefe",France,Montceau-les-Mines,71309 CEDEX,47 Hoepker Point,6,"47 Hoepker Point, Montceau-les-Mines, 71309 CEDEX, France",46.790312,4.38888
+609,Lowe Inc,Sweden,Vikbolandet,610 25,1 Sachs Alley,8,"1 Sachs Alley, Vikbolandet, 610 25, Sweden",58.5014132,16.8950982
+610,Jerde-Ward,France,Massy,91309 CEDEX,0 Vernon Lane,6,"0 Vernon Lane, Massy, 91309 CEDEX, France",48.730756,2.27137
+611,Treutel-Hickle,Czech Republic,Třemošnice,538 43,535 3rd Point,5,"535 3rd Point, Třemošnice, 538 43, Czech Republic",49.8691189,15.5800286
+612,"Beahan, Fadel and Waters",Czech Republic,Karlovy Vary,360 01,9 Loomis Terrace,5,"9 Loomis Terrace, Karlovy Vary, 360 01, Czech Republic",50.2318521,12.8719616
+613,Hettinger-Renner,Czech Republic,Chvalšiny,382 08,79 Blue Bill Park Court,5,"79 Blue Bill Park Court, Chvalšiny, 382 08, Czech Republic",48.8540194,14.2111388
+614,Rutherford LLC,France,Paris 09,75455 CEDEX 09,6 Pierstorff Pass,6,"6 Pierstorff Pass, Paris 09, 75455 CEDEX 09, France",48.8789787,2.337829
+615,Ernser and Sons,Czech Republic,Velká Polom,747 64,87 Golf Place,5,"87 Golf Place, Velká Polom, 747 64, Czech Republic",49.8635922,18.0933139
+616,McLaughlin Inc,France,Arras,62972 CEDEX 9,1721 Everett Center,6,"1721 Everett Center, Arras, 62972 CEDEX 9, France",50.291002,2.777535
+617,"Grimes, Leffler and Wuckert",Sweden,Kinna,511 58,2770 West Avenue,8,"2770 West Avenue, Kinna, 511 58, Sweden",57.5002589,12.7091837
+618,"Koss, Johnston and Kub",Sweden,Ystad,271 37,23 Luster Place,8,"23 Luster Place, Ystad, 271 37, Sweden",55.4426515,13.8117207
+619,Littel-Gleason,Czech Republic,Studenec,675 02,83128 Beilfuss Center,5,"83128 Beilfuss Center, Studenec, 675 02, Czech Republic",49.2001199,16.0648122
+621,Collins Inc,France,Grenoble,38035 CEDEX 2,3 Karstens Junction,6,"3 Karstens Junction, Grenoble, 38035 CEDEX 2, France",45.188529,5.724524
+622,"Ullrich, MacGyver and Heidenreich",Sweden,Tidaholm,522 32,8 Ridgeway Junction,8,"8 Ridgeway Junction, Tidaholm, 522 32, Sweden",58.1876217,13.949255
+625,"Metz, Shanahan and Strosin",Sweden,Enköping,745 38,58926 Marcy Park,8,"58926 Marcy Park, Enköping, 745 38, Sweden",59.6189852,17.0509784
+626,Orn and Sons,Finland,Luhanka,19950,166 Eastwood Lane,8,"166 Eastwood Lane, Luhanka, 19950, Finland",61.7968844,25.7035514
+627,Cremin-Lindgren,France,Carquefou,44474 CEDEX,4048 Brickson Park Street,6,"4048 Brickson Park Street, Carquefou, 44474 CEDEX, France",47.296241,-1.486812
+629,Schroeder-Sanford,France,Quimperlé,29399 CEDEX,87 Vermont Way,6,"87 Vermont Way, Quimperlé, 29399 CEDEX, France",47.872586,-3.547546
+630,"Jast, Schimmel and Goldner",France,Toulon,83060 CEDEX,30857 Lillian Parkway,6,"30857 Lillian Parkway, Toulon, 83060 CEDEX, France",43.124228,5.928
+631,Zemlak-Conn,Czech Republic,Štítina,747 91,2998 Sheridan Crossing,5,"2998 Sheridan Crossing, Štítina, 747 91, Czech Republic",49.9148663,18.0124588
+632,"Koch, Botsford and Gottlieb",Sweden,Järfälla,175 54,190 Emmet Park,8,"190 Emmet Park, Järfälla, 175 54, Sweden",59.4431024,17.8336732
+633,Frami-Botsford,France,Dieppe,76883 CEDEX,5 Pleasure Crossing,6,"5 Pleasure Crossing, Dieppe, 76883 CEDEX, France",49.922992,1.077483
+634,Aufderhar-Larkin,Sweden,Bromölla,295 37,7441 Charing Cross Parkway,8,"7441 Charing Cross Parkway, Bromölla, 295 37, Sweden",56.0817105,14.4878816
+635,Hettinger Group,France,Niort,79072 CEDEX 9,97794 Utah Plaza,6,"97794 Utah Plaza, Niort, 79072 CEDEX 9, France",46.323716,-0.464777
+636,Howell-Keeling,France,Lille,59034 CEDEX,983 Towne Terrace,6,"983 Towne Terrace, Lille, 59034 CEDEX, France",50.539688,3.085039
+637,"Renner, Schumm and Gutmann",Sweden,Perstorp,284 32,2313 Colorado Lane,8,"2313 Colorado Lane, Perstorp, 284 32, Sweden",56.137972,13.3949862
+638,Wunsch-Fritsch,France,Orsay,91893 CEDEX,8 Ilene Circle,6,"8 Ilene Circle, Orsay, 91893 CEDEX, France",48.697161,2.189617
+639,"Crist, Moen and Weissnat",France,Fontenay-sous-Bois,94124 CEDEX,301 Vermont Point,6,"301 Vermont Point, Fontenay-sous-Bois, 94124 CEDEX, France",48.851542,2.475907
+640,Greenfelder-Jones,Hungary,Szombathely,9704,7 Beilfuss Street,5,"7 Beilfuss Street, Szombathely, 9704, Hungary",47.2306851,16.6218441
+641,"Stehr, Pollich and Hartmann",Spain,Zamora,49003,24 Carioca Place,6,"24 Carioca Place, Zamora, 49003, Spain",41.5044882,-5.7434763
+642,Green-Wolf,Czech Republic,Tlumačov,763 62,45 Oxford Pass,5,"45 Oxford Pass, Tlumačov, 763 62, Czech Republic",49.2535045,17.4955939
+643,Sporer-Conroy,Sweden,Borås,501 88,5918 Erie Way,8,"5918 Erie Way, Borås, 501 88, Sweden",57.721035,12.939819
+644,"Terry, Gleichner and Johnston",Finland,Lappeenranta,54300,77638 Lien Crossing,8,"77638 Lien Crossing, Lappeenranta, 54300, Finland",60.9794357,28.0853523
+645,Schowalter-Bosco,Sweden,Ljungskile,459 91,40 Shelley Junction,8,"40 Shelley Junction, Ljungskile, 459 91, Sweden",58.1858939,11.9854751
+646,Ward LLC,Hungary,Pécs,7631,28 Corry Alley,5,"28 Corry Alley, Pécs, 7631, Hungary",46.0382687,18.2440979
+647,Kautzer Group,Czech Republic,Velké Losiny,788 15,47766 Sunnyside Junction,5,"47766 Sunnyside Junction, Velké Losiny, 788 15, Czech Republic",50.03197,17.0405873
+648,Tromp Inc,Sweden,Göteborg,412 86,49367 Gerald Circle,8,"49367 Gerald Circle, Göteborg, 412 86, Sweden",57.70887,11.97456
+649,Von-Morissette,France,Valence,26009 CEDEX,1 American Point,6,"1 American Point, Valence, 26009 CEDEX, France",45.243158,4.805474
+650,Blick and Sons,Czech Republic,Dolní Černilov,503 03,65500 Fuller Junction,5,"65500 Fuller Junction, Dolní Černilov, 503 03, Czech Republic",50.2616437,15.9613245
+651,"Toy, Sanford and Bartell",Czech Republic,Terezín,788 14,6207 Elmside Court,5,"6207 Elmside Court, Terezín, 788 14, Czech Republic",50.0099822,17.0336959
+653,Barrows-Powlowski,Croatia,Hodošan,40320,0291 Meadow Vale Crossing,6,"0291 Meadow Vale Crossing, Hodošan, 40320, Croatia",46.3949909,16.6413054
+654,Yundt and Sons,France,Bègles,33324 CEDEX,3 Annamark Crossing,6,"3 Annamark Crossing, Bègles, 33324 CEDEX, France",44.812023,-0.543784
+655,"Rice, Smith and O'Hara",France,Remiremont,88204 CEDEX,6 Kedzie Road,6,"6 Kedzie Road, Remiremont, 88204 CEDEX, France",48.015589,6.591716
+657,Hamill-Stamm,Sweden,Piteå,941 65,221 Sundown Crossing,8,"221 Sundown Crossing, Piteå, 941 65, Sweden",65.3436554,21.5024355
+658,Bechtelar-Volkman,Czech Republic,Nová Paka,509 01,10122 Lighthouse Bay Circle,5,"10122 Lighthouse Bay Circle, Nová Paka, 509 01, Czech Republic",50.494493,15.5150382
+659,"Larkin, Gulgowski and Dickinson",Finland,Hollola,15880,0460 Vahlen Plaza,8,"0460 Vahlen Plaza, Hollola, 15880, Finland",61.0031692,25.3947277
+660,Gerhold and Sons,France,Castelsarrasin,82104 CEDEX,9697 8th Junction,6,"9697 8th Junction, Castelsarrasin, 82104 CEDEX, France",43.94329,0.821825
+661,Shields Group,Sweden,Karlskoga,691 26,0 Cascade Drive,8,"0 Cascade Drive, Karlskoga, 691 26, Sweden",59.328634,14.536414
+662,Rodriguez LLC,Czech Republic,Tlumačov,763 62,9 Pleasure Court,5,"9 Pleasure Court, Tlumačov, 763 62, Czech Republic",49.2535045,17.4955939
+663,"Considine, Howell and Kihn",Norway,Trondheim,7404,624 Charing Cross Avenue,8,"624 Charing Cross Avenue, Trondheim, 7404, Norway",63.4305149,10.3950528
+664,Hilll-Waters,France,Le Puy-en-Velay,43010 CEDEX,8 Merrick Hill,6,"8 Merrick Hill, Le Puy-en-Velay, 43010 CEDEX, France",44.991461,3.943474
+665,Nikolaus Inc,Sweden,Sundsvall,857 42,9325 Graedel Trail,8,"9325 Graedel Trail, Sundsvall, 857 42, Sweden",62.4070944,17.2494041
+666,Goldner-Hoeger,France,Bagnolet,93175 CEDEX,88106 Merrick Place,6,"88106 Merrick Place, Bagnolet, 93175 CEDEX, France",48.872321,2.4247393
+667,Moore-Bartoletti,United Kingdom,Norton,NN11,5 Sheridan Plaza,7,"5 Sheridan Plaza, Norton, NN11, United Kingdom",52.2679288,-1.1202549
+668,"Tremblay, Bauch and Fritsch",Spain,Malaga,29071,60 Burning Wood Terrace,6,"60 Burning Wood Terrace, Malaga, 29071, Spain",36.7651767,-4.2589738
+669,"Pacocha, Daniel and Bartell",Czech Republic,Teplice,415 01,972 Cottonwood Hill,5,"972 Cottonwood Hill, Teplice, 415 01, Czech Republic",50.640985,13.8275678
+670,Schultz-Lindgren,Czech Republic,Chropyně,768 11,79085 Continental Point,5,"79085 Continental Point, Chropyně, 768 11, Czech Republic",49.3564402,17.3645179
+671,Pfeffer-Will,Croatia,Hvar,21450,43495 Heffernan Trail,6,"43495 Heffernan Trail, Hvar, 21450, Croatia",43.1640247,16.5230542
+672,"Dickens, Reilly and Kling",Sweden,Storvik,812 30,3 South Avenue,8,"3 South Avenue, Storvik, 812 30, Sweden",60.5842246,16.5293196
+673,"Cummings, Dickinson and McDermott",Sweden,Trollhättan,461 37,416 Claremont Trail,8,"416 Claremont Trail, Trollhättan, 461 37, Sweden",58.276821,12.3176309
+674,"Mertz, Walsh and Strosin",France,Villefranche-sur-Mer,06239 CEDEX,55 Northfield Center,6,"55 Northfield Center, Villefranche-sur-Mer, 06239 CEDEX, France",43.703976,7.311109
+675,"Runolfsdottir, Harber and Windler",Sweden,Kävlinge,244 82,848 Hazelcrest Lane,8,"848 Hazelcrest Lane, Kävlinge, 244 82, Sweden",55.7939999,13.1104293
+676,Stanton-Beatty,France,Beauvais,60022 CEDEX,8 Thackeray Park,6,"8 Thackeray Park, Beauvais, 60022 CEDEX, France",49.4295387,2.0807123
+677,Lemke-Zieme,Sweden,Arvika,671 41,2 Schurz Court,8,"2 Schurz Court, Arvika, 671 41, Sweden",59.6715102,12.6108644
+678,Schimmel Inc,France,Créteil,94952 CEDEX 9,5 Ridgeway Parkway,6,"5 Ridgeway Parkway, Créteil, 94952 CEDEX 9, France",48.790329,2.4531917
+679,"Steuber, Boyer and Nicolas",France,Lorient,56326 CEDEX,7 Oriole Park,6,"7 Oriole Park, Lorient, 56326 CEDEX, France",47.7482524,-3.3702449
+680,Hoppe-Ernser,Denmark,København,1370,7784 Florence Point,8,"7784 Florence Point, København, 1370, Denmark",55.6760968,12.5683371
+681,"Willms, Stoltenberg and Miller",Slovenia,Šenčur,4208,98457 Grayhawk Court,6,"98457 Grayhawk Court, Šenčur, 4208, Slovenia",46.2433699,14.4192223
+682,Muller Group,Finland,Kajaani,87900,2 Jenifer Terrace,8,"2 Jenifer Terrace, Kajaani, 87900, Finland",64.0662338,27.5846719
+683,"Dare, Dare and Fadel",France,Romans-sur-Isère,26109 CEDEX,68 8th Road,6,"68 8th Road, Romans-sur-Isère, 26109 CEDEX, France",45.044236,5.052735
+684,Block and Sons,Sweden,Bollstabruk,873 80,395 Bay Hill,8,"395 Bay Hill, Bollstabruk, 873 80, Sweden",62.9976826,17.6733404
+685,Price Inc,Czech Republic,Zátor,793 16,4 Manufacturers Drive,5,"4 Manufacturers Drive, Zátor, 793 16, Czech Republic",50.0341272,17.5929608
+686,Daugherty-Cronin,Sweden,Stockholm,114 79,81 Duke Terrace,8,"81 Duke Terrace, Stockholm, 114 79, Sweden",59.3293235,18.0685808
+688,Koss-Daniel,Czech Republic,Zlonice,273 71,30012 Vernon Place,5,"30012 Vernon Place, Zlonice, 273 71, Czech Republic",50.287503,14.0921466
+689,"Heidenreich, Miller and Brakus",Italy,Milano,20147,718 Forster Junction,6,"718 Forster Junction, Milano, 20147, Italy",45.4560254,9.1257661
+690,"Olson, Swift and Muller",Croatia,Jelsa,21465,69177 Chive Center,6,"69177 Chive Center, Jelsa, 21465, Croatia",43.1492041,16.7175669
+691,Balistreri-Nitzsche,Sweden,Bollnäs,821 41,26306 Holy Cross Circle,8,"26306 Holy Cross Circle, Bollnäs, 821 41, Sweden",61.3220623,16.3984929
+692,Fay-Treutel,Sweden,Valbo,818 31,452 Carberry Point,8,"452 Carberry Point, Valbo, 818 31, Sweden",60.6466216,17.0064517
+693,Volkman Inc,France,Roissy Charles-de-Gaulle,95711 CEDEX 1,667 Scoville Terrace,6,"667 Scoville Terrace, Roissy Charles-de-Gaulle, 95711 CEDEX 1, France",49.0078597,2.5507715
+694,Heaney-Emard,Norway,Trondheim,7409,17090 Debra Parkway,8,"17090 Debra Parkway, Trondheim, 7409, Norway",63.4305149,10.3950528
+695,Lebsack-Simonis,Czech Republic,Všetaty,270 21,4310 Browning Court,5,"4310 Browning Court, Všetaty, 270 21, Czech Republic",50.0461011,13.757651
+697,Hansen-Kessler,France,Grenoble,38009 CEDEX 1,861 Fieldstone Way,6,"861 Fieldstone Way, Grenoble, 38009 CEDEX 1, France",45.188529,5.724524
+698,Roberts Inc,France,Puteaux,92822 CEDEX,13 Heath Place,6,"13 Heath Place, Puteaux, 92822 CEDEX, France",48.884748,2.23964
+699,Rolfson-Prohaska,Sweden,Solna,171 94,6 5th Place,8,"6 5th Place, Solna, 171 94, Sweden",59.3688791,18.0084334
+700,"Johns, Kerluke and Botsford",France,Saint-Lô,50009 CEDEX,93 Kensington Place,6,"93 Kensington Place, Saint-Lô, 50009 CEDEX, France",49.1154686,-1.0828136
+702,Carroll-Doyle,Czech Republic,Bílovec,743 01,28633 Village Avenue,5,"28633 Village Avenue, Bílovec, 743 01, Czech Republic",49.7784952,18.0014557
+703,"Thompson, Feil and Cremin",Sweden,Solna,169 65,8 Stephen Alley,8,"8 Stephen Alley, Solna, 169 65, Sweden",59.3634364,18.0099272
+704,"Stanton, Kris and Simonis",Czech Republic,Hrotovice,675 55,71257 Thackeray Hill,5,"71257 Thackeray Hill, Hrotovice, 675 55, Czech Republic",49.1077,16.0606772
+705,Kunde and Sons,Sweden,Avesta,774 24,7 Morning Circle,8,"7 Morning Circle, Avesta, 774 24, Sweden",60.14533,16.1738399
+706,"Williamson, Gerlach and Ondricka",Croatia,Gospić,53000,9 Lotheville Alley,6,"9 Lotheville Alley, Gospić, 53000, Croatia",44.5469337,15.3750495
+707,Lowe Group,France,Caen,14922 CEDEX 9,81 Washington Street,6,"81 Washington Street, Caen, 14922 CEDEX 9, France",49.182863,-0.370679
+708,Lebsack-Wintheiser,Sweden,Piteå,941 28,6 Northport Place,8,"6 Northport Place, Piteå, 941 28, Sweden",65.316698,21.4800364
+709,"Ziemann, Kiehn and Kovacek",France,Paris 14,75675 CEDEX 14,98669 Mcguire Street,6,"98669 Mcguire Street, Paris 14, 75675 CEDEX 14, France",48.8313922,2.3254388
+710,O'Kon-Klocko,France,Istres,13807 CEDEX,09 Mifflin Plaza,6,"09 Mifflin Plaza, Istres, 13807 CEDEX, France",43.513006,4.987968
+711,"Greenfelder, Lesch and D'Amore",Sweden,Göteborg,405 33,6696 Shelley Lane,8,"6696 Shelley Lane, Göteborg, 405 33, Sweden",57.70887,11.97456
+712,"Marvin, Ondricka and Volkman",Czech Republic,Slavkov u Brna,684 01,571 Sherman Crossing,5,"571 Sherman Crossing, Slavkov u Brna, 684 01, Czech Republic",49.1532539,16.8764982
+713,"Strosin, Hayes and Hirthe",Sweden,Ed,668 92,27 Grim Lane,8,"27 Grim Lane, Ed, 668 92, Sweden",58.9122731,11.9327196
+714,Mosciski-Fay,Spain,Sabadell,8204,5210 Dryden Trail,6,"5210 Dryden Trail, Sabadell, 8204, Spain",41.5462745,2.1086131
+715,Weissnat-Lehner,Spain,Pamplona/Iruña,31005,21159 Rieder Junction,6,"21159 Rieder Junction, Pamplona/Iruña, 31005, Spain",42.8045028,-1.6432837
+716,Rice-Ward,Sweden,Ånge,841 23,2317 Vermont Alley,8,"2317 Vermont Alley, Ånge, 841 23, Sweden",62.5228738,15.6589419
+717,Luettgen Inc,Croatia,Imotski,21260,611 Marcy Hill,6,"611 Marcy Hill, Imotski, 21260, Croatia",43.4471085,17.2139989
+718,"Upton, Lueilwitz and Kris",Slovenia,Vuzenica,2367,43 Jana Point,6,"43 Jana Point, Vuzenica, 2367, Slovenia",46.5980836,15.1657237
+719,"Beier, Heaney and Upton",Croatia,Greda,44273,9 Artisan Crossing,6,"9 Artisan Crossing, Greda, 44273, Croatia",45.1,15.2
+720,Dibbert-Lakin,Sweden,Hisings Kärra,425 65,3702 Merry Crossing,8,"3702 Merry Crossing, Hisings Kärra, 425 65, Sweden",57.8065774,11.9994997
+721,Zulauf-Ryan,Sweden,Uppsala,751 71,35 Redwing Street,8,"35 Redwing Street, Uppsala, 751 71, Sweden",59.8585638,17.6389267
+722,Buckridge-Auer,France,Angers,49010 CEDEX 01,4 Artisan Trail,6,"4 Artisan Trail, Angers, 49010 CEDEX 01, France",47.4711616,-0.5518257
+723,Fahey LLC,Denmark,København,1310,85 Sommers Avenue,8,"85 Sommers Avenue, København, 1310, Denmark",55.6765109,12.5643624
+724,"Koelpin, Heaney and Heathcote",France,Besançon,25014 CEDEX,999 Merchant Lane,6,"999 Merchant Lane, Besançon, 25014 CEDEX, France",47.306802,6.153723
+725,Murphy-Bruen,Netherlands,Amsterdam,1004,3 Shopko Lane,4,"3 Shopko Lane, Amsterdam, 1004, Netherlands",52.3675734,4.9041389
+726,Grady-Shanahan,Sweden,Västervik,593 93,2847 Forest Run Circle,8,"2847 Forest Run Circle, Västervik, 593 93, Sweden",57.7577156,16.6369759
+727,Bogan and Sons,France,Nevers,58017 CEDEX,24429 Kinsman Point,6,"24429 Kinsman Point, Nevers, 58017 CEDEX, France",46.990896,3.162845
+728,Cummings-Kertzmann,Croatia,Stari Grad,21460,14 Autumn Leaf Trail,6,"14 Autumn Leaf Trail, Stari Grad, 21460, Croatia",43.1839958,16.5992505
+729,Daugherty-Harris,Italy,Napoli,80141,95963 Lunder Circle,6,"95963 Lunder Circle, Napoli, 80141, Italy",40.8517983,14.26812
+730,Huel-Runolfsdottir,United Kingdom,Kirkton,KW10,076 Swallow Terrace,7,"076 Swallow Terrace, Kirkton, KW10, United Kingdom",57.961476,-4.031512
+731,"Bruen, Fritsch and Feest",Sweden,Nol,449 43,6 Spaight Junction,8,"6 Spaight Junction, Nol, 449 43, Sweden",57.9104452,12.0732915
+732,"Dibbert, Kerluke and Tillman",Czech Republic,Vítkov,749 01,745 Logan Way,5,"745 Logan Way, Vítkov, 749 01, Czech Republic",49.7758642,17.7524976
+733,Wuckert-Jenkins,Czech Republic,Černovice,618 00,6011 Scott Road,5,"6011 Scott Road, Černovice, 618 00, Czech Republic",49.1846935,16.6369792
+734,Prosacco and Sons,France,Cergy-Pontoise,95046 CEDEX 1,1 8th Plaza,6,"1 8th Plaza, Cergy-Pontoise, 95046 CEDEX 1, France",49.035617,2.060325
+735,Hayes Inc,Czech Republic,Jakartovice,747 53,9055 Alpine Park,5,"9055 Alpine Park, Jakartovice, 747 53, Czech Republic",49.9114346,17.6628187
+736,"Rosenbaum, Kihn and Emard",Slovenia,Mokronog,8230,857 Riverside Junction,6,"857 Riverside Junction, Mokronog, 8230, Slovenia",45.9426521,15.1455616
+737,"Gutmann, Schulist and Ebert",Lithuania,Kuršėnai,81001,3689 Golf View Avenue,8,"3689 Golf View Avenue, Kuršėnai, 81001, Lithuania",55.997525,22.9367269
+738,Cruickshank-Schaden,Sweden,Stockholm,106 65,760 Troy Trail,8,"760 Troy Trail, Stockholm, 106 65, Sweden",59.3293235,18.0685808
+739,Streich Inc,Netherlands,Zwolle,8019,36 Scofield Road,4,"36 Scofield Road, Zwolle, 8019, Netherlands",52.5019685,6.0684306
+740,Herman and Sons,France,Toulouse,31201 CEDEX 2,47 Jana Lane,6,"47 Jana Lane, Toulouse, 31201 CEDEX 2, France",43.604652,1.444209
+741,Conn Inc,Czech Republic,Vidče,756 53,2471 Debra Crossing,5,"2471 Debra Crossing, Vidče, 756 53, Czech Republic",49.441512,18.0947363
+743,Padberg-Breitenberg,Finland,Tuusniemi,71201,0 Nova Crossing,8,"0 Nova Crossing, Tuusniemi, 71201, Finland",62.8107587,28.4912383
+744,Kunde-Heller,France,Saint-Brieuc,22025 CEDEX 1,75 Amoth Trail,6,"75 Amoth Trail, Saint-Brieuc, 22025 CEDEX 1, France",48.5124561,-2.7678727
+745,"Bartell, Deckow and Abshire",Czech Republic,Žlutice,364 52,08 Sutteridge Drive,5,"08 Sutteridge Drive, Žlutice, 364 52, Czech Republic",50.0919285,13.1629837
+746,Parisian-Donnelly,Croatia,Lepoglava,42250,67 Lakeland Lane,6,"67 Lakeland Lane, Lepoglava, 42250, Croatia",46.2075543,16.0435885
+747,Reynolds LLC,France,Toulouse,31079 CEDEX 5,51693 Mandrake Hill,6,"51693 Mandrake Hill, Toulouse, 31079 CEDEX 5, France",43.604652,1.444209
+748,Weimann-Brown,Czech Republic,Klenčí pod Čerchovem,345 34,10347 Sommers Park,5,"10347 Sommers Park, Klenčí pod Čerchovem, 345 34, Czech Republic",49.4349603,12.8128113
+749,Waters and Sons,United Kingdom,Pentre,SY4,10 Alpine Pass,7,"10 Alpine Pass, Pentre, SY4, United Kingdom",52.753093,-2.9416779
+751,Nader-Tremblay,Sweden,Falun,791 26,07 Crest Line Park,8,"07 Crest Line Park, Falun, 791 26, Sweden",60.60646,15.6355
+752,"Ernser, Gerlach and Shields",Sweden,Umeå,906 42,213 Waywood Park,8,"213 Waywood Park, Umeå, 906 42, Sweden",63.8258471,20.2630354
+753,Crona LLC,Sweden,Åhus,296 81,08 Westend Parkway,8,"08 Westend Parkway, Åhus, 296 81, Sweden",55.9250391,14.2979949
+754,"Kutch, Abbott and Lubowitz",Czech Republic,Staré Město,788 32,624 Valley Edge Court,5,"624 Valley Edge Court, Staré Město, 788 32, Czech Republic",50.1617318,16.9473457
+755,"Hauck, Vandervort and Hane",France,Marseille,13245 CEDEX 04,922 Elka Point,6,"922 Elka Point, Marseille, 13245 CEDEX 04, France",43.3025742,5.3690743
+756,"Pacocha, Davis and Roob",Denmark,København,1360,8807 Center Court,8,"8807 Center Court, København, 1360, Denmark",55.6840484,12.5701344
+757,Balistreri-Sipes,Hungary,Tatabánya,2809,9143 Forest Hill,5,"9143 Forest Hill, Tatabánya, 2809, Hungary",47.569246,18.404818
+758,Anderson Group,Italy,Torino,10152,9587 Scott Center,6,"9587 Scott Center, Torino, 10152, Italy",45.081045,7.6818322
+759,Boyer LLC,Czech Republic,Hluboká nad Vltavou,373 41,82149 Stone Corner Lane,5,"82149 Stone Corner Lane, Hluboká nad Vltavou, 373 41, Czech Republic",49.0522544,14.4342708
+760,Paucek-Howell,Slovenia,Dob,1233,431 Declaration Park,6,"431 Declaration Park, Dob, 1233, Slovenia",46.1515226,14.6280662
+761,Schmeler Inc,Sweden,Uddevalla,451 32,96 International Street,8,"96 International Street, Uddevalla, 451 32, Sweden",58.3505986,11.9490108
+762,"Dooley, Littel and Grady",Czech Republic,Uničov,783 91,43 Bluejay Plaza,5,"43 Bluejay Plaza, Uničov, 783 91, Czech Republic",49.7709133,17.1214423
+763,"Kemmer, Lehner and Schowalter",Sweden,Boxholm,590 14,978 Bunting Parkway,8,"978 Bunting Parkway, Boxholm, 590 14, Sweden",58.1970987,15.0537794
+764,"Lind, Glover and Crist",France,Yvetot,76194 CEDEX,3230 Forest Crossing,6,"3230 Forest Crossing, Yvetot, 76194 CEDEX, France",49.617779,0.755212
+765,"Auer, Reinger and Rutherford",Czech Republic,Katovice,387 11,42010 Roth Park,5,"42010 Roth Park, Katovice, 387 11, Czech Republic",49.273491,13.8303582
+766,Kub and Sons,Czech Republic,Sudoměřice,696 66,00 Mallory Street,5,"00 Mallory Street, Sudoměřice, 696 66, Czech Republic",48.878715,17.2335614
+768,Ritchie-Braun,Hungary,Szeged,6748,3 Packers Center,5,"3 Packers Center, Szeged, 6748, Hungary",46.2530102,20.1414253
+769,Schmeler-Tillman,Sweden,Eslöv,241 91,8 Hauk Point,8,"8 Hauk Point, Eslöv, 241 91, Sweden",38.9708783,-91.1312583
+770,"Cummerata, Murphy and Lindgren",France,Paris 13,75243 CEDEX 13,42 Express Place,6,"42 Express Place, Paris 13, 75243 CEDEX 13, France",48.8261675,2.3598969
+771,McDermott-Conn,Norway,Trondheim,7047,3 Nancy Crossing,8,"3 Nancy Crossing, Trondheim, 7047, Norway",63.4251464,10.4677043
+772,Murphy-Hirthe,Sweden,Karlskrona,371 47,1029 Loeprich Court,8,"1029 Loeprich Court, Karlskrona, 371 47, Sweden",56.1993557,15.6309078
+773,Dibbert LLC,Czech Republic,Klášter,582 83,4354 Prairieview Hill,5,"4354 Prairieview Hill, Klášter, 582 83, Czech Republic",49.8098094,15.5297943
+774,"Jacobson, Spinka and Gleichner",France,Paris 12,75582 CEDEX 12,676 Crowley Plaza,6,"676 Crowley Plaza, Paris 12, 75582 CEDEX 12, France",48.835194,2.4351431
+775,"Flatley, Johnston and O'Hara",Sweden,Trångsund,142 82,48031 Fulton Park,8,"48031 Fulton Park, Trångsund, 142 82, Sweden",59.233333,18.133333
+776,Olson-Doyle,Czech Republic,Zásmuky,281 44,4 Golf Course Avenue,5,"4 Golf Course Avenue, Zásmuky, 281 44, Czech Republic",49.954706,15.0305859
+777,"Farrell, Tromp and Flatley",Sweden,Göteborg,411 21,79640 Reindahl Way,8,"79640 Reindahl Way, Göteborg, 411 21, Sweden",57.7050333,11.9551054
+778,Lebsack-Morar,Sweden,Skinnskatteberg,739 30,46 Starling Parkway,8,"46 Starling Parkway, Skinnskatteberg, 739 30, Sweden",59.83453,15.6905435
+780,Mitchell Group,Sweden,Åby,616 32,00411 Carey Place,8,"00411 Carey Place, Åby, 616 32, Sweden",58.6644996,16.181169
+781,Becker-Wolf,Czech Republic,Stochov,273 03,3 Monterey Lane,5,"3 Monterey Lane, Stochov, 273 03, Czech Republic",50.1540618,13.9598749
+782,Reinger-Kemmer,France,Charenton-le-Pont,94675 CEDEX,2 Nancy Parkway,6,"2 Nancy Parkway, Charenton-le-Pont, 94675 CEDEX, France",48.8193526,2.4162632
+783,"Klocko, Haag and Lebsack",Sweden,Stockholm,120 16,65 Melody Hill,8,"65 Melody Hill, Stockholm, 120 16, Sweden",59.3293235,18.0685808
+784,"Reinger, Ondricka and Hodkiewicz",Czech Republic,Horní Lideč,756 12,199 Badeau Lane,5,"199 Badeau Lane, Horní Lideč, 756 12, Czech Republic",49.181214,18.0610035
+785,"Huels, Krajcik and Ledner",Czech Republic,Pilníkov,542 42,69 Kropf Terrace,5,"69 Kropf Terrace, Pilníkov, 542 42, Czech Republic",50.5324712,15.8202026
+786,Pfeffer and Sons,Finland,Köyliö,27860,731 Canary Hill,8,"731 Canary Hill, Köyliö, 27860, Finland",61.0678389,22.5515075
+787,Brown-Gorczany,Czech Republic,Buštěhrad,273 43,85403 Scoville Place,5,"85403 Scoville Place, Buštěhrad, 273 43, Czech Republic",50.1559431,14.1889828
+789,"Olson, Cremin and Langosh",Sweden,Göteborg,416 80,432 Dunning Plaza,8,"432 Dunning Plaza, Göteborg, 416 80, Sweden",57.7145731,12.0430953
+790,Little and Sons,France,Briey,54154 CEDEX,7074 Reindahl Park,6,"7074 Reindahl Park, Briey, 54154 CEDEX, France",48.444464,6.735326
+791,Smitham and Sons,France,Issoire,63504 CEDEX,666 Kropf Lane,6,"666 Kropf Lane, Issoire, 63504 CEDEX, France",45.54151,3.248128
+793,Abbott-Von,Sweden,Ludvika,771 55,2 Lindbergh Avenue,8,"2 Lindbergh Avenue, Ludvika, 771 55, Sweden",60.1555962,15.2372246
+795,Cormier LLC,Norway,Stavanger,4015,937 Manitowish Park,8,"937 Manitowish Park, Stavanger, 4015, Norway",58.9699756,5.7331073
+796,Torphy-Schamberger,Norway,Bodø,8015,4 Eastlawn Plaza,8,"4 Eastlawn Plaza, Bodø, 8015, Norway",67.3340943,14.4227656
+797,Wolf-Schinner,Italy,Milano,20125,8 Cascade Street,6,"8 Cascade Street, Milano, 20125, Italy",45.4972764,9.203123
+798,Bergnaum-Bosco,Norway,Stord,5406,3882 Arizona Crossing,8,"3882 Arizona Crossing, Stord, 5406, Norway",59.7952153,5.5079412
+801,Feeney-Hills,Czech Republic,Dýšina,330 02,65264 Morrow Place,5,"65264 Morrow Place, Dýšina, 330 02, Czech Republic",49.7773548,13.4915109
+802,Pagac and Sons,Finland,Marttila,21490,8 Manitowish Hill,8,"8 Manitowish Hill, Marttila, 21490, Finland",60.5853689,22.8999019
+803,Lueilwitz-Goyette,Czech Republic,Rokytnice nad Jizerou,513 01,14978 Anniversary Parkway,5,"14978 Anniversary Parkway, Rokytnice nad Jizerou, 513 01, Czech Republic",50.7291276,15.4486873
+804,Schultz Inc,France,Oyonnax,01117 CEDEX,975 Garrison Lane,6,"975 Garrison Lane, Oyonnax, 01117 CEDEX, France",46.257773,5.655335
+805,"Quigley, Torphy and Hills",Czech Republic,Mirotice,364 71,995 Emmet Parkway,5,"995 Emmet Parkway, Mirotice, 364 71, Czech Republic",50.1110411,12.9988101
+806,Raynor-Lockman,Finland,Loimaan Kunta,32560,74589 Fisk Plaza,8,"74589 Fisk Plaza, Loimaan Kunta, 32560, Finland",60.8535198,23.0429355
+807,"Kuphal, Waelchi and Christiansen",France,Brive-la-Gaillarde,19117 CEDEX,6936 Warbler Plaza,6,"6936 Warbler Plaza, Brive-la-Gaillarde, 19117 CEDEX, France",45.103206,1.460429
+808,"Wolf, Ullrich and Schoen",France,Le Teil,07404 CEDEX,9637 Valley Edge Circle,6,"9637 Valley Edge Circle, Le Teil, 07404 CEDEX, France",44.55061,4.683794
+809,"Walsh, Bins and Morar",Croatia,Sali,23281,1 Forest Street,6,"1 Forest Street, Sali, 23281, Croatia",43.9239441,15.1668326
+810,"Toy, Wolff and Denesik",Croatia,Runović,21261,297 Derek Hill,6,"297 Derek Hill, Runović, 21261, Croatia",43.3765475,17.2311774
+812,Larkin Group,Netherlands,Emmen,7824,1695 Sullivan Alley,4,"1695 Sullivan Alley, Emmen, 7824, Netherlands",52.781689,6.9347107
+813,Homenick-MacGyver,Sweden,Gävle,801 84,5 Longview Junction,8,"5 Longview Junction, Gävle, 801 84, Sweden",60.6748796,17.1412726
+814,"Metz, Mraz and Mohr",Sweden,Västerås,720 16,823 Heffernan Point,8,"823 Heffernan Point, Västerås, 720 16, Sweden",59.6099005,16.5448091
+815,"Price, Yundt and Kerluke",Czech Republic,Radnice,789 85,3 Muir Court,5,"3 Muir Court, Radnice, 789 85, Czech Republic",49.7245218,16.8754183
+816,Streich-MacGyver,France,Montpellier,34194 CEDEX 5,173 Mcguire Junction,6,"173 Mcguire Junction, Montpellier, 34194 CEDEX 5, France",43.610769,3.876716
+817,Kautzer-Hessel,Sweden,Vallentuna,186 96,15279 Crest Line Alley,8,"15279 Crest Line Alley, Vallentuna, 186 96, Sweden",59.6535297,18.3648033
+819,Heidenreich-Stracke,Sweden,Piteå,941 22,2993 Upham Hill,8,"2993 Upham Hill, Piteå, 941 22, Sweden",65.316698,21.4800364
+820,"Mante, Deckow and Rosenbaum",Czech Republic,Jince,262 23,4364 Cardinal Trail,5,"4364 Cardinal Trail, Jince, 262 23, Czech Republic",49.7862433,13.9786808
+821,Cormier Group,Sweden,Nyköping,611 93,3181 Lighthouse Bay Lane,8,"3181 Lighthouse Bay Lane, Nyköping, 611 93, Sweden",58.8213814,16.9259105
+822,"Metz, Morar and Streich",France,Haguenau,67504 CEDEX,7287 Morning Center,6,"7287 Morning Center, Haguenau, 67504 CEDEX, France",48.813288,7.79125
+823,Rath-Reichel,France,Vallauris,06224 CEDEX,564 Clarendon Court,6,"564 Clarendon Court, Vallauris, 06224 CEDEX, France",43.577244,7.055041
+824,Lockman-Little,France,Forbach,57609 CEDEX,4 Anzinger Drive,6,"4 Anzinger Drive, Forbach, 57609 CEDEX, France",49.186515,6.895295
+825,"Turcotte, Buckridge and Sauer",Finland,Ruukki,92401,3 Hagan Terrace,8,"3 Hagan Terrace, Ruukki, 92401, Finland",64.6642593,25.099411
+827,Howell-Graham,Sweden,Ronneby,372 34,64 Washington Center,8,"64 Washington Center, Ronneby, 372 34, Sweden",56.1929385,15.2667633
+828,Kemmer LLC,Finland,Turku,20960,94 Anderson Center,8,"94 Anderson Center, Turku, 20960, Finland",60.3588201,22.2240066
+829,"McDermott, Hand and Ruecker",Netherlands,Dordrecht,3309,406 Russell Road,4,"406 Russell Road, Dordrecht, 3309, Netherlands",51.8132979,4.6900929
+830,Upton and Sons,Sweden,Åhus,296 81,90230 Scofield Pass,8,"90230 Scofield Pass, Åhus, 296 81, Sweden",55.9250391,14.2979949
+831,Wyman-Hackett,Czech Republic,Petrovice u Karviné,735 72,32 Farwell Avenue,5,"32 Farwell Avenue, Petrovice u Karviné, 735 72, Czech Republic",49.8958649,18.5477977
+832,Thiel-Nikolaus,Sweden,Svenljunga,512 24,04249 Rockefeller Terrace,8,"04249 Rockefeller Terrace, Svenljunga, 512 24, Sweden",57.4955715,13.1146225
+834,Swift-Herzog,France,Fontenay-sous-Bois,94129 CEDEX,30 Iowa Road,6,"30 Iowa Road, Fontenay-sous-Bois, 94129 CEDEX, France",48.851542,2.475907
+836,Pagac-Kihn,Netherlands,Beverwijk,1944,01042 Red Cloud Center,4,"01042 Red Cloud Center, Beverwijk, 1944, Netherlands",52.4869842,4.6574468
+837,Williamson-Wilderman,Czech Republic,Dobratice,739 51,7 Ruskin Hill,5,"7 Ruskin Hill, Dobratice, 739 51, Czech Republic",49.6603908,18.4922736
+838,"Schaden, McGlynn and Spencer",Netherlands,Heemstede,2104,35 Spohn Lane,4,"35 Spohn Lane, Heemstede, 2104, Netherlands",52.3510634,4.6203004
+839,O'Conner-Lind,Czech Republic,Hrochův Týnec,538 62,00 Clove Road,5,"00 Clove Road, Hrochův Týnec, 538 62, Czech Republic",49.9594627,15.9105476
+840,"Stracke, West and Mante",France,Bonneuil-sur-Marne,94384 CEDEX,3 Waywood Crossing,6,"3 Waywood Crossing, Bonneuil-sur-Marne, 94384 CEDEX, France",48.774755,2.487765
+841,"Torphy, Hamill and Davis",Sweden,Helsingborg,252 68,1 2nd Road,8,"1 2nd Road, Helsingborg, 252 68, Sweden",56.0418013,12.7039013
+842,Rowe Inc,Sweden,Bålsta,746 40,900 Hollow Ridge Crossing,8,"900 Hollow Ridge Crossing, Bålsta, 746 40, Sweden",59.5782797,17.4879349
+843,Rau-Osinski,Lithuania,Akademija (Kaunas),53088,82 West Plaza,8,"82 West Plaza, Akademija (Kaunas), 53088, Lithuania",54.897332,23.8243909
+844,Howell and Sons,Sweden,Nora,713 30,49191 Shelley Street,8,"49191 Shelley Street, Nora, 713 30, Sweden",59.5043187,15.0421807
+845,"Kuphal, Miller and Watsica",Sweden,Vingåker,643 92,39728 Eggendart Hill,8,"39728 Eggendart Hill, Vingåker, 643 92, Sweden",59.0433753,15.8709394
+846,Upton Inc,Croatia,Tužno,42242,87266 Springview Point,6,"87266 Springview Point, Tužno, 42242, Croatia",46.254048,16.2368406
+847,Schneider-Wunsch,Sweden,Alvesta,342 80,80 Mockingbird Lane,8,"80 Mockingbird Lane, Alvesta, 342 80, Sweden",56.8992104,14.5560006
+848,Schaden Group,Czech Republic,Líně,330 21,6 Ridgeway Center,5,"6 Ridgeway Center, Líně, 330 21, Czech Republic",49.6947284,13.2569393
+849,"Zieme, Funk and Towne",France,Bergerac,24111 CEDEX,8 Crownhardt Plaza,6,"8 Crownhardt Plaza, Bergerac, 24111 CEDEX, France",44.852877,0.4818831
+850,Bradtke-Pagac,Sweden,Katrineholm,641 36,54 High Crossing Plaza,8,"54 High Crossing Plaza, Katrineholm, 641 36, Sweden",58.9867399,16.1955511
+851,"Sanford, Jacobson and Dare",Finland,Lestijärvi,69440,8341 Veith Alley,8,"8341 Veith Alley, Lestijärvi, 69440, Finland",63.5272366,24.6581193
+852,Becker-Torp,Poland,Gardawice,44-246,35443 Kenwood Parkway,5,"35443 Kenwood Parkway, Gardawice, 44-246, Poland",50.113349,18.7928003
+853,"Waelchi, Bogisich and Kunde",Czech Republic,Kozmice,747 11,80 2nd Circle,5,"80 2nd Circle, Kozmice, 747 11, Czech Republic",49.9127998,18.1558497
+854,Hermiston-Wunsch,France,Villejuif,94809 CEDEX,94 Portage Hill,6,"94 Portage Hill, Villejuif, 94809 CEDEX, France",48.792716,2.359279
+855,"Raynor, Johnson and Collier",France,Quetigny,21806 CEDEX,4 Badeau Drive,6,"4 Badeau Drive, Quetigny, 21806 CEDEX, France",47.312494,5.117044
+856,Johns-Douglas,Poland,Dubiecko,37-750,6 Ilene Pass,5,"6 Ilene Pass, Dubiecko, 37-750, Poland",49.8277572,22.3927749
+857,"Cummerata, Schroeder and Paucek",Poland,Piła,64-970,20438 Ryan Park,5,"20438 Ryan Park, Piła, 64-970, Poland",53.2752955,16.7976283
+858,Lueilwitz-Langworth,Poland,Leśnica,47-150,5110 Stone Corner Road,5,"5110 Stone Corner Road, Leśnica, 47-150, Poland",50.4305778,18.1872243
+859,Bartell-Bayer,France,Courtaboeuf,91959 CEDEX,29 La Follette Way,6,"29 La Follette Way, Courtaboeuf, 91959 CEDEX, France",46.227638,2.213749
+860,Greenfelder Inc,Sweden,Strängnäs,645 84,53423 Northland Parkway,8,"53423 Northland Parkway, Strängnäs, 645 84, Sweden",59.3774523,17.0321193
+861,"Reynolds, Larson and Kozey",Portugal,Porto Alto,2135-027,5889 Sachs Hill,6,"5889 Sachs Hill, Porto Alto, 2135-027, Portugal",38.919391,-8.8779873
+862,Kautzer-McGlynn,Hungary,Budapest,1024,3 Ruskin Place,5,"3 Ruskin Place, Budapest, 1024, Hungary",47.497912,19.040235
+864,Reichert Group,Slovenia,Lovrenc na Pohorju,2344,63 Pankratz Junction,6,"63 Pankratz Junction, Lovrenc na Pohorju, 2344, Slovenia",46.5402775,15.3884817
+865,Harber-Kling,Czech Republic,Ratíškovice,696 02,8416 Darwin Pass,5,"8416 Darwin Pass, Ratíškovice, 696 02, Czech Republic",48.9200144,17.1656129
+866,Bosco-Bergnaum,France,Paris 10,75485 CEDEX 10,80108 Sundown Crossing,6,"80108 Sundown Crossing, Paris 10, 75485 CEDEX 10, France",48.8785238,2.3541085
+867,Predovic Group,France,Chilly-Mazarin,91384 CEDEX,914 Dixon Avenue,6,"914 Dixon Avenue, Chilly-Mazarin, 91384 CEDEX, France",48.705134,2.310271
+868,"Veum, Ullrich and Quigley",Czech Republic,Nové Město pod Smrkem,463 65,2 Dapin Avenue,5,"2 Dapin Avenue, Nové Město pod Smrkem, 463 65, Czech Republic",50.9249111,15.2294388
+869,"Leannon, Lakin and Bogisich",Netherlands,Eindhoven,5629,62801 Melody Plaza,4,"62801 Melody Plaza, Eindhoven, 5629, Netherlands",51.4231423,5.4622897
+870,Fritsch LLC,Spain,Sevilla,41020,6 Melvin Alley,6,"6 Melvin Alley, Sevilla, 41020, Spain",37.4212157,-5.9251211
+871,Wunsch Group,France,Orléans,45933 CEDEX 9,56 Lerdahl Road,6,"56 Lerdahl Road, Orléans, 45933 CEDEX 9, France",47.9032335,1.9085203
+872,Schmeler Group,Norway,Oslo,264,19 Lerdahl Point,8,"19 Lerdahl Point, Oslo, 264, Norway",59.9162711,10.7067713
+874,Kub LLC,Sweden,Stockholm,117 97,148 Di Loreto Center,8,"148 Di Loreto Center, Stockholm, 117 97, Sweden",59.3293235,18.0685808
+875,Kuvalis-Cruickshank,Portugal,Seixezelo,4415-928,47 Laurel Terrace,6,"47 Laurel Terrace, Seixezelo, 4415-928, Portugal",41.0353649,-8.5562534
+876,"Aufderhar, McLaughlin and Ryan",France,Quimper,29551 CEDEX 9,2 John Wall Park,6,"2 John Wall Park, Quimper, 29551 CEDEX 9, France",47.9976492,-4.0973449
+877,Larson-Morissette,Lithuania,Venta,85019,5 Texas Hill,8,"5 Texas Hill, Venta, 85019, Lithuania",31.9685988,-99.9018131
+878,"Funk, Wolff and Hahn",Spain,Getafe,28904,00582 Scofield Alley,6,"00582 Scofield Alley, Getafe, 28904, Spain",40.3111887,-3.7371617
+880,Kovacek Group,Portugal,Bairro de Santo António,2765-133,8 School Point,6,"8 School Point, Bairro de Santo António, 2765-133, Portugal",38.7221402,-9.4087661
+881,"Carroll, Durgan and Leuschke",Sweden,Skänninge,596 92,96007 Rusk Lane,8,"96007 Rusk Lane, Skänninge, 596 92, Sweden",58.41279,15.10314
+883,Farrell-Grady,Spain,Almeria,4070,8 Sunnyside Court,6,"8 Sunnyside Court, Almeria, 4070, Spain",36.834047,-2.4637136
+884,Towne Inc,Portugal,Vimieiro,4705-656,07 Katie Court,6,"07 Katie Court, Vimieiro, 4705-656, Portugal",41.5122699,-8.4650216
+885,Donnelly Inc,Sweden,Gävle,802 66,73818 Huxley Trail,8,"73818 Huxley Trail, Gävle, 802 66, Sweden",60.6704237,17.1389487
+886,Wisozk-Schuster,France,Villejuif,94809 CEDEX,433 Waywood Drive,6,"433 Waywood Drive, Villejuif, 94809 CEDEX, France",48.792716,2.359279
+887,Paucek-Gibson,Croatia,Žrnovnica,21251,8063 Eggendart Way,6,"8063 Eggendart Way, Žrnovnica, 21251, Croatia",43.5295279,16.5937658
+888,Muller-Lebsack,Sweden,Storuman,923 98,0 Farwell Crossing,8,"0 Farwell Crossing, Storuman, 923 98, Sweden",65.0081559,17.0061406
+889,"Kertzmann, Padberg and Goldner",Sweden,Uppsala,752 26,49 Clemons Street,8,"49 Clemons Street, Uppsala, 752 26, Sweden",59.8629993,17.620683
+890,"Heathcote, Fahey and Beier",Croatia,Vrbovec,10340,2 Arizona Parkway,6,"2 Arizona Parkway, Vrbovec, 10340, Croatia",45.8839523,16.416766
+891,Bruen-Schimmel,Sweden,Vikbolandet,610 25,50661 Goodland Way,8,"50661 Goodland Way, Vikbolandet, 610 25, Sweden",58.5333333,16.6666667
+892,"Murray, Windler and Bahringer",Czech Republic,Lipník nad Bečvou,757 01,0322 Commercial Lane,5,"0322 Commercial Lane, Lipník nad Bečvou, 757 01, Czech Republic",49.526732,17.5866432
+893,Hudson Group,Portugal,Marteleira,2530-342,8 Thierer Drive,6,"8 Thierer Drive, Marteleira, 2530-342, Portugal",39.2126147,-9.2845234
+894,Green-Kuphal,Lithuania,Kelmė,86001,0495 Hintze Circle,8,"0495 Hintze Circle, Kelmė, 86001, Lithuania",55.6299189,22.9439299
+895,"Dickinson, Grady and Marks",Netherlands,Hengelo,7554,106 Elka Park,4,"106 Elka Park, Hengelo, 7554, Netherlands",52.2574121,6.7927725
+897,Christiansen and Sons,Sweden,Kista,164 35,670 Onsgard Drive,8,"670 Onsgard Drive, Kista, 164 35, Sweden",59.4075977,17.9282806
+898,Bogisich-Brown,Sweden,Borås,504 50,4 Hoepker Circle,8,"4 Hoepker Circle, Borås, 504 50, Sweden",57.7106249,12.9533224
+899,Swaniawski-Franecki,Portugal,Zambujeira,2530-327,419 Towne Plaza,6,"419 Towne Plaza, Zambujeira, 2530-327, Portugal",39.2682914,-9.3120098
+900,"Schneider, Kovacek and Baumbach",Sweden,Trollhättan,461 42,4 Old Gate Junction,8,"4 Old Gate Junction, Trollhättan, 461 42, Sweden",58.284686,12.3260336
+901,"Beatty, Harber and Bode",Finland,Perho,69951,8861 Chinook Trail,8,"8861 Chinook Trail, Perho, 69951, Finland",63.21465,24.4178651
+902,Cartwright-Kutch,France,Paris 03,75151 CEDEX 03,2 Colorado Terrace,6,"2 Colorado Terrace, Paris 03, 75151 CEDEX 03, France",48.8291082,2.3793229
+904,"Effertz, Nader and Nitzsche",Spain,Lleida,25005,01 Iowa Lane,6,"01 Iowa Lane, Lleida, 25005, Spain",41.6177221,0.6200206
+905,Hermann LLC,France,Wasquehal,59449 CEDEX,746 Northland Circle,6,"746 Northland Circle, Wasquehal, 59449 CEDEX, France",50.669276,3.130782
+906,King Group,Portugal,Avelinha,3505-125,38 Merry Alley,6,"38 Merry Alley, Avelinha, 3505-125, Portugal",40.7363895,-7.8200663
+907,"Cronin, Christiansen and Ledner",Portugal,Peras Ruivas,2435-585,7528 Twin Pines Drive,6,"7528 Twin Pines Drive, Peras Ruivas, 2435-585, Portugal",39.6538177,-8.5430728
+908,Paucek-Schuster,Portugal,Carregado,2580-466,75 Sugar Way,6,"75 Sugar Way, Carregado, 2580-466, Portugal",39.0226889,-8.9769208
+909,"Koepp, Pollich and Koss",Portugal,Santa Cruz do Bispo,4455-794,819 Namekagon Drive,6,"819 Namekagon Drive, Santa Cruz do Bispo, 4455-794, Portugal",41.2169163,-8.6759571
+910,Sawayn and Sons,Slovenia,Morje,2314,27 Reindahl Street,6,"27 Reindahl Street, Morje, 2314, Slovenia",46.4302629,15.6006263
+911,Cronin-Schmitt,Croatia,Kraljevica,51262,3 Blaine Avenue,6,"3 Blaine Avenue, Kraljevica, 51262, Croatia",45.2646668,14.5795071
+912,"Hegmann, Abshire and Quitzon",France,Arles,13637 CEDEX,5502 Lawn Parkway,6,"5502 Lawn Parkway, Arles, 13637 CEDEX, France",43.676647,4.6277769
+914,Kuvalis Inc,France,Rungis,94525 CEDEX 1,39 Oak Center,6,"39 Oak Center, Rungis, 94525 CEDEX 1, France",48.749358,2.349936
+915,Schulist LLC,Sweden,Örnsköldsvik,891 41,94750 Nobel Crossing,8,"94750 Nobel Crossing, Örnsköldsvik, 891 41, Sweden",63.3118559,18.7114156
+916,Wintheiser-Wilderman,Portugal,Chãos,4960-160,55715 Commercial Avenue,6,"55715 Commercial Avenue, Chãos, 4960-160, Portugal",41.9961424,-8.2845004
+918,"Grady, Lemke and Kohler",France,Bourg-en-Bresse,01009 CEDEX,8 East Pass,6,"8 East Pass, Bourg-en-Bresse, 01009 CEDEX, France",46.2051675,5.2255007
+919,Skiles-Kertzmann,France,Cergy-Pontoise,95319 CEDEX,98784 Garrison Park,6,"98784 Garrison Park, Cergy-Pontoise, 95319 CEDEX, France",49.035617,2.060325
+921,Howe-Jacobson,Portugal,Grijó,4415-400,6530 Red Cloud Center,6,"6530 Red Cloud Center, Grijó, 4415-400, Portugal",41.0390875,-8.5746201
+923,Olson Group,Portugal,Corvite,4805-223,385 Kinsman Road,6,"385 Kinsman Road, Corvite, 4805-223, Portugal",41.4741215,-8.3134809
+924,Boyle-Mosciski,Slovenia,Grosuplje,1290,2989 Fuller Trail,6,"2989 Fuller Trail, Grosuplje, 1290, Slovenia",45.9557645,14.658899
+925,"Roberts, VonRueden and Torphy",Czech Republic,Dubá,471 41,46535 Graedel Park,5,"46535 Graedel Park, Dubá, 471 41, Czech Republic",50.5345697,14.5397223
+926,Reichel Group,Spain,Girona,17080,19 Morrow Hill,6,"19 Morrow Hill, Girona, 17080, Spain",42.2470995,2.0763253
+927,"Stoltenberg, Ziemann and Torphy",Portugal,Porta,4940-352,64497 Sunfield Court,6,"64497 Sunfield Court, Porta, 4940-352, Portugal",39.399872,-8.224454
+928,O'Kon Group,Sweden,Umeå,904 35,18 Rockefeller Road,8,"18 Rockefeller Road, Umeå, 904 35, Sweden",63.8135855,20.2147861
+929,Wuckert LLC,United Kingdom,Wirral,CH48,7 Tennyson Pass,7,"7 Tennyson Pass, Wirral, CH48, United Kingdom",53.3650844,-3.1593423
+930,"Strosin, Prohaska and Rowe",Portugal,Rio Meão,4520-471,2256 Lakewood Place,6,"2256 Lakewood Place, Rio Meão, 4520-471, Portugal",40.9557367,-8.5885858
+931,Keeling-Cremin,France,Saint-Brieuc,22091 CEDEX 9,26 Warner Court,6,"26 Warner Court, Saint-Brieuc, 22091 CEDEX 9, France",48.5124561,-2.7678727
+932,"Steuber, Beatty and Pouros",Sweden,Stockholm,114 84,26 Farmco Circle,8,"26 Farmco Circle, Stockholm, 114 84, Sweden",59.3293235,18.0685808
+933,Schaefer LLC,Portugal,Valongo,5400-339,4039 Carberry Pass,6,"4039 Carberry Pass, Valongo, 5400-339, Portugal",41.1977783,-8.4952228
+935,Howe-Dooley,Sweden,Nacka,131 22,28 Walton Lane,8,"28 Walton Lane, Nacka, 131 22, Sweden",59.30532,18.2475
+936,Simonis-Hilll,Norway,Tromsø,9037,79 Rowland Street,8,"79 Rowland Street, Tromsø, 9037, Norway",69.6492047,18.9553238
+937,"Fay, Hagenes and Dare",Portugal,Zouparria do Monte,3020-895,89396 Carey Circle,6,"89396 Carey Circle, Zouparria do Monte, 3020-895, Portugal",40.2900328,-8.4389838
+939,Ernser-Christiansen,Sweden,Hallstahammar,734 24,65938 Goodland Road,8,"65938 Goodland Road, Hallstahammar, 734 24, Sweden",59.6132041,16.2294755
+940,Nolan-McKenzie,Sweden,Solna,169 70,17 Dwight Road,8,"17 Dwight Road, Solna, 169 70, Sweden",59.3688791,18.0084334
+941,Smitham-Pagac,Netherlands,Kerkrade,6464,163 Hoard Trail,4,"163 Hoard Trail, Kerkrade, 6464, Netherlands",50.8777778,6.0781852
+942,Ledner-Gerlach,Czech Republic,Hroznětín,584 01,664 Old Shore Avenue,5,"664 Old Shore Avenue, Hroznětín, 584 01, Czech Republic",49.7503184,15.3480679
+943,Thiel-Auer,Lithuania,Rietavas,90018,78909 Maywood Pass,8,"78909 Maywood Pass, Rietavas, 90018, Lithuania",55.7241184,21.9315699
+944,"Littel, Grant and Champlin",Switzerland,Chur,7006,128 Meadow Valley Court,6,"128 Meadow Valley Court, Chur, 7006, Switzerland",46.8507835,9.5319859
+945,Wyman-Bechtelar,Spain,Albacete,2005,50905 Pleasure Terrace,6,"50905 Pleasure Terrace, Albacete, 2005, Spain",38.9942576,-1.860173
+946,"Price, Homenick and Hayes",Portugal,Vale de Figueira,5120-463,632 Tomscot Crossing,6,"632 Tomscot Crossing, Vale de Figueira, 5120-463, Portugal",41.0925125,-7.592744
+947,Denesik Inc,France,Épinal,88099 CEDEX 9,029 Spenser Circle,6,"029 Spenser Circle, Épinal, 88099 CEDEX 9, France",48.234108,6.438231
+948,Hagenes Inc,Sweden,Markaryd,285 35,5114 Claremont Parkway,8,"5114 Claremont Parkway, Markaryd, 285 35, Sweden",56.4617744,13.5962744
+949,Lebsack-Ondricka,Portugal,Seara,5030-384,37382 Blue Bill Park Circle,6,"37382 Blue Bill Park Circle, Seara, 5030-384, Portugal",39.399872,-8.224454
+950,Daniel and Sons,Norway,Oslo,31,9 Kensington Plaza,8,"9 Kensington Plaza, Oslo, 31, Norway",59.912404,10.7559371
+952,"Lowe, Kautzer and Romaguera",Sweden,Borås,507 52,90 Lakewood Terrace,8,"90 Lakewood Terrace, Borås, 507 52, Sweden",57.7119589,12.9890358
+953,"Feest, Sauer and Jast",Sweden,Timrå,861 24,641 Gulseth Terrace,8,"641 Gulseth Terrace, Timrå, 861 24, Sweden",62.4854563,17.3248651
+954,"Ernser, Abshire and Grant",Sweden,Svenljunga,512 93,40748 Morningstar Lane,8,"40748 Morningstar Lane, Svenljunga, 512 93, Sweden",57.50831,13.1574929
+955,Kiehn and Sons,Slovenia,Poljčane,2319,74 Rockefeller Court,6,"74 Rockefeller Court, Poljčane, 2319, Slovenia",46.3141609,15.5784672
+956,Brekke LLC,Finland,Liljendal,7880,0998 Stoughton Court,8,"0998 Stoughton Court, Liljendal, 7880, Finland",60.5731637,26.0542929
+957,Streich-Padberg,Poland,Ochla,65-980,04728 Michigan Way,5,"04728 Michigan Way, Ochla, 65-980, Poland",51.919438,19.145136
+958,"Schaefer, Dicki and Jast",Croatia,Dubrava,21252,043 Marquette Junction,6,"043 Marquette Junction, Dubrava, 21252, Croatia",43.4977749,16.6495822
+959,Zemlak and Sons,Portugal,Carvalhos,4960-349,7 Sloan Park,6,"7 Sloan Park, Carvalhos, 4960-349, Portugal",41.0648114,-8.5707003
+960,Parisian Inc,Czech Republic,Náklo,783 32,01 Ohio Terrace,5,"01 Ohio Terrace, Náklo, 783 32, Czech Republic",49.6546211,17.1296944
+961,Towne-Jakubowski,Poland,Golina,62-590,5 Lakeland Court,5,"5 Lakeland Court, Golina, 62-590, Poland",52.2428641,18.0927296
+962,"Nicolas, Torp and Hayes",Sweden,Värnamo,331 54,2 Hauk Point,8,"2 Hauk Point, Värnamo, 331 54, Sweden",57.1887898,14.0089418
+964,"Daugherty, Boyle and Swift",Croatia,Omišalj,51513,5127 Blackbird Hill,6,"5127 Blackbird Hill, Omišalj, 51513, Croatia",45.2110039,14.5569253
+965,"Roob, DuBuque and Hagenes",Norway,Skien,3716,99 Marquette Avenue,8,"99 Marquette Avenue, Skien, 3716, Norway",59.1881606,9.6127694
+966,Spinka-Langosh,Norway,Elverum,2418,53676 Northfield Place,8,"53676 Northfield Place, Elverum, 2418, Norway",60.8820725,11.5624678
+967,Kuhn Inc,France,Blois,41029 CEDEX,43 Hudson Terrace,6,"43 Hudson Terrace, Blois, 41029 CEDEX, France",47.495921,1.261919
+968,Will Inc,Poland,Jelcz,91-864,37782 North Crossing,5,"37782 North Crossing, Jelcz, 91-864, Poland",51.810418,19.4590715
+970,Wisoky LLC,Croatia,Fažana,52212,9321 Bonner Avenue,6,"9321 Bonner Avenue, Fažana, 52212, Croatia",44.9248529,13.8198739
+971,McKenzie-McCullough,Finland,Lappi,27260,14495 Grayhawk Park,8,"14495 Grayhawk Park, Lappi, 27260, Finland",67.9222304,26.5046438
+972,Parisian and Sons,Poland,Borucin,47-451,3 Havey Lane,5,"3 Havey Lane, Borucin, 47-451, Poland",50.0092923,18.1578759
+973,"Paucek, Satterfield and Brown",Sweden,Lysekil,453 41,94170 Straubel Trail,8,"94170 Straubel Trail, Lysekil, 453 41, Sweden",58.275573,11.435558
+974,White-Leannon,Portugal,Santa Luzia,9940-125,7664 Barby Trail,6,"7664 Barby Trail, Santa Luzia, 9940-125, Portugal",39.399872,-8.224454
+975,Willms-Lockman,Poland,Węgorzyno,73-155,64396 Arkansas Point,5,"64396 Arkansas Point, Węgorzyno, 73-155, Poland",53.54091,15.55963
+976,Sanford LLC,Czech Republic,Volary,384 51,73966 Burning Wood Drive,5,"73966 Burning Wood Drive, Volary, 384 51, Czech Republic",48.9088164,13.8865743
+977,Rolfson Inc,Sweden,Trelleborg,231 43,91 Eastwood Way,8,"91 Eastwood Way, Trelleborg, 231 43, Sweden",55.376816,13.1536197
+978,"Stanton, Smith and Abshire",Sweden,Uppsala,751 87,4 Main Alley,8,"4 Main Alley, Uppsala, 751 87, Sweden",59.8585638,17.6389267
+979,Treutel-Rodriguez,Portugal,Água Levada,4745-380,6 Fallview Place,6,"6 Fallview Place, Água Levada, 4745-380, Portugal",41.2696994,-8.5743985
+980,Stamm-Hirthe,Sweden,Solna,171 43,1 Stang Crossing,8,"1 Stang Crossing, Solna, 171 43, Sweden",59.3558492,17.99529
+981,Rau and Sons,Poland,Sierakowice,83-340,3 Spohn Terrace,5,"3 Spohn Terrace, Sierakowice, 83-340, Poland",54.3483636,17.8948288
+982,Bechtelar LLC,Poland,Łęczyce,84-218,10 Northfield Drive,5,"10 Northfield Drive, Łęczyce, 84-218, Poland",54.592345,17.8713527
+983,Kovacek LLC,Poland,Gowarczów,26-225,0864 Kenwood Lane,5,"0864 Kenwood Lane, Gowarczów, 26-225, Poland",51.2781803,20.4380252
+984,Greenfelder-Luettgen,Portugal,Passagem,2430-632,05410 Grover Street,6,"05410 Grover Street, Passagem, 2430-632, Portugal",39.399872,-8.224454
+985,Wolf-Denesik,Poland,Nowosielce-Gniewosz,38-507,81 Marquette Plaza,5,"81 Marquette Plaza, Nowosielce-Gniewosz, 38-507, Poland",49.567787,22.0704051
+987,Zieme and Sons,Slovenia,Metlika,8330,91 Garrison Lane,6,"91 Garrison Lane, Metlika, 8330, Slovenia",45.6473994,15.3176752
+988,Kuvalis-Bahringer,Lithuania,Kybartai,70065,7 Grim Avenue,8,"7 Grim Avenue, Kybartai, 70065, Lithuania",54.639434,22.768027
+989,"Ratke, Barton and Haag",Czech Republic,Příbor,742 58,37568 Graceland Drive,5,"37568 Graceland Drive, Příbor, 742 58, Czech Republic",49.6409356,18.1449961
+990,"Hintz, Tromp and Hilpert",France,Melun,77004 CEDEX,8539 Messerschmidt Parkway,6,"8539 Messerschmidt Parkway, Melun, 77004 CEDEX, France",48.542105,2.6554
+991,"Kihn, Little and Sawayn",Croatia,Brijest,31000,9822 Meadow Valley Parkway,6,"9822 Meadow Valley Parkway, Brijest, 31000, Croatia",45.5206082,18.6747675
+992,Dooley-Kirlin,Slovenia,Hodoš,9204,77697 Summer Ridge Parkway,6,"77697 Summer Ridge Parkway, Hodoš, 9204, Slovenia",46.8314134,16.321068
+993,"Kuhn, Considine and Bartell",Portugal,Cova da Iria,2495-405,54 Northridge Center,6,"54 Northridge Center, Cova da Iria, 2495-405, Portugal",39.6332421,-8.6683768
+994,Zboncak-Botsford,Poland,Marianowo,73-121,2415 Lien Parkway,5,"2415 Lien Parkway, Marianowo, 73-121, Poland",53.3828395,15.2641634
+995,Mosciski-Spencer,Portugal,Lameira,4610-572,96879 Granby Center,6,"96879 Granby Center, Lameira, 4610-572, Portugal",39.399872,-8.224454
+996,"Ortiz, Terry and Towne",Poland,Wojcieszków,21-411,714 Gulseth Road,5,"714 Gulseth Road, Wojcieszków, 21-411, Poland",51.7683945,22.3156769
+997,"Pollich, Daugherty and Brown",Norway,Askim,1814,372 Independence Court,8,"372 Independence Court, Askim, 1814, Norway",59.5834589,11.1629005
+998,Schultz-Mertz,France,Saint-Grégoire,35763 CEDEX,2469 Killdeer Crossing,6,"2469 Killdeer Crossing, Saint-Grégoire, 35763 CEDEX, France",48.153561,-1.683146
+999,Zemlak LLC,Poland,Stanisław Dolny,34-143,9997 New Castle Point,5,"9997 New Castle Point, Stanisław Dolny, 34-143, Poland",49.9040033,19.6556326
+1000,"Miller, Kuhn and Waelchi",Czech Republic,Ostrožská Lhota,687 23,030 Grasskamp Way,5,"030 Grasskamp Way, Ostrožská Lhota, 687 23, Czech Republic",48.9755893,17.467522
+1001,Spinka-Beer,Portugal,Orvalho,6185-302,99 Division Avenue,6,"99 Division Avenue, Orvalho, 6185-302, Portugal",40.0233497,-7.7912472
+1002,"Gerlach, Swift and Kub",Poland,Drawsko Pomorskie,78-500,66 Dryden Court,5,"66 Dryden Court, Drawsko Pomorskie, 78-500, Poland",53.5316199,15.8138245
+1003,Wintheiser-Torphy,Sweden,Borås,504 31,31 Cascade Circle,8,"31 Cascade Circle, Borås, 504 31, Sweden",57.721035,12.939819
+1004,Wehner-Gislason,Poland,Gąsocin,06-440,724 Stoughton Alley,5,"724 Stoughton Alley, Gąsocin, 06-440, Poland",52.7374494,20.7171135
+1005,Lesch-Kemmer,Spain,Palma De Mallorca,7015,3 Rigney Plaza,6,"3 Rigney Plaza, Palma De Mallorca, 7015, Spain",39.5558392,2.5941239
+1006,Kilback Inc,France,Vierzon,18104 CEDEX,2 Morningstar Plaza,6,"2 Morningstar Plaza, Vierzon, 18104 CEDEX, France",47.221438,2.069791
+1007,"Steuber, Johnston and Bahringer",Sweden,Enskede,122 44,264 Westridge Lane,8,"264 Westridge Lane, Enskede, 122 44, Sweden",59.2647023,18.0890934
+1008,Jacobi Group,Portugal,Igreja,5050-401,63 Cambridge Terrace,6,"63 Cambridge Terrace, Igreja, 5050-401, Portugal",39.399872,-8.224454
+1010,Hilpert and Sons,Poland,Łęczyce,84-218,4 8th Alley,5,"4 8th Alley, Łęczyce, 84-218, Poland",54.592345,17.8713527
+1012,Reinger and Sons,United Kingdom,Merton,SW19,26666 Fordem Hill,7,"26666 Fordem Hill, Merton, SW19, United Kingdom",51.4255297,-0.2050566
+1013,"Fritsch, Wisoky and Bernhard",Poland,Kęty,32-653,7007 Mifflin Place,5,"7007 Mifflin Place, Kęty, 32-653, Poland",49.8807299,19.2228003
+1014,Kutch-Watsica,Portugal,Quinta da Torre,4920-070,7 Independence Circle,6,"7 Independence Circle, Quinta da Torre, 4920-070, Portugal",40.1394508,-7.3070209
+1015,"O'Reilly, Tillman and Bayer",Poland,Rokitno,21-504,09802 Nova Point,5,"09802 Nova Point, Rokitno, 21-504, Poland",52.1151012,23.3015591
+1016,"MacGyver, O'Kon and Anderson",Czech Republic,Tupesy,687 07,81 Trailsway Trail,5,"81 Trailsway Trail, Tupesy, 687 07, Czech Republic",49.0842687,17.3698354
+1017,"Murazik, Muller and Rodriguez",Portugal,Quinta de Valadares,2855-358,3926 Oxford Alley,6,"3926 Oxford Alley, Quinta de Valadares, 2855-358, Portugal",39.399872,-8.224454
+1018,Cummerata-Collins,Slovenia,Kranjska Gora,4280,00173 Autumn Leaf Pass,6,"00173 Autumn Leaf Pass, Kranjska Gora, 4280, Slovenia",46.4845293,13.7857145
+1019,Langworth Inc,Portugal,São Pedro,4830-264,94 Straubel Drive,6,"94 Straubel Drive, São Pedro, 4830-264, Portugal",37.7461774,-25.6568339
+1020,"Gulgowski, Osinski and Durgan",Portugal,Valongo,5400-339,62838 Stang Way,6,"62838 Stang Way, Valongo, 5400-339, Portugal",41.1887594,-8.498352
+1021,"Boyle, Rempel and Stehr",Portugal,Abade de Vermoim,4770-014,1 Springs Avenue,6,"1 Springs Avenue, Abade de Vermoim, 4770-014, Portugal",41.3926324,-8.4901984
+1022,Cronin LLC,France,La Roche-sur-Yon,85009 CEDEX,3 Cambridge Parkway,6,"3 Cambridge Parkway, La Roche-sur-Yon, 85009 CEDEX, France",46.670511,-1.426442
+1023,Parker-Abernathy,France,Massy,91309 CEDEX,62 Fulton Crossing,6,"62 Fulton Crossing, Massy, 91309 CEDEX, France",48.730756,2.27137
+1024,"Casper, Beatty and Lehner",Czech Republic,Kunčice pod Ondřejníkem,739 13,6002 Hooker Circle,5,"6002 Hooker Circle, Kunčice pod Ondřejníkem, 739 13, Czech Republic",49.5506976,18.2611351
+1025,"Lang, Blick and Donnelly",Finland,Turku,20960,8 Sachtjen Lane,8,"8 Sachtjen Lane, Turku, 20960, Finland",60.3588201,22.2240066
+1026,Labadie Inc,Sweden,Bjuv,267 35,15776 Granby Circle,8,"15776 Granby Circle, Bjuv, 267 35, Sweden",56.0871019,12.9125047
+1027,Brown-Hamill,Norway,Oslo,492,74660 Prairieview Circle,8,"74660 Prairieview Circle, Oslo, 492, Norway",59.9138688,10.7522454
+1028,"Jerde, Jacobson and Schmitt",Poland,Iłowo -Osada,11-102,79013 Boyd Street,5,"79013 Boyd Street, Iłowo -Osada, 11-102, Poland",53.1676269,20.2929527
+1029,Bogisich Group,Sweden,Degeberga,297 32,57011 Nelson Trail,8,"57011 Nelson Trail, Degeberga, 297 32, Sweden",55.8245091,14.0893767
+1030,Reichert-Leuschke,Poland,Baborów,48-120,20 Coolidge Alley,5,"20 Coolidge Alley, Baborów, 48-120, Poland",50.1581333,17.9793882
+1031,Connelly-Cremin,Czech Republic,Dobřany,518 01,047 Village Green Crossing,5,"047 Village Green Crossing, Dobřany, 518 01, Czech Republic",50.322121,16.2852974
+1032,Rosenbaum LLC,Sweden,Göteborg,404 22,93453 Petterle Road,8,"93453 Petterle Road, Göteborg, 404 22, Sweden",57.70887,11.97456
+1033,Graham-Upton,Poland,Plewiska,62-056,387 Londonderry Hill,5,"387 Londonderry Hill, Plewiska, 62-056, Poland",52.3640387,16.8060372
+1034,Gerlach-Sanford,France,Saint-Quentin-en-Yvelines,78061 CEDEX,95893 Ramsey Crossing,6,"95893 Ramsey Crossing, Saint-Quentin-en-Yvelines, 78061 CEDEX, France",48.7700557,2.0249544
+1035,Quitzon-Hyatt,Sweden,Klippan,264 36,58 Pankratz Trail,8,"58 Pankratz Trail, Klippan, 264 36, Sweden",56.1304492,13.1609554
+1036,Bogan-Emmerich,Sweden,Lidingö,181 85,54208 Lawn Court,8,"54208 Lawn Court, Lidingö, 181 85, Sweden",59.36296,18.1468
+1037,Paucek-Jast,Portugal,Vale de Figueira,2695-584,618 Orin Court,6,"618 Orin Court, Vale de Figueira, 2695-584, Portugal",38.8244458,-9.1067988
+1038,Walter-Herman,France,Balma,31139 CEDEX,61597 Lunder Court,6,"61597 Lunder Court, Balma, 31139 CEDEX, France",43.606098,1.500032
+1039,Schinner-Lueilwitz,Poland,Milówka,34-360,104 Hansons Junction,5,"104 Hansons Junction, Milówka, 34-360, Poland",49.5593676,19.086865
+1040,"Hauck, Nicolas and Bauch",Poland,Jelcz,91-864,29 Spenser Lane,5,"29 Spenser Lane, Jelcz, 91-864, Poland",51.919438,19.145136
+1041,Ritchie-Bayer,Poland,Pokój,46-034,66599 Parkside Circle,5,"66599 Parkside Circle, Pokój, 46-034, Poland",50.9623757,17.9334559
+1042,"Dietrich, Cummerata and O'Hara",Poland,Przybyszówka,36-047,66 Maryland Lane,5,"66 Maryland Lane, Przybyszówka, 36-047, Poland",50.0489571,21.9310765
+1043,"Halvorson, McKenzie and Powlowski",Poland,Lipka,77-420,0242 Dayton Circle,5,"0242 Dayton Circle, Lipka, 77-420, Poland",53.4805582,17.269579
+1044,"Goodwin, Goyette and Collier",Croatia,Sunja,44210,3 Hayes Point,6,"3 Hayes Point, Sunja, 44210, Croatia",45.3686282,16.5670285
+1045,Rogahn Group,Slovenia,Ljutomer,9240,5 Anhalt Park,6,"5 Anhalt Park, Ljutomer, 9240, Slovenia",46.5193583,16.197814
+1046,Lebsack-Prosacco,Sweden,Göteborg,412 20,42 Pennsylvania Park,8,"42 Pennsylvania Park, Göteborg, 412 20, Sweden",57.70887,11.97456
+1047,"Marquardt, Johns and Metz",Finland,Hämeenkoski,16801,19 Mosinee Plaza,8,"19 Mosinee Plaza, Hämeenkoski, 16801, Finland",61.0215248,25.1552872
+1048,Kiehn-Rohan,Czech Republic,Telč,588 62,55843 6th Avenue,5,"55843 6th Avenue, Telč, 588 62, Czech Republic",49.1832383,15.4542731
+1050,"McCullough, Hirthe and Carter",Norway,Askim,1814,1471 Dapin Road,8,"1471 Dapin Road, Askim, 1814, Norway",59.5834589,11.1629005
+1051,Macejkovic-Bergnaum,Finland,Särkisalo,25630,1280 Ridgeview Court,8,"1280 Ridgeview Court, Särkisalo, 25630, Finland",60.1129091,22.953617
+1052,"Ernser, Hand and Stoltenberg",France,Orléans,45004 CEDEX 1,337 Michigan Court,6,"337 Michigan Court, Orléans, 45004 CEDEX 1, France",44.3148443,-85.6023643
+1053,"Fahey, Brakus and Runolfsson",Poland,Januszkowice,47-330,135 Fisk Parkway,5,"135 Fisk Parkway, Januszkowice, 47-330, Poland",50.3918238,18.1372332
+1054,Funk Group,France,Orsay,91851 CEDEX,644 Mariners Cove Parkway,6,"644 Mariners Cove Parkway, Orsay, 91851 CEDEX, France",48.697161,2.189617
+1055,Reinger Inc,France,Lyon,69939 CEDEX 20,39 Vera Center,6,"39 Vera Center, Lyon, 69939 CEDEX 20, France",45.764043,4.835659
+1056,Sawayn Group,Sweden,Tomelilla,273 30,03 Anzinger Street,8,"03 Anzinger Street, Tomelilla, 273 30, Sweden",55.5449766,13.953453
+1057,Nolan Inc,Poland,Pyskowice,44-120,55 Forster Park,5,"55 Forster Park, Pyskowice, 44-120, Poland",50.3963128,18.6130671
+1058,Kerluke Group,Poland,Kwidzyn,82-505,457 Mockingbird Parkway,5,"457 Mockingbird Parkway, Kwidzyn, 82-505, Poland",53.7263529,18.9323043
+1059,Volkman-Abbott,Poland,Szczerców,97-420,32811 Straubel Hill,5,"32811 Straubel Hill, Szczerców, 97-420, Poland",51.3307349,19.1136025
+1060,"Stehr, McClure and Ferry",Lithuania,Pasvalys,39001,4549 Alpine Plaza,8,"4549 Alpine Plaza, Pasvalys, 39001, Lithuania",56.0630665,24.3955488
+1061,Franecki-Koelpin,Portugal,Marisol,2855-174,678 Warner Trail,6,"678 Warner Trail, Marisol, 2855-174, Portugal",39.399872,-8.224454
+1062,"Howe, Baumbach and Jenkins",Croatia,Jagodnjak,31324,1 Holmberg Park,6,"1 Holmberg Park, Jagodnjak, 31324, Croatia",45.7001607,18.5802168
+1063,Cummings-Shanahan,Netherlands,Vlissingen,4384,367 Springs Center,4,"367 Springs Center, Vlissingen, 4384, Netherlands",51.4588944,3.5455371
+1064,Baumbach-Price,Sweden,Bromma,167 31,88 Hoard Junction,8,"88 Hoard Junction, Bromma, 167 31, Sweden",59.3370396,17.9575718
+1065,Fritsch Group,France,Saint-Denis,93209 CEDEX,114 Welch Alley,6,"114 Welch Alley, Saint-Denis, 93209 CEDEX, France",48.936181,2.357443
+1066,"Bergnaum, Bauch and Runolfsdottir",Norway,Oslo,286,73821 Summit Alley,8,"73821 Summit Alley, Oslo, 286, Norway",59.9138688,10.7522454
+1067,"Moore, Morar and Rippin",Poland,Kuźnia Raciborska,47-420,98 Armistice Point,5,"98 Armistice Point, Kuźnia Raciborska, 47-420, Poland",50.1998469,18.2818094
+1068,"Raynor, Howe and Nader",Sweden,Stockholm,111 76,57304 Victoria Junction,8,"57304 Victoria Junction, Stockholm, 111 76, Sweden",59.3293235,18.0685808
+1069,"Quitzon, Lubowitz and Conn",Czech Republic,Jeseník,790 01,20416 Macpherson Place,5,"20416 Macpherson Place, Jeseník, 790 01, Czech Republic",50.2246249,17.1980471
+1070,Abbott-Hintz,France,Vallauris,06224 CEDEX,248 Warner Avenue,6,"248 Warner Avenue, Vallauris, 06224 CEDEX, France",43.5599692,7.0348947
+1071,Parker-Murray,Czech Republic,Jablonec nad Jizerou,512 43,8 Melvin Lane,5,"8 Melvin Lane, Jablonec nad Jizerou, 512 43, Czech Republic",50.7034692,15.4295983
+1072,Kuhic-Hintz,Portugal,Banho e Carvalhosa,4635-005,3792 Karstens Alley,6,"3792 Karstens Alley, Banho e Carvalhosa, 4635-005, Portugal",41.2371977,-8.1638851
+1073,"Will, Osinski and Schamberger",Czech Republic,Nová Cerekev,394 15,703 Karstens Plaza,5,"703 Karstens Plaza, Nová Cerekev, 394 15, Czech Republic",49.4227567,15.1059917
+1074,Bartoletti-Stehr,France,Montluçon,03104 CEDEX,4623 Vidon Center,6,"4623 Vidon Center, Montluçon, 03104 CEDEX, France",46.3350461,2.7898879
+1075,Lemke and Sons,France,Saint-Marcellin,38164 CEDEX,98 Northport Street,6,"98 Northport Street, Saint-Marcellin, 38164 CEDEX, France",45.154119,5.3199379
+1076,Dietrich Group,Czech Republic,Brněnec,569 04,4 Huxley Trail,5,"4 Huxley Trail, Brněnec, 569 04, Czech Republic",49.6273493,16.522025
+1077,Padberg and Sons,France,Blois,41942 CEDEX 9,9721 Hauk Junction,6,"9721 Hauk Junction, Blois, 41942 CEDEX 9, France",47.5860921,1.3359475
+1078,"Grant, Rosenbaum and Schuster",Czech Republic,Libušín,273 06,2829 Anderson Street,5,"2829 Anderson Street, Libušín, 273 06, Czech Republic",50.1681931,14.0545902
+1079,Osinski and Sons,Poland,Baligród,38-606,325 Bayside Street,5,"325 Bayside Street, Baligród, 38-606, Poland",49.3357569,22.2868645
+1080,Lakin Inc,France,Carcassonne,11878 CEDEX 9,22425 Rutledge Court,6,"22425 Rutledge Court, Carcassonne, 11878 CEDEX 9, France",43.2163338,2.3538776
+1082,Grant-Kshlerin,Netherlands,Eindhoven,5619,4449 Starling Park,4,"4449 Starling Park, Eindhoven, 5619, Netherlands",51.4231423,5.4622897
+1083,Gulgowski Group,Czech Republic,Velké Němčice,691 63,5 Nancy Lane,5,"5 Nancy Lane, Velké Němčice, 691 63, Czech Republic",48.9916768,16.6720861
+1084,"Rohan, Schneider and Harber",France,Paris 13,75638 CEDEX 13,843 Fairview Way,6,"843 Fairview Way, Paris 13, 75638 CEDEX 13, France",48.8261675,2.3598969
+1085,MacGyver-Lockman,France,Marseille,13348 CEDEX 20,5591 Fremont Lane,6,"5591 Fremont Lane, Marseille, 13348 CEDEX 20, France",43.3025742,5.3690743
+1086,"Adams, Hyatt and Mayert",Portugal,Valejas,2730-077,49120 Mockingbird Parkway,6,"49120 Mockingbird Parkway, Valejas, 2730-077, Portugal",38.735726,-9.2677169
+1087,"Schulist, Prosacco and Schneider",Lithuania,Utena,28001,537 8th Junction,8,"537 8th Junction, Utena, 28001, Lithuania",55.5000404,25.609385
+1088,"Heidenreich, Gerhold and Padberg",Poland,Czchów,32-860,14 Melvin Alley,5,"14 Melvin Alley, Czchów, 32-860, Poland",49.8368614,20.6802794
+1089,Wyman-Hagenes,Portugal,Figueiró dos Vinhos,3260-400,3768 Trailsway Avenue,6,"3768 Trailsway Avenue, Figueiró dos Vinhos, 3260-400, Portugal",39.906972,-8.2750089
+1090,Hills LLC,Slovenia,Bakovci,9241,28636 Fairfield Street,6,"28636 Fairfield Street, Bakovci, 9241, Slovenia",46.6173865,16.1478815
+1091,Kris-Langosh,Sweden,Ytterby,442 53,80 8th Terrace,8,"80 8th Terrace, Ytterby, 442 53, Sweden",57.855421,11.8951003
+1092,"Dibbert, Hansen and Huel",Czech Republic,Velké Pavlovice,691 06,5 Eastwood Parkway,5,"5 Eastwood Parkway, Velké Pavlovice, 691 06, Czech Republic",48.9046915,16.8160548
+1093,King-Steuber,Portugal,Canhestros,7900-495,1 Iowa Hill,6,"1 Iowa Hill, Canhestros, 7900-495, Portugal",38.0535891,-8.3197946
+1094,Kiehn Inc,Croatia,Zagreb,10020,2499 Florence Place,6,"2499 Florence Place, Zagreb, 10020, Croatia",45.7307005,15.9513163
+1095,"Blick, Frami and Schiller",Poland,Chocz,63-313,58012 Hagan Lane,5,"58012 Hagan Lane, Chocz, 63-313, Poland",51.9757979,17.8695451
+1096,Stoltenberg Inc,Portugal,Cruz,4605-431,58 Schlimgen Place,6,"58 Schlimgen Place, Cruz, 4605-431, Portugal",41.2615507,-8.1666344
+1097,Heller Group,Portugal,Amorim,4495-103,4 Fieldstone Junction,6,"4 Fieldstone Junction, Amorim, 4495-103, Portugal",41.40517,-8.7463716
+1098,"Bartell, Shanahan and Jenkins",Czech Republic,Zlín,760 01,86991 Chive Way,5,"86991 Chive Way, Zlín, 760 01, Czech Republic",49.2176397,17.6970599
+1099,Moen-Conn,Sweden,Stockholm,116 63,2902 Kinsman Parkway,8,"2902 Kinsman Parkway, Stockholm, 116 63, Sweden",59.3092322,18.0807273
+1100,Ruecker-Klein,France,Hénin-Beaumont,62254 CEDEX,635 Melrose Place,6,"635 Melrose Place, Hénin-Beaumont, 62254 CEDEX, France",50.420087,2.94728
+1101,"Nikolaus, Carroll and Corkery",Sweden,Södertälje,151 44,31 Mayfield Junction,8,"31 Mayfield Junction, Södertälje, 151 44, Sweden",59.1866631,17.622548
+1103,"West, Dickens and Quitzon",Sweden,Forshaga,667 91,4 Veith Terrace,8,"4 Veith Terrace, Forshaga, 667 91, Sweden",59.628346,13.5300661
+1104,"Dickens, Aufderhar and Graham",France,Fontenay-sous-Bois,94124 CEDEX,47 Rieder Road,6,"47 Rieder Road, Fontenay-sous-Bois, 94124 CEDEX, France",48.851542,2.475907
+1105,"Okuneva, Hane and Sauer",Poland,Białaczów,26-307,05594 Golf View Trail,5,"05594 Golf View Trail, Białaczów, 26-307, Poland",51.2981731,20.2965362
+1106,"Rutherford, Kuvalis and Nader",Sweden,Linköping,589 00,99 Pond Park,8,"99 Pond Park, Linköping, 589 00, Sweden",58.410807,15.6213727
+1107,"Lowe, Schiller and Windler",France,Albi,81028 CEDEX 9,1493 Packers Circle,6,"1493 Packers Circle, Albi, 81028 CEDEX 9, France",43.9248689,2.1486789
+1108,"Abbott, Hegmann and Stracke",Norway,Oslo,581,3365 Truax Plaza,8,"3365 Truax Plaza, Oslo, 581, Norway",59.912404,10.7559371
+1109,Ankunding-Waters,Portugal,Moscavide,1885-029,0 Declaration Terrace,6,"0 Declaration Terrace, Moscavide, 1885-029, Portugal",38.7760203,-9.1024092
+1110,Bergstrom-Wisoky,Sweden,Sandviken,811 40,40 Fairfield Plaza,8,"40 Fairfield Plaza, Sandviken, 811 40, Sweden",60.6304039,16.76232
+1111,Roberts Group,Poland,Mogilany,32-031,3 Maywood Hill,5,"3 Maywood Hill, Mogilany, 32-031, Poland",49.9394623,19.8896432
+1112,"Rogahn, Wisoky and Larson",United Kingdom,Milton,NG22,199 Northfield Pass,7,"199 Northfield Pass, Milton, NG22, United Kingdom",53.248446,-0.934063
+1113,Collins Group,Poland,Dębowiec,43-426,946 Barnett Crossing,5,"946 Barnett Crossing, Dębowiec, 43-426, Poland",49.8134941,18.7202795
+1114,Bradtke-Purdy,France,Paris 08,75390 CEDEX 08,7792 Butternut Avenue,6,"7792 Butternut Avenue, Paris 08, 75390 CEDEX 08, France",48.8689621,2.3101408
+1115,Nienow-Simonis,France,Pantin,93504 CEDEX,0424 Coolidge Alley,6,"0424 Coolidge Alley, Pantin, 93504 CEDEX, France",48.894533,2.40963
+1116,Mraz and Sons,Czech Republic,Miřetice,539 55,45 Ryan Junction,5,"45 Ryan Junction, Miřetice, 539 55, Czech Republic",49.835457,15.887635
+1118,"Walsh, O'Connell and Weber",Sweden,Vaxholm,185 31,5 Bellgrove Lane,8,"5 Bellgrove Lane, Vaxholm, 185 31, Sweden",59.4015532,18.3427724
+1119,Heaney Group,Sweden,Nacka,131 83,78 Alpine Way,8,"78 Alpine Way, Nacka, 131 83, Sweden",62.4729716,17.4154761
+1122,"Farrell, Weimann and Predovic",Portugal,Guimarei,4825-171,53 Morrow Alley,6,"53 Morrow Alley, Guimarei, 4825-171, Portugal",41.3006886,-8.478776
+1123,Schneider Inc,Czech Republic,Moravský Krumlov,672 01,9 Northridge Trail,5,"9 Northridge Trail, Moravský Krumlov, 672 01, Czech Republic",49.0337963,16.2983865
+1125,"Berge, O'Reilly and Hayes",Slovenia,Velenje,3504,78198 Blaine Pass,6,"78198 Blaine Pass, Velenje, 3504, Slovenia",46.3622743,15.1106582
+1126,Kub Inc,France,Le Havre,76600,7 Schlimgen Trail,6,"7 Schlimgen Trail, Le Havre, 76600, France",49.476996,0.1639479
+1128,"Bode, Ullrich and Gutmann",Czech Republic,Nedašov,763 32,26789 Pennsylvania Alley,5,"26789 Pennsylvania Alley, Nedašov, 763 32, Czech Republic",49.1077842,18.0703677
+1129,"Ebert, Schuster and Ernser",Czech Republic,Čížkovice,411 12,1217 Randy Place,5,"1217 Randy Place, Čížkovice, 411 12, Czech Republic",50.4848926,14.0286944
+1131,"Price, Cruickshank and Hodkiewicz",Sweden,Kista,164 91,676 Sullivan Point,8,"676 Sullivan Point, Kista, 164 91, Sweden",59.4033695,17.9443213
+1132,Ward-Rowe,Sweden,Frösön,832 47,2 Longview Avenue,8,"2 Longview Avenue, Frösön, 832 47, Sweden",63.1958424,14.5293004
+1133,"Wuckert, Ferry and Reichel",Sweden,Örnsköldsvik,891 25,853 Washington Center,8,"853 Washington Center, Örnsköldsvik, 891 25, Sweden",63.2900474,18.7166166
+1134,Gulgowski-Hintz,Croatia,Semeljci,31402,91048 Truax Place,6,"91048 Truax Place, Semeljci, 31402, Croatia",45.3613644,18.5422142
+1136,"Brekke, Simonis and Jerde",Norway,Haugesund,5518,6140 Sutteridge Drive,8,"6140 Sutteridge Drive, Haugesund, 5518, Norway",59.4388399,5.3184101
+1137,Lind-Wisozk,France,Lyon,69464 CEDEX 06,645 Ludington Drive,6,"645 Ludington Drive, Lyon, 69464 CEDEX 06, France",45.764043,4.835659
+1138,Casper-Durgan,Netherlands,Alkmaar,1814,122 Tennessee Plaza,4,"122 Tennessee Plaza, Alkmaar, 1814, Netherlands",52.6323813,4.7533754
+1139,"Brakus, Hintz and Deckow",Poland,Glinojeck,06-450,29 Sherman Junction,5,"29 Sherman Junction, Glinojeck, 06-450, Poland",52.81954,20.29179
+1140,Murray-Stracke,Netherlands,Amsterdam Westpoort,1049,774 Mcbride Pass,4,"774 Mcbride Pass, Amsterdam Westpoort, 1049, Netherlands",52.4055632,4.8005664
+1141,Grady-Bernhard,Poland,Siedleczka,37-230,44925 Ronald Regan Place,5,"44925 Ronald Regan Place, Siedleczka, 37-230, Poland",49.9656559,22.3697919
+1142,Brown LLC,France,La Valette-du-Var,83164 CEDEX,13455 Gulseth Street,6,"13455 Gulseth Street, La Valette-du-Var, 83164 CEDEX, France",43.13824,5.9875844
+1143,Dickinson LLC,Sweden,Enskededalen,121 32,820 Vermont Alley,8,"820 Vermont Alley, Enskededalen, 121 32, Sweden",59.2806694,18.1074041
+1144,Champlin Inc,Portugal,Sobral,2530-285,63754 Holmberg Drive,6,"63754 Holmberg Drive, Sobral, 2530-285, Portugal",39.399872,-8.224454
+1145,Grant Group,Sweden,Uddevalla,451 61,263 Mifflin Road,8,"263 Mifflin Road, Uddevalla, 451 61, Sweden",58.3498003,11.935649
+1146,Graham-Waelchi,Portugal,Sete Cidades,9555-197,08904 Harbort Drive,6,"08904 Harbort Drive, Sete Cidades, 9555-197, Portugal",37.8589492,-25.7944989
+1148,Casper Group,Portugal,Quinta da Torre,4920-070,763 Cody Terrace,6,"763 Cody Terrace, Quinta da Torre, 4920-070, Portugal",40.1394508,-7.3070209
+1149,Okuneva Inc,Hungary,Budapest,1024,8 Porter Road,5,"8 Porter Road, Budapest, 1024, Hungary",47.497912,19.040235
+1150,"Marvin, Kemmer and Kling",Poland,Podwilk,34-722,940 Darwin Alley,5,"940 Darwin Alley, Podwilk, 34-722, Poland",49.5360869,19.7217128
+1151,"Orn, Trantow and Bins",Sweden,Oxelösund,613 81,852 5th Parkway,8,"852 5th Parkway, Oxelösund, 613 81, Sweden",58.6754851,17.0749546
+1152,Kunze-Johns,Portugal,Torre,6320-475,668 Karstens Junction,6,"668 Karstens Junction, Torre, 6320-475, Portugal",39.399872,-8.224454
+1153,Pfannerstill Inc,Poland,Kalej,42-293,6 Briar Crest Street,5,"6 Briar Crest Street, Kalej, 42-293, Poland",50.8375531,18.9933181
+1154,Crooks-Haley,Poland,Stryszów,34-146,5 Orin Lane,5,"5 Orin Lane, Stryszów, 34-146, Poland",49.8252311,19.6253775
+1155,"Zieme, Altenwerth and Nitzsche",France,Montpellier,34087 CEDEX 4,19308 Kenwood Point,6,"19308 Kenwood Point, Montpellier, 34087 CEDEX 4, France",43.543483,3.699367
+1156,"O'Keefe, Rippin and Jakubowski",Portugal,Abelheira,2530-063,0 Menomonie Parkway,6,"0 Menomonie Parkway, Abelheira, 2530-063, Portugal",39.2819438,-9.3053663
+1157,Lowe-Ziemann,Portugal,Passagem,2430-632,5 Troy Avenue,6,"5 Troy Avenue, Passagem, 2430-632, Portugal",39.399872,-8.224454
+1158,Beier-Bogan,Portugal,Pego Longo,2605-150,65355 Kensington Point,6,"65355 Kensington Point, Pego Longo, 2605-150, Portugal",38.770488,-9.257679
+1159,Balistreri and Sons,Croatia,Novi Zagreb,10020,4795 Morning Junction,6,"4795 Morning Junction, Novi Zagreb, 10020, Croatia",45.7307005,15.9513163
+1160,"Schmitt, Walter and Glover",Portugal,Luso,3050-225,84 Barnett Road,6,"84 Barnett Road, Luso, 3050-225, Portugal",40.3853464,-8.380125
+1161,Abbott-Schmitt,France,Nantes,44004 CEDEX 1,1265 Gerald Drive,6,"1265 Gerald Drive, Nantes, 44004 CEDEX 1, France",47.218371,-1.553621
+1162,Bruen Inc,Poland,Maszewo Duże,09-412,0696 Rusk Street,5,"0696 Rusk Street, Maszewo Duże, 09-412, Poland",52.579839,19.629536
+1163,Kshlerin LLC,Poland,Wiśniewo,06-521,364 Northport Way,5,"364 Northport Way, Wiśniewo, 06-521, Poland",53.0651548,20.3482376
+1164,Bergnaum Inc,Czech Republic,Pacov,571 01,75 Basil Parkway,5,"75 Basil Parkway, Pacov, 571 01, Czech Republic",49.701827,16.6860132
+1166,Leuschke and Sons,Sweden,Kalmar,392 47,639 Hoffman Plaza,8,"639 Hoffman Plaza, Kalmar, 392 47, Sweden",56.6634447,16.356779
+1167,Effertz Group,Finland,Kronoby,1760,4340 Mallory Parkway,8,"4340 Mallory Parkway, Kronoby, 1760, Finland",63.7279966,23.0337462
+1169,"Langosh, Buckridge and Reynolds",Poland,Lubowidz,09-304,0171 Red Cloud Center,5,"0171 Red Cloud Center, Lubowidz, 09-304, Poland",53.127104,19.8321056
+1170,Considine-Kutch,Portugal,Tojal,4620-931,76 Gateway Trail,6,"76 Gateway Trail, Tojal, 4620-931, Portugal",39.399872,-8.224454
+1171,"Hayes, Stamm and Kerluke",Spain,Ceuta,51005,465 Kenwood Trail,6,"465 Kenwood Trail, Ceuta, 51005, Spain",35.8893874,-5.3213455
+1172,Bailey and Sons,Poland,Stara Kornica,08-205,021 Gulseth Court,5,"021 Gulseth Court, Stara Kornica, 08-205, Poland",52.1741837,22.9436435
+1173,Haag-Greenfelder,Portugal,Paderne,8200-510,19963 Transport Street,6,"19963 Transport Street, Paderne, 8200-510, Portugal",37.1764814,-8.201073
+1174,"Bauch, Kautzer and Hackett",Portugal,Fradelos,4705-676,4 Harbort Road,6,"4 Harbort Road, Fradelos, 4705-676, Portugal",41.5047902,-8.4776032
+1175,Muller-Kautzer,Sweden,Skövde,541 45,4321 Little Fleur Terrace,8,"4321 Little Fleur Terrace, Skövde, 541 45, Sweden",58.3902782,13.8461208
+1176,Bashirian-Reinger,Poland,Nieborów,99-416,27661 Cody Alley,5,"27661 Cody Alley, Nieborów, 99-416, Poland",52.0688185,20.0695934
+1177,Schuppe-Upton,Norway,Bodø,8010,9082 Sugar Court,8,"9082 Sugar Court, Bodø, 8010, Norway",67.286069,14.418571
+1178,Ledner Group,Poland,Nowy Dwór Mazowiecki,05-160,70896 Linden Junction,5,"70896 Linden Junction, Nowy Dwór Mazowiecki, 05-160, Poland",52.4402166,20.6734184
+1180,Mayer and Sons,Sweden,Hässleholm,281 23,9 Moland Lane,8,"9 Moland Lane, Hässleholm, 281 23, Sweden",56.1589145,13.7667655
+1182,"Wolf, Pfeffer and Sauer",Portugal,Albergaria,3040-555,7948 Briar Crest Drive,6,"7948 Briar Crest Drive, Albergaria, 3040-555, Portugal",40.1694467,-8.4784931
+1183,Johns Group,Poland,Nowy Korczyn,28-136,03 Kinsman Crossing,5,"03 Kinsman Crossing, Nowy Korczyn, 28-136, Poland",50.3010266,20.8074789
+1184,Jacobs-McGlynn,Portugal,Paranho,4785-266,05 Moose Junction,6,"05 Moose Junction, Paranho, 4785-266, Portugal",41.3378639,-8.5497542
+1185,Batz Inc,Finland,Jäppilä,77570,077 Bonner Parkway,8,"077 Bonner Parkway, Jäppilä, 77570, Finland",62.3786184,27.4345665
+1186,"Windler, Hirthe and Bayer",Sweden,Kalmar,391 21,5 Comanche Trail,8,"5 Comanche Trail, Kalmar, 391 21, Sweden",56.6634447,16.356779
+1187,Quigley-Harber,France,Beauvais,60022 CEDEX,0 Duke Crossing,6,"0 Duke Crossing, Beauvais, 60022 CEDEX, France",49.4295387,2.0807123
+1188,Lehner Group,Poland,Laliki,04-358,1 Spenser Parkway,5,"1 Spenser Parkway, Laliki, 04-358, Poland",49.533395,19.0052586
+1189,Wolf Inc,Portugal,Pinhal da Marquesa,2950-577,7507 Buhler Way,6,"7507 Buhler Way, Pinhal da Marquesa, 2950-577, Portugal",38.5891087,-8.9963252
+1190,"Nolan, Marks and Hagenes",Italy,Mestre,30175,7945 Rieder Avenue,6,"7945 Rieder Avenue, Mestre, 30175, Italy",45.469429,12.2400678
+1191,Gibson-Wisoky,Czech Republic,Uherský Brod,688 01,751 Dawn Plaza,5,"751 Dawn Plaza, Uherský Brod, 688 01, Czech Republic",49.0225427,17.6411818
+1192,Schmitt-Hudson,France,Niort,79099 CEDEX 9,778 Golden Leaf Avenue,6,"778 Golden Leaf Avenue, Niort, 79099 CEDEX 9, France",46.323716,-0.464777
+1193,Bogisich and Sons,Portugal,Calvos,4810-804,913 Fuller Drive,6,"913 Fuller Drive, Calvos, 4810-804, Portugal",41.4030479,-8.2430192
+1194,Oberbrunner-Haag,Czech Republic,Rumburk,407 53,43 Esch Lane,5,"43 Esch Lane, Rumburk, 407 53, Czech Republic",50.953425,14.5551548
+1195,"Prohaska, Jones and Hilpert",Poland,Długosiodło,07-210,66 Knutson Plaza,5,"66 Knutson Plaza, Długosiodło, 07-210, Poland",52.7591559,21.5923706
+1196,Rempel and Sons,Portugal,Monte Redondo,2565-522,49 Hoepker Avenue,6,"49 Hoepker Avenue, Monte Redondo, 2565-522, Portugal",39.1168675,-9.2011356
+1197,Nicolas Inc,Portugal,Chãos,4690-805,6 Dorton Avenue,6,"6 Dorton Avenue, Chãos, 4690-805, Portugal",39.399872,-8.224454
+1198,"Leannon, Mayert and Spencer",Italy,Firenze,50136,11297 Forest Run Alley,6,"11297 Forest Run Alley, Firenze, 50136, Italy",43.7668053,11.2991498
+1199,Schinner Group,Poland,Dębno,74-400,5 Forest Run Place,5,"5 Forest Run Place, Dębno, 74-400, Poland",52.7542438,14.6819682
+1200,Ernser Inc,Poland,Krasnystaw,22-300,6 Hoffman Circle,5,"6 Hoffman Circle, Krasnystaw, 22-300, Poland",50.98411,23.17194
+1201,Murphy-Metz,Poland,Praszka,46-320,92687 Ilene Crossing,5,"92687 Ilene Crossing, Praszka, 46-320, Poland",51.05359,18.4535
+1202,Pfeffer Inc,Denmark,København,1656,168 Doe Crossing Place,8,"168 Doe Crossing Place, København, 1656, Denmark",55.6760968,12.5683371
+1203,Schuster-Price,France,Paris 13,75706 CEDEX 13,78883 Summer Ridge Pass,6,"78883 Summer Ridge Pass, Paris 13, 75706 CEDEX 13, France",48.8261675,2.3598969
+1204,Fay and Sons,Czech Republic,Sobotín,788 16,756 Ridgeway Drive,5,"756 Ridgeway Drive, Sobotín, 788 16, Czech Republic",50.0116973,17.0907562
+1205,"Swaniawski, Larson and Hahn",Slovenia,Beltinci,9231,25 Crownhardt Alley,6,"25 Crownhardt Alley, Beltinci, 9231, Slovenia",46.6079153,16.2365127
+1206,Sporer Group,Portugal,Casal de São João,3040-704,21029 Garrison Terrace,6,"21029 Garrison Terrace, Casal de São João, 3040-704, Portugal",40.1620298,-8.4363885
+1207,"Funk, Rempel and Bernhard",Croatia,Baška Voda,21320,95336 Pankratz Junction,6,"95336 Pankratz Junction, Baška Voda, 21320, Croatia",43.3572645,16.9520477
+1209,"Tremblay, Roob and Rolfson",Croatia,Krapina,49000,8379 Luster Pass,6,"8379 Luster Pass, Krapina, 49000, Croatia",46.160492,15.8724103
+1210,Adams and Sons,Poland,Głogów Małopolski,36-060,71 Elmside Terrace,5,"71 Elmside Terrace, Głogów Małopolski, 36-060, Poland",50.1512,21.96286
+1211,Marks and Sons,Sweden,Bromma,168 37,8 Vermont Circle,8,"8 Vermont Circle, Bromma, 168 37, Sweden",59.3347189,17.9346454
+1212,"Hermann, Abernathy and Champlin",Finland,Punkaharju,58501,99 Waubesa Center,8,"99 Waubesa Center, Punkaharju, 58501, Finland",61.7559118,29.3930643
+1213,"Hahn, DuBuque and Lubowitz",Portugal,Quintãs,3505-556,0 Garrison Trail,6,"0 Garrison Trail, Quintãs, 3505-556, Portugal",40.7149163,-7.8068851
+1214,"Lind, Pfeffer and Schultz",Spain,"Palmas De Gran Canaria, Las",35005,76 Fuller Terrace,6,"76 Fuller Terrace, Palmas De Gran Canaria, Las, 35005, Spain",28.1235459,-15.4362574
+1215,Dicki-Rice,Czech Republic,Bludov,789 61,342 Bultman Junction,5,"342 Bultman Junction, Bludov, 789 61, Czech Republic",49.9410159,16.9280114
+1216,Rice LLC,Czech Republic,Humpolec,342 01,92076 Warrior Court,5,"92076 Warrior Court, Humpolec, 342 01, Czech Republic",49.5415238,15.3593232
+1217,"Mayert, Boehm and Bergstrom",France,Besançon,25024 CEDEX,39102 Myrtle Place,6,"39102 Myrtle Place, Besançon, 25024 CEDEX, France",46.947668,6.377792
+1218,Boyer-Carroll,Norway,Sandnes,4396,3180 Morrow Pass,8,"3180 Morrow Pass, Sandnes, 4396, Norway",58.8532585,5.7329455
+1219,"Streich, Will and Von",Poland,Trzebinia,32-541,89 Sunnyside Junction,5,"89 Sunnyside Junction, Trzebinia, 32-541, Poland",50.15847,19.4694
+1220,"McGlynn, Crooks and Runolfsdottir",Sweden,Farsta,123 57,1 Lighthouse Bay Point,8,"1 Lighthouse Bay Point, Farsta, 123 57, Sweden",59.2542829,18.0787787
+1221,Legros and Sons,Portugal,Santo Amador,7875-254,25659 Weeping Birch Plaza,6,"25659 Weeping Birch Plaza, Santo Amador, 7875-254, Portugal",38.1372534,-7.3091043
+1222,Lehner LLC,Sweden,Eskilstuna,632 32,10 Parkside Crossing,8,"10 Parkside Crossing, Eskilstuna, 632 32, Sweden",59.3573204,16.4823589
+1223,Cummings-Schroeder,France,La Garde,83953 CEDEX,2738 Doe Crossing Junction,6,"2738 Doe Crossing Junction, La Garde, 83953 CEDEX, France",43.128777,6.017199
+1224,"Stoltenberg, Schaden and Grimes",Portugal,Alcabideche,2645-024,6285 Myrtle Plaza,6,"6285 Myrtle Plaza, Alcabideche, 2645-024, Portugal",38.7285284,-9.4069248
+1225,"Hansen, Adams and Auer",Portugal,Duas Igrejas,3700-819,99851 Colorado Way,6,"99851 Colorado Way, Duas Igrejas, 3700-819, Portugal",41.2404041,-8.3760214
+1226,"Pacocha, Powlowski and Runte",Portugal,Fojo,4650-071,1305 Butternut Court,6,"1305 Butternut Court, Fojo, 4650-071, Portugal",41.336626,-8.2322355
+1227,Kunde LLC,Portugal,Lapa do Lobo,3525-606,66 Golden Leaf Center,6,"66 Golden Leaf Center, Lapa do Lobo, 3525-606, Portugal",40.4709245,-7.9185148
